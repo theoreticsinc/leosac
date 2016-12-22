@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d5/d9f/classLeosac_1_1Tasks_1_1Task.html" title="A base class for a tasks. " alt="" coords="5,163,149,190"/>
+<area shape="rect" id="node2" href="$df/d6f/classLeosac_1_1Tasks_1_1FetchRemoteConfig.html" title="Fetch the configuration from master server. " alt="" coords="204,5,404,47"/>
+<area shape="rect" id="node3" href="$d2/d01/classLeosac_1_1Tasks_1_1GenericTask.html" title="This task type is used whenever a lambda is passed to the scheduler. " alt="" coords="207,71,401,98"/>
+<area shape="rect" id="node4" href="$d8/dfe/classLeosac_1_1Tasks_1_1GetLocalConfigVersion.html" title="Run in the main thread and retrieve the current configuration version. " alt="" coords="197,123,411,164"/>
+<area shape="rect" id="node5" href="$db/d83/classLeosac_1_1Tasks_1_1GetRemoteConfigVersion.html" title="Fetch the configuration version of the master server. " alt="" coords="209,188,399,229"/>
+<area shape="rect" id="node6" href="$dd/dd2/classLeosac_1_1Tasks_1_1RemoteControlAsyncResponse.html" title="This task represent an asynchronous response that shall be sent over the Remote Control router socket..." alt="" coords="198,253,410,295"/>
+<area shape="rect" id="node7" href="$d1/d4a/classLeosac_1_1Tasks_1_1SyncConfig.html" title="Sync the configuration using the configuration fetched from the master server. " alt="" coords="210,319,398,346"/>
+</map>

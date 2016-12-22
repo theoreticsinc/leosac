@@ -1,0 +1,9 @@
+<map id="Leosac::Audit::UpdateEvent" name="Leosac::Audit::UpdateEvent">
+<area shape="rect" id="node2" href="$d4/d99/classLeosac_1_1Audit_1_1IUpdateEvent.html" title="Interface for update&#45;related event. " alt="" coords="515,249,705,275"/>
+<area shape="rect" id="node3" href="$d1/d44/classLeosac_1_1Audit_1_1IAuditEntry.html" title="Base interface to Audit object. " alt="" coords="228,250,403,277"/>
+<area shape="rect" id="node5" href="$d0/d20/classLeosac_1_1Audit_1_1AuditEntry.html" title="Implementation of IAuditEntry, backed by ODB. " alt="" coords="525,153,695,179"/>
+<area shape="rect" id="node4" href="$d0/d33/classLeosac_1_1Tools_1_1IVisitable.html" title="Base class to make an object visitable. " alt="" coords="5,250,172,277"/>
+<area shape="rect" id="node8" href="$dd/d95/classLeosac_1_1Tools_1_1ElapsedTimeCounter.html" title="This class provide a simple to get the elapsed time since it&#39;s creation. " alt="" coords="221,123,409,164"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="275,189,355,215"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="25,181,152,223"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Leosac::Module::Doorman::DoormanInstance" name="Leosac::Module::Doorman::DoormanInstance">
+<area shape="rect" id="node3" title="STL class. " alt="" coords="192,253,279,280"/>
+<area shape="rect" id="node6" href="$da/d0c/structLeosac_1_1Module_1_1Doorman_1_1DoormanAction.html" title="Helper struct to wrap an &quot;action&quot;. " alt="" coords="832,322,1021,363"/>
+<area shape="rect" id="node9" href="$df/d9f/classLeosac_1_1Module_1_1BaseModule.html" title="Base class for module implementation. " alt="" coords="403,152,610,179"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="5,246,143,287"/>
+<area shape="rect" id="node8" href="$da/dd6/classLeosac_1_1Module_1_1Doorman_1_1DoormanModule.html" title="Main class for the module, it create handlers and run them to, well, handle events and send command..." alt="" coords="832,98,1021,139"/>
+</map>

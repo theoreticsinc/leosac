@@ -1,0 +1,8 @@
+<map id="PermissionDenied" name="PermissionDenied">
+<area shape="rect" id="node2" href="$d7/d0e/classLEOSACException.html" title="A base class for Leosac specific exception. " alt="" coords="87,512,223,539"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="5,423,117,449"/>
+<area shape="rect" id="node4" href="$d2/de3/classLeosac_1_1Tools_1_1Stacktrace.html" title="Store information about a stacktrace at a given point in the program execution. " alt="" coords="203,423,386,449"/>
+<area shape="rect" id="node6" href="$d8/d1d/structLeosac_1_1Tools_1_1Stacktrace_1_1Frame.html" title="Leosac::Tools::Stacktrace\l::Frame" alt="" coords="213,200,395,241"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="133,96,219,123"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="107,5,245,47"/>
+</map>

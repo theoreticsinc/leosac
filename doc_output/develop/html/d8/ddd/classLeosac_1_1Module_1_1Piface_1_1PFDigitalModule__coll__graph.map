@@ -1,0 +1,10 @@
+<map id="Leosac::Module::Piface::PFDigitalModule" name="Leosac::Module::Piface::PFDigitalModule">
+<area shape="rect" id="node2" href="$df/d9f/classLeosac_1_1Module_1_1BaseModule.html" title="Base class for module implementation. " alt="" coords="498,75,693,101"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="245,21,325,48"/>
+<area shape="rect" id="node7" href="$dc/d4b/structPFDigitalPin.html" title="This is a implementation class. " alt="" coords="548,5,643,32"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="5,14,132,55"/>
+<area shape="rect" id="node8" href="$d6/d10/classLeosac_1_1Module_1_1Piface_1_1WSHelperThread.html" title="Leosac::Module::Piface\l::WSHelperThread" alt="" coords="813,135,971,177"/>
+<area shape="rect" id="node9" href="$d8/daf/classLeosac_1_1Module_1_1WebSockAPI_1_1BaseModuleSupportThread.html" title="Leosac::Module::WebSockAPI\l::BaseModuleSupportThread\l\&lt; ModuleParameters \&gt;" alt="" coords="495,155,696,211"/>
+<area shape="rect" id="node11" href="$d8/d05/structLeosac_1_1Module_1_1Piface_1_1ModuleParameters.html" title="Some ~const parameter that are required to process websocket requests. " alt="" coords="205,209,364,250"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="27,281,111,308"/>
+</map>

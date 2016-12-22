@@ -1,0 +1,8 @@
+<map id="Leosac::Module::LedBuzzer::LEDBuzzerModule" name="Leosac::Module::LedBuzzer::LEDBuzzerModule">
+<area shape="rect" id="node2" href="$df/d9f/classLeosac_1_1Module_1_1BaseModule.html" title="Base class for module implementation. " alt="" coords="988,59,1183,86"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="749,13,829,39"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="472,5,599,47"/>
+<area shape="rect" id="node7" href="$d1/d5f/classLeosac_1_1Module_1_1LedBuzzer_1_1WSHelperThread.html" title="Leosac::Module::LedBuzzer\l::WSHelperThread" alt="" coords="697,117,881,159"/>
+<area shape="rect" id="node8" href="$d8/daf/classLeosac_1_1Module_1_1WebSockAPI_1_1BaseModuleSupportThread.html" title="Leosac::Module::WebSockAPI\l::BaseModuleSupportThread\&lt; int \&gt;" alt="" coords="423,117,648,159"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="5,166,89,193"/>
+</map>

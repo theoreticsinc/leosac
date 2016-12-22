@@ -1,0 +1,7 @@
+<map id="Leosac::Module::Wiegand::Strategy::PinReading" name="Leosac::Module::Wiegand::Strategy::PinReading">
+<area shape="rect" id="node2" href="$d5/d39/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1WiegandStrategy.html" title="The multiple modes available to wiegand reader are implemented through the strategy pattern..." alt="" coords="5,71,207,112"/>
+<area shape="rect" id="node3" href="$d7/d64/classLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderImpl.html" title="An implementation class that represents a Wiegand Reader. " alt="" coords="595,225,777,267"/>
+<area shape="rect" id="node5" href="$db/df5/classLeosac_1_1Hardware_1_1FLED.html" title="A Facade to a LED object. " alt="" coords="18,239,194,266"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="331,331,418,358"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="37,324,175,365"/>
+</map>

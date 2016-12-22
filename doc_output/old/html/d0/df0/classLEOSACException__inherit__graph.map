@@ -1,0 +1,20 @@
+<map id="LEOSACException" name="LEOSACException">
+<area shape="rect" id="node3" href="$db/ddb/classConfigException.html" title="ConfigException" alt="" coords="392,5,516,32"/>
+<area shape="rect" id="node4" href="$d2/ded/classCoreException.html" title="CoreException" alt="" coords="397,56,511,83"/>
+<area shape="rect" id="node5" href="$da/db5/classDeviceException.html" title="DeviceException" alt="" coords="391,107,517,133"/>
+<area shape="rect" id="node6" href="$d9/d66/classDynLibException.html" title="DynLibException" alt="" coords="391,157,517,184"/>
+<area shape="rect" id="node7" href="$d7/d27/classFsException.html" title="FsException" alt="" coords="405,208,503,235"/>
+<area shape="rect" id="node8" href="$d5/d5e/classGpioException.html" title="GpioException" alt="" coords="397,259,511,285"/>
+<area shape="rect" id="node9" href="$d8/d1b/classLeosac_1_1EntityNotFound.html" title="Leosac::EntityNotFound" alt="" coords="367,309,541,336"/>
+<area shape="rect" id="node10" href="$d0/d12/classLeosac_1_1Ex_1_1Config.html" title="An exception related to configuration. " alt="" coords="385,360,523,387"/>
+<area shape="rect" id="node11" href="$d7/d34/classLeosac_1_1Module_1_1WebSockAPI_1_1InvalidCall.html" title="Leosac::Module::WebSockAPI\l::InvalidCall" alt="" coords="351,411,557,453"/>
+<area shape="rect" id="node12" href="$d3/da4/classLeosac_1_1Module_1_1WebSockAPI_1_1MalformedMessage.html" title="Leosac::Module::WebSockAPI\l::MalformedMessage" alt="" coords="351,477,557,518"/>
+<area shape="rect" id="node13" href="$d8/da2/classLeosac_1_1Module_1_1WebSockAPI_1_1SessionAborted.html" title="Leosac::Module::WebSockAPI\l::SessionAborted" alt="" coords="351,542,557,583"/>
+<area shape="rect" id="node14" href="$d9/d76/classLeosac_1_1RegistryKeyNotFoundException.html" title="Leosac::RegistryKeyNotFound\lException" alt="" coords="349,607,559,649"/>
+<area shape="rect" id="node15" href="$d0/d5e/classModelException.html" title="An exception class for general API error. " alt="" coords="393,673,515,700"/>
+<area shape="rect" id="node16" href="$df/d5f/classModuleException.html" title="ModuleException" alt="" coords="389,724,519,751"/>
+<area shape="rect" id="node17" href="$df/d65/classPermissionDenied.html" title="An exception that can be throw when the permission for a given operation is denied. " alt="" coords="385,775,523,801"/>
+<area shape="rect" id="node18" href="$d4/d56/classScriptException.html" title="ScriptException" alt="" coords="393,825,515,852"/>
+<area shape="rect" id="node19" href="$db/d24/classSignalException.html" title="SignalException" alt="" coords="393,876,515,903"/>
+<area shape="rect" id="node2" title="STL class. " alt="" coords="5,419,117,445"/>
+</map>

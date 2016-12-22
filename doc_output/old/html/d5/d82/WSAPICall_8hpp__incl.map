@@ -1,0 +1,17 @@
+<map id="src/core/audit/WSAPICall.hpp" name="src/core/audit/WSAPICall.hpp">
+<area shape="rect" id="node2" href="$d4/d93/AuditEntry_8hpp.html" title="AuditEntry.hpp" alt="" coords="736,80,850,107"/>
+<area shape="rect" id="node29" href="$dd/dd8/IWSAPICall_8hpp.html" title="core/audit/IWSAPICall.hpp" alt="" coords="96,229,280,256"/>
+<area shape="rect" id="node3" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="1139,386,1314,413"/>
+<area shape="rect" id="node8" href="$d3/dd8/IAuditEntry_8hpp.html" title="core/audit/IAuditEntry.hpp" alt="" coords="736,304,922,331"/>
+<area shape="rect" id="node9" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="946,386,1115,413"/>
+<area shape="rect" id="node15" href="$d6/d65/ElapsedTimeCounter_8hpp.html" title="tools/ElapsedTimeCounter.hpp" alt="" coords="308,155,524,181"/>
+<area shape="rect" id="node17" href="$df/da2/database_8hpp.html" title="tools/db/database.hpp" alt="" coords="625,155,790,181"/>
+<area shape="rect" id="node10" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="1338,386,1480,413"/>
+<area shape="rect" id="node11" href="$d2/d91/Visitor_8hpp.html" title="tools/Visitor.hpp" alt="" coords="1322,468,1446,495"/>
+<area shape="rect" id="node18" href="$d9/d69/db__fwd_8hpp.html" title="db_fwd.hpp" alt="" coords="324,304,419,331"/>
+<area shape="rect" id="node21" href="$d0/dee/DBService_8hpp.html" title="tools/db/DBService.hpp" alt="" coords="445,229,616,256"/>
+<area shape="rect" id="node22" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="728,379,922,420"/>
+<area shape="rect" id="node23" href="$d2/d0e/UpdateFwd_8hpp.html" title="core/update/UpdateFwd.hpp" alt="" coords="501,386,704,413"/>
+<area shape="rect" id="node24" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="286,386,426,413"/>
+<area shape="rect" id="node30" href="$d4/dc3/APIStatusCode_8hpp.html" title="core/APIStatusCode.hpp" alt="" coords="99,304,276,331"/>
+</map>

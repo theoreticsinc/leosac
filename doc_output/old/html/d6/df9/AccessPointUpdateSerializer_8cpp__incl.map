@@ -1,0 +1,34 @@
+<map id="src/core/update/serializers/AccessPointUpdateSerializer.cpp" name="src/core/update/serializers/AccessPointUpdateSerializer.cpp">
+<area shape="rect" id="node2" href="$d8/d62/AccessPointUpdateSerializer_8hpp.html" title="AccessPointUpdateSerializer.hpp" alt="" coords="2145,393,2377,420"/>
+<area shape="rect" id="node14" href="$de/d0e/UpdateSerializer_8hpp.html" title="UpdateSerializer.hpp" alt="" coords="2401,393,2555,420"/>
+<area shape="rect" id="node16" href="$d0/d2b/AccessPointUpdate_8hpp.html" title="core/auth/AccessPointUpdate.hpp" alt="" coords="2719,95,2957,121"/>
+<area shape="rect" id="node34" href="$da/d16/Conversion_8hpp.html" title="tools/Conversion.hpp" alt="" coords="3889,393,4045,420"/>
+<area shape="rect" id="node35" href="$de/d8c/JSONUtils_8hpp.html" title="tools/JSONUtils.hpp" alt="" coords="1975,393,2120,420"/>
+<area shape="rect" id="node3" href="$d1/d3e/SecurityContext_8hpp.html" title="core/SecurityContext.hpp" alt="" coords="2446,468,2630,495"/>
+<area shape="rect" id="node4" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="2299,550,2468,577"/>
+<area shape="rect" id="node8" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="2656,543,2849,584"/>
+<area shape="rect" id="node9" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="2492,550,2632,577"/>
+<area shape="rect" id="node10" href="$d9/d69/db__fwd_8hpp.html" title="tools/db/db_fwd.hpp" alt="" coords="2975,550,3125,577"/>
+<area shape="rect" id="node11" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="3149,550,3324,577"/>
+<area shape="rect" id="node15" href="$d2/d0e/UpdateFwd_8hpp.html" title="core/update/UpdateFwd.hpp" alt="" coords="2786,468,2989,495"/>
+<area shape="rect" id="node17" href="$d0/d93/Update_8hpp.html" title="core/update/Update.hpp" alt="" coords="2951,169,3130,196"/>
+<area shape="rect" id="node18" href="$d7/dee/AuditTracker_8hpp.html" title="core/audit/AuditTracker.hpp" alt="" coords="3214,244,3409,271"/>
+<area shape="rect" id="node31" href="$d7/d0a/IUpdate_8hpp.html" title="core/update/IUpdate.hpp" alt="" coords="3582,393,3763,420"/>
+<area shape="rect" id="node19" href="$d5/d07/IAuditTracker_8hpp.html" title="core/audit/IAuditTracker.hpp" alt="" coords="3325,319,3524,345"/>
+<area shape="rect" id="node20" href="$df/da2/database_8hpp.html" title="tools/db/database.hpp" alt="" coords="3117,319,3282,345"/>
+<area shape="rect" id="node23" href="$d0/dee/DBService_8hpp.html" title="tools/db/DBService.hpp" alt="" coords="2579,393,2750,420"/>
+<area shape="rect" id="node24" href="$d3/dd8/IAuditEntry_8hpp.html" title="core/audit/IAuditEntry.hpp" alt="" coords="3487,468,3672,495"/>
+<area shape="rect" id="node25" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="3483,550,3625,577"/>
+<area shape="rect" id="node36" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="954,468,1173,495"/>
+<area shape="rect" id="node37" href="$d6/d2f/Stacktrace_8hpp.html" title="tools/Stacktrace.hpp" alt="" coords="871,550,1026,577"/>
+<area shape="rect" id="node40" href="$d7/d7a/configexception_8hpp.html" title="configexception.hpp" alt="" coords="5,550,156,577"/>
+<area shape="rect" id="node43" href="$d8/db0/coreexception_8hpp.html" title="Exception class for Core related errors. " alt="" coords="1101,550,1241,577"/>
+<area shape="rect" id="node44" href="$d8/d77/deviceexception_8hpp.html" title="Exception class for Device related errors. " alt="" coords="1265,550,1419,577"/>
+<area shape="rect" id="node45" href="$db/d35/dynlibexception_8hpp.html" title="Exception class for DynLib related errors. " alt="" coords="1443,550,1593,577"/>
+<area shape="rect" id="node46" href="$d0/d4e/fsexception_8hpp.html" title="Exception class for filesystem related errors. " alt="" coords="1726,550,1849,577"/>
+<area shape="rect" id="node47" href="$d1/d8e/gpioexception_8hpp.html" title="Exception class for Gpio related errors. " alt="" coords="181,550,319,577"/>
+<area shape="rect" id="node48" href="$d7/d8c/moduleexception_8hpp.html" title="Exception class for modules. " alt="" coords="343,550,503,577"/>
+<area shape="rect" id="node49" href="$df/d8d/scriptexception_8hpp.html" title="Exception class for Script related errors. " alt="" coords="527,550,674,577"/>
+<area shape="rect" id="node50" href="$dc/dce/signalexception_8hpp.html" title="Exception class for Signal related errors. " alt="" coords="698,550,847,577"/>
+<area shape="rect" id="node41" href="$dd/d35/Colorize_8hpp.html" title="tools/Colorize.hpp" alt="" coords="22,632,158,659"/>
+</map>

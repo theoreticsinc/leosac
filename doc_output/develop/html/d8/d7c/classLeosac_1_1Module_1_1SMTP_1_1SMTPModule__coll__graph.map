@@ -1,0 +1,8 @@
+<map id="Leosac::Module::SMTP::SMTPModule" name="Leosac::Module::SMTP::SMTPModule">
+<area shape="rect" id="node2" href="$dd/d75/classLeosac_1_1Module_1_1AsioModule.html" title="This is a base class for boost::asio &#39;aware&#39; module. " alt="" coords="693,121,883,148"/>
+<area shape="rect" id="node3" href="$df/d9f/classLeosac_1_1Module_1_1BaseModule.html" title="Base class for module implementation. " alt="" coords="388,117,583,144"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="181,76,261,103"/>
+<area shape="rect" id="node11" href="$d7/d33/structLeosac_1_1Module_1_1SMTP_1_1SMTPServerInfo.html" title="Leosac::Module::SMTP\l::SMTPServerInfo" alt="" coords="406,49,565,90"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="5,69,132,110"/>
+<area shape="rect" id="node9" href="$d3/d23/classLeosac_1_1Module_1_1SMTP_1_1SMTPConfig.html" title="Wrapper around the SMTP module configuration. " alt="" coords="991,51,1149,93"/>
+</map>

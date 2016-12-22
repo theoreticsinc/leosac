@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d7/d49/classLeosac_1_1db_1_1DatabaseTracer.html" title="A Leosac specific base class for tracing database operation. " alt="" coords="113,5,312,32"/>
+<area shape="rect" id="node3" href="$d5/dc2/classLeosac_1_1db_1_1PGSQLTracer.html" title="An implementation of odb::tracer that use the logging infrastructure of Leosac. " alt="" coords="360,5,539,32"/>
+</map>

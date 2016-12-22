@@ -1,0 +1,36 @@
+<map id="src/modules/pifacedigital/CRUDHandler.cpp" name="src/modules/pifacedigital/CRUDHandler.cpp">
+<area shape="rect" id="node2" href="$d4/dd7/pifacedigital_2CRUDHandler_8hpp.html" title="modules/pifacedigital\l/CRUDHandler.hpp" alt="" coords="1704,95,1848,136"/>
+<area shape="rect" id="node23" href="$d7/d0a/PFGPIO_8hpp.html" title="PFGPIO.hpp" alt="" coords="2614,191,2712,218"/>
+<area shape="rect" id="node28" href="$de/d62/EntityNotFound_8hpp.html" title="exception/EntityNotFound.hpp" alt="" coords="638,363,837,389"/>
+<area shape="rect" id="node41" href="$dc/d44/APISession_8hpp.html" title="modules/websock&#45;api\l/api/APISession.hpp" alt="" coords="1376,273,1524,315"/>
+<area shape="rect" id="node42" href="$de/d8c/JSONUtils_8hpp.html" title="tools/JSONUtils.hpp" alt="" coords="861,363,1004,389"/>
+<area shape="rect" id="node45" href="$d0/dee/DBService_8hpp.html" title="tools/db/DBService.hpp" alt="" coords="1915,281,2075,307"/>
+<area shape="rect" id="node48" href="$df/d73/OptionalTransaction_8hpp.html" title="tools/db/OptionalTransaction.hpp" alt="" coords="2284,102,2498,129"/>
+<area shape="rect" id="node3" href="$dc/df4/CRUDResourceHandler_8hpp.html" title="modules/websock&#45;api\l/api/CRUDResourceHandler.hpp" alt="" coords="1638,184,1851,225"/>
+<area shape="rect" id="node4" href="$df/d2f/UserSecurityContext_8hpp.html" title="core/UserSecurityContext.hpp" alt="" coords="1645,281,1844,307"/>
+<area shape="rect" id="node17" href="$dd/d46/RequestContext_8hpp.html" title="modules/websock&#45;api\l/RequestContext.hpp" alt="" coords="2136,273,2284,315"/>
+<area shape="rect" id="node20" href="$d8/d8b/WebSockFwd_8hpp.html" title="WebSockFwd.hpp" alt="" coords="1232,363,1361,389"/>
+<area shape="rect" id="node5" href="$d1/d3e/SecurityContext_8hpp.html" title="core/SecurityContext.hpp" alt="" coords="1836,363,2007,389"/>
+<area shape="rect" id="node6" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="1480,445,1638,471"/>
+<area shape="rect" id="node9" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="1886,437,2064,479"/>
+<area shape="rect" id="node10" href="$d9/dc8/HardwareFwd_8hpp.html" title="hardware/HardwareFwd.hpp" alt="" coords="2353,445,2538,471"/>
+<area shape="rect" id="node15" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="1726,445,1862,471"/>
+<area shape="rect" id="node16" href="$d9/d69/db__fwd_8hpp.html" title="tools/db/db_fwd.hpp" alt="" coords="2139,445,2278,471"/>
+<area shape="rect" id="node11" href="$dc/dea/Uuid_8hpp.html" title="tools/Uuid.hpp" alt="" coords="1695,527,1802,553"/>
+<area shape="rect" id="node18" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="2495,363,2610,389"/>
+<area shape="rect" id="node24" href="$d9/d02/GPIO_8hpp.html" title="hardware/GPIO.hpp" alt="" coords="2790,281,2928,307"/>
+<area shape="rect" id="node25" href="$da/d14/Device_8hpp.html" title="hardware/Device.hpp" alt="" coords="2786,363,2932,389"/>
+<area shape="rect" id="node29" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="588,445,789,471"/>
+<area shape="rect" id="node30" href="$d6/d2f/Stacktrace_8hpp.html" title="tools/Stacktrace.hpp" alt="" coords="1438,527,1581,553"/>
+<area shape="rect" id="node32" href="$d7/d7a/configexception_8hpp.html" title="configexception.hpp" alt="" coords="1123,527,1262,553"/>
+<area shape="rect" id="node33" href="$d8/db0/coreexception_8hpp.html" title="Exception class for Core related errors. " alt="" coords="1286,527,1414,553"/>
+<area shape="rect" id="node34" href="$d8/d77/deviceexception_8hpp.html" title="Exception class for Device related errors. " alt="" coords="23,527,164,553"/>
+<area shape="rect" id="node35" href="$db/d35/dynlibexception_8hpp.html" title="Exception class for DynLib related errors. " alt="" coords="620,527,757,553"/>
+<area shape="rect" id="node36" href="$d0/d4e/fsexception_8hpp.html" title="Exception class for filesystem related errors. " alt="" coords="782,527,896,553"/>
+<area shape="rect" id="node37" href="$d1/d8e/gpioexception_8hpp.html" title="Exception class for Gpio related errors. " alt="" coords="921,527,1048,553"/>
+<area shape="rect" id="node38" href="$d7/d8c/moduleexception_8hpp.html" title="Exception class for modules. " alt="" coords="189,527,334,553"/>
+<area shape="rect" id="node39" href="$df/d8d/scriptexception_8hpp.html" title="Exception class for Script related errors. " alt="" coords="358,527,493,553"/>
+<area shape="rect" id="node46" href="$d3/dd8/IAuditEntry_8hpp.html" title="core/audit/IAuditEntry.hpp" alt="" coords="1588,363,1762,389"/>
+<area shape="rect" id="node47" href="$d2/d0e/UpdateFwd_8hpp.html" title="core/update/UpdateFwd.hpp" alt="" coords="2082,363,2268,389"/>
+<area shape="rect" id="node49" href="$df/da2/database_8hpp.html" title="database.hpp" alt="" coords="2429,191,2529,218"/>
+</map>

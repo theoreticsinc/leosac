@@ -1,0 +1,10 @@
+<map id="src/core/auth/WiegandCard.cpp" name="src/core/auth/WiegandCard.cpp">
+<area shape="rect" id="node2" href="$d2/d65/WiegandCard_8hpp.html" title="WiegandCard.hpp" alt="" coords="596,80,731,107"/>
+<area shape="rect" id="node17" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="914,80,1018,107"/>
+<area shape="rect" id="node3" href="$dc/d87/BaseAuthSource_8hpp.html" title="core/auth/BaseAuthSource.hpp" alt="" coords="209,155,432,181"/>
+<area shape="rect" id="node4" href="$db/d47/IAuthenticationSource_8hpp.html" title="core/auth/Interfaces\l/IAuthenticationSource.hpp" alt="" coords="223,229,418,271"/>
+<area shape="rect" id="node13" href="$dc/dfe/ValidityInfo_8hpp.html" title="core/auth/ValidityInfo.hpp" alt="" coords="443,237,625,263"/>
+<area shape="rect" id="node5" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="299,319,468,345"/>
+<area shape="rect" id="node9" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="5,319,148,345"/>
+<area shape="rect" id="node10" href="$d2/d91/Visitor_8hpp.html" title="tools/Visitor.hpp" alt="" coords="15,393,139,420"/>
+</map>

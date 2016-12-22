@@ -1,0 +1,4 @@
+<map id="Leosac::SystemExecutionContext" name="Leosac::SystemExecutionContext">
+<area shape="rect" id="node2" href="$d5/dba/structLeosac_1_1ExecutionContext.html" title="An ExecutionContext is passed around to service so they have context about who is making the call and..." alt="" coords="30,95,217,121"/>
+<area shape="rect" id="node3" href="$db/d24/classLeosac_1_1SecurityContext.html" title="A SecurityContext is used to query permission while doing an operation. " alt="" coords="35,5,212,32"/>
+</map>

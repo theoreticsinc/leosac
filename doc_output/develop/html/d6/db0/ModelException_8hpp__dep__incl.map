@@ -1,0 +1,22 @@
+<map id="src/exception/ModelException.hpp" name="src/exception/ModelException.hpp">
+<area shape="rect" id="node2" href="$de/d74/Group_8cpp.html" title="src/core/auth/Group.cpp" alt="" coords="5,87,168,114"/>
+<area shape="rect" id="node3" href="$db/d53/Zone_8cpp.html" title="src/core/auth/Zone.cpp" alt="" coords="193,87,349,114"/>
+<area shape="rect" id="node4" href="$d6/da9/src_2core_2credentials_2CredentialValidator_8cpp.html" title="src/core/credentials\l/CredentialValidator.cpp" alt="" coords="373,80,534,121"/>
+<area shape="rect" id="node5" href="$d5/d2f/PinCode_8cpp.html" title="src/core/credentials\l/PinCode.cpp" alt="" coords="559,80,695,121"/>
+<area shape="rect" id="node6" href="$d7/d68/src_2core_2credentials_2RFIDCard_8cpp.html" title="src/core/credentials\l/RFIDCard.cpp" alt="" coords="719,80,855,121"/>
+<area shape="rect" id="node7" href="$d3/d27/ModelException_8cpp.html" title="src/exception/ModelException.cpp" alt="" coords="879,87,1102,114"/>
+<area shape="rect" id="node8" href="$d2/dc0/Device_8cpp.html" title="src/hardware/Device.cpp" alt="" coords="1126,87,1293,114"/>
+<area shape="rect" id="node9" href="$d8/dc2/GPIO_8cpp.html" title="src/hardware/GPIO.cpp" alt="" coords="1317,87,1475,114"/>
+<area shape="rect" id="node10" href="$d6/d95/PFDigitalModule_8cpp.html" title="src/modules/pifacedigital\l/PFDigitalModule.cpp" alt="" coords="1499,80,1666,121"/>
+<area shape="rect" id="node11" href="$d7/d29/AccessPointCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/AccessPointCRUD.cpp" alt="" coords="1690,80,1897,121"/>
+<area shape="rect" id="node12" href="$d7/dde/DoorCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/DoorCRUD.cpp" alt="" coords="1921,80,2082,121"/>
+<area shape="rect" id="node13" href="$d1/de1/GroupCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/GroupCRUD.cpp" alt="" coords="2107,80,2275,121"/>
+<area shape="rect" id="node14" href="$df/df7/UserCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/UserCRUD.cpp" alt="" coords="2299,80,2461,121"/>
+<area shape="rect" id="node15" href="$d7/d0b/ExceptionConverter_8cpp.html" title="src/modules/websock\l&#45;api/ExceptionConverter.cpp" alt="" coords="2485,80,2672,121"/>
+<area shape="rect" id="node16" href="$d4/d2c/WSServer_8cpp.html" title="src/modules/websock\l&#45;api/WSServer.cpp" alt="" coords="2696,80,2845,121"/>
+<area shape="rect" id="node17" href="$d6/d81/WiegandConfig_8cpp.html" title="src/modules/wiegand\l/WiegandConfig.cpp" alt="" coords="2870,80,3015,121"/>
+<area shape="rect" id="node18" href="$d6/d16/Schedule_8cpp.html" title="src/tools/Schedule.cpp" alt="" coords="3040,87,3195,114"/>
+<area shape="rect" id="node19" href="$dc/db5/test_2CredentialValidator_8cpp.html" title="test/CredentialValidator.cpp" alt="" coords="3219,87,3402,114"/>
+<area shape="rect" id="node20" href="$d8/df5/GroupValidator_8cpp.html" title="test/GroupValidator.cpp" alt="" coords="3426,87,3585,114"/>
+<area shape="rect" id="node21" href="$da/d76/ScheduleValidator_8cpp.html" title="test/ScheduleValidator.cpp" alt="" coords="3609,87,3788,114"/>
+</map>

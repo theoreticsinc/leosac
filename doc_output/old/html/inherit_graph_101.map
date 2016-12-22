@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d6/d42/classLeosac_1_1Module_1_1TCPNotifier_1_1ProtocolHandler.html" title="Implements a given (TCP) protocol for notifying clients. " alt="" coords="5,39,204,80"/>
+<area shape="rect" id="node2" href="$d7/dfd/classLeosac_1_1Module_1_1TCPNotifier_1_1MegasoftProtocol.html" title="Leosac::Module::TCPNotifier\l::MegasoftProtocol" alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$d8/d4d/classLeosac_1_1Module_1_1TCPNotifier_1_1PushSimpleCardNumber.html" title="Simple protocol that sends the card number. " alt="" coords="252,71,451,112"/>
+</map>

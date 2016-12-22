@@ -1,0 +1,11 @@
+<map id="Leosac::Module::Auth::FileAuthSourceMapper" name="Leosac::Module::Auth::FileAuthSourceMapper">
+<area shape="rect" id="node2" href="$d2/de1/classLeosac_1_1Auth_1_1IAuthSourceMapper.html" title="Base class to perform abstracted mapping operation over various AuthSource object. " alt="" coords="925,104,1115,145"/>
+<area shape="rect" id="node3" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; WiegandCard \&gt;" alt="" coords="472,5,627,47"/>
+<area shape="rect" id="node4" href="$d6/da1/classLeosac_1_1Tools_1_1BaseVisitor.html" title="Base class for visitor, should not be used directly. " alt="" coords="192,78,379,105"/>
+<area shape="rect" id="node5" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; PINCode \&gt;" alt="" coords="472,71,627,112"/>
+<area shape="rect" id="node6" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; WiegandCardPin \&gt;" alt="" coords="472,136,627,177"/>
+<area shape="rect" id="node7" href="$dc/db8/classLeosac_1_1Tools_1_1XmlNodeNameEnforcer.html" title="This class is a simple wrapper that throws a ConfigException message formated to report the user that..." alt="" coords="671,253,881,295"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="242,442,329,469"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="5,435,143,476"/>
+<area shape="rect" id="node13" href="$d8/d39/classLeosac_1_1Tools_1_1XmlScheduleLoader.html" title="Load a list of schedules from a boost::property_tree. " alt="" coords="921,504,1119,545"/>
+</map>

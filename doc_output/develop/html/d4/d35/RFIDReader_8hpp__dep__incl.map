@@ -1,0 +1,11 @@
+<map id="src/hardware/RFIDReader.hpp" name="src/hardware/RFIDReader.hpp">
+<area shape="rect" id="node2" href="$d9/d0d/RFIDReader_8cpp.html" title="src/hardware/RFIDReader.cpp" alt="" coords="5,87,205,114"/>
+<area shape="rect" id="node3" href="$d7/d0c/RFIDReaderSerializer_8hpp.html" title="src/hardware/serializers\l/RFIDReaderSerializer.hpp" alt="" coords="229,80,408,121"/>
+<area shape="rect" id="node6" href="$d8/df5/WiegandConfig_8hpp.html" title="src/modules/wiegand\l/WiegandConfig.hpp" alt="" coords="441,80,586,121"/>
+<area shape="rect" id="node4" href="$d3/d50/RFIDReaderSerializer_8cpp.html" title="src/hardware/serializers\l/RFIDReaderSerializer.cpp" alt="" coords="103,169,281,211"/>
+<area shape="rect" id="node5" href="$d6/d48/WiegandConfigSerializer_8cpp.html" title="src/modules/wiegand\l/ws/WiegandConfigSerializer.cpp" alt="" coords="207,259,422,300"/>
+<area shape="rect" id="node7" href="$de/d9c/WiegandConfigSerializer_8hpp.html" title="src/modules/wiegand\l/ws/WiegandConfigSerializer.hpp" alt="" coords="406,169,621,211"/>
+<area shape="rect" id="node10" href="$d4/d9b/WiegandReader_8cpp.html" title="test/WiegandReader.cpp" alt="" coords="645,177,811,203"/>
+<area shape="rect" id="node8" href="$d3/de8/wiegand_8cpp.html" title="src/modules/wiegand\l/wiegand.cpp" alt="" coords="446,259,591,300"/>
+<area shape="rect" id="node9" href="$d9/d74/wiegand_2ws_2CRUDHandler_8cpp.html" title="src/modules/wiegand\l/ws/CRUDHandler.cpp" alt="" coords="616,259,773,300"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Leosac::UserSecurityContext" name="Leosac::UserSecurityContext">
+<area shape="rect" id="node3" href="$d2/d3e/classLeosac_1_1NullSecurityContext.html" title="A SecurityContext with no permission. " alt="" coords="8,155,209,181"/>
+<area shape="rect" id="node2" href="$db/d24/classLeosac_1_1SecurityContext.html" title="A SecurityContext is used to query permission while doing an operation. " alt="" coords="20,5,197,32"/>
+</map>

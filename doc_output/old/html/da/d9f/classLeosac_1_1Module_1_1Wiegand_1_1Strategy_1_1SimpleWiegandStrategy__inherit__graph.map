@@ -1,0 +1,4 @@
+<map id="Leosac::Module::Wiegand::Strategy::SimpleWiegandStrategy" name="Leosac::Module::Wiegand::Strategy::SimpleWiegandStrategy">
+<area shape="rect" id="node2" href="$de/d50/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1CardReading.html" title="Interface for a strategy that read a card number. " alt="" coords="37,95,219,136"/>
+<area shape="rect" id="node3" href="$d5/d39/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1WiegandStrategy.html" title="The multiple modes available to wiegand reader are implemented through the strategy pattern..." alt="" coords="27,5,229,47"/>
+</map>

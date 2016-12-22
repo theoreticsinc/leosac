@@ -1,0 +1,9 @@
+<map id="Leosac::Cred::WiegandCard" name="Leosac::Cred::WiegandCard">
+<area shape="rect" id="node2" href="$d1/dec/classLeosac_1_1Cred_1_1IWiegandCard.html" title="Interface for WiegandCard credential. " alt="" coords="605,199,805,226"/>
+<area shape="rect" id="node3" href="$d7/db0/classLeosac_1_1Cred_1_1ICredential.html" title="Base interface for credential objects. " alt="" coords="231,205,413,231"/>
+<area shape="rect" id="node5" href="$da/d77/classLeosac_1_1Cred_1_1Credential.html" title="An ODB enabled credential object. " alt="" coords="616,113,795,139"/>
+<area shape="rect" id="node4" href="$d0/d33/classLeosac_1_1Tools_1_1IVisitable.html" title="Base class to make an object visitable. " alt="" coords="5,205,176,231"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="279,13,365,39"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="22,5,159,47"/>
+<area shape="rect" id="node9" href="$d9/d24/classLeosac_1_1Auth_1_1ValidityInfo.html" title="A simple class that stores (and can be queried for) the validity of some objects. ..." alt="" coords="231,147,413,174"/>
+</map>

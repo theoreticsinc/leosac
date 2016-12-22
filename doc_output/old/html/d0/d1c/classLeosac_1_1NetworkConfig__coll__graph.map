@@ -1,0 +1,13 @@
+<map id="Leosac::NetworkConfig" name="Leosac::NetworkConfig">
+<area shape="rect" id="node2" href="$d1/d50/classLeosac_1_1Kernel.html" title="Core of Leosac. " alt="" coords="2375,353,2489,380"/>
+<area shape="rect" id="node20" href="$d7/d42/classLeosac_1_1RemoteControl.html" title="This class handle the remote control of leosac. " alt="" coords="2588,327,2759,353"/>
+<area shape="rect" id="node3" href="$dc/db8/classLeosac_1_1Tools_1_1XmlNodeNameEnforcer.html" title="This class is a simple wrapper that throws a ConfigException message formated to report the user that..." alt="" coords="583,94,793,135"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="192,255,279,281"/>
+<area shape="rect" id="node7" href="$d4/d7a/classLeosac_1_1ConfigManager.html" title="That class helps manage the configuration for the application and its module. " alt="" coords="843,324,1014,351"/>
+<area shape="rect" id="node14" href="$d4/d18/structModuleManager_1_1ModuleInfo.html" title="Internal helper struct that store informations related to module that are useful to the module manage..." alt="" coords="1285,397,1487,424"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="5,247,143,289"/>
+<area shape="rect" id="node11" href="$d0/dc3/classModuleManager.html" title="A second module manager that loads &quot;ZMQ aware&quot; module – modules that talks to the application throug..." alt="" coords="2049,327,2173,353"/>
+<area shape="rect" id="node21" href="$d5/df3/classLeosac_1_1RemoteControlSecurity.html" title="Provide some kind of security framework to the Remote Control service. " alt="" coords="817,677,1040,704"/>
+<area shape="rect" id="node10" href="$dd/dc8/classMessageBus.html" title="Implements a message bus (running in its own thread) that use 2 sockets. " alt="" coords="2060,377,2163,404"/>
+<area shape="rect" id="node17" href="$df/d75/classLeosac_1_1ServiceRegistry.html" title="A class that manages services. " alt="" coords="1727,623,1899,649"/>
+</map>

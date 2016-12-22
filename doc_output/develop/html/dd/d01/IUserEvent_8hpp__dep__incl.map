@@ -1,0 +1,11 @@
+<map id="src/core/audit/IUserEvent.hpp" name="src/core/audit/IUserEvent.hpp">
+<area shape="rect" id="node2" href="$d9/db8/Audit_8hpp.html" title="src/core/audit/Audit.hpp" alt="" coords="5,87,165,114"/>
+<area shape="rect" id="node3" href="$da/d2d/UpdateEventSerializer_8cpp.html" title="src/core/audit/serializers\l/UpdateEventSerializer.cpp" alt="" coords="189,80,371,121"/>
+<area shape="rect" id="node4" href="$d2/da7/UserEventSerializer_8cpp.html" title="src/core/audit/serializers\l/UserEventSerializer.cpp" alt="" coords="395,80,562,121"/>
+<area shape="rect" id="node5" href="$df/d7a/UserEvent_8hpp.html" title="src/core/audit/UserEvent.hpp" alt="" coords="587,87,779,114"/>
+<area shape="rect" id="node6" href="$d4/dbe/AuditFactory_8cpp.html" title="src/core/audit/AuditFactory.cpp" alt="" coords="135,177,339,203"/>
+<area shape="rect" id="node7" href="$d2/d8b/UserEvent_8cpp.html" title="src/core/audit/UserEvent.cpp" alt="" coords="364,177,556,203"/>
+<area shape="rect" id="node8" href="$df/dc4/MembershipCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/MembershipCRUD.cpp" alt="" coords="581,169,785,211"/>
+<area shape="rect" id="node9" href="$d7/da0/PasswordChange_8cpp.html" title="src/modules/websock\l&#45;api/api/PasswordChange.cpp" alt="" coords="809,169,1005,211"/>
+<area shape="rect" id="node10" href="$df/df7/UserCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/UserCRUD.cpp" alt="" coords="1029,169,1190,211"/>
+</map>

@@ -1,0 +1,40 @@
+<map id="src/modules/auth/auth&#45;file/FileAuthSourceMapper.cpp" name="src/modules/auth/auth&#45;file/FileAuthSourceMapper.cpp">
+<area shape="rect" id="node2" href="$df/d5d/FileAuthSourceMapper_8hpp.html" title="FileAuthSourceMapper.hpp" alt="" coords="2401,102,2580,129"/>
+<area shape="rect" id="node6" href="$d1/d6f/Group_8hpp.html" title="core/auth/Group.hpp" alt="" coords="1642,281,1782,307"/>
+<area shape="rect" id="node14" href="$db/d47/IAuthenticationSource_8hpp.html" title="core/auth/Interfaces\l/IAuthenticationSource.hpp" alt="" coords="2601,273,2780,315"/>
+<area shape="rect" id="node27" href="$dc/d74/Auth_8hpp.html" title="core/auth/Auth.hpp" alt="" coords="1076,102,1208,129"/>
+<area shape="rect" id="node29" href="$d1/d8f/Door_8hpp.html" title="core/auth/Door.hpp" alt="" coords="753,191,886,218"/>
+<area shape="rect" id="node32" href="$de/da4/ProfileMerger_8hpp.html" title="core/auth/ProfileMerger.hpp" alt="" coords="310,102,492,129"/>
+<area shape="rect" id="node33" href="$de/dfd/User_8hpp.html" title="core/auth/User.hpp" alt="" coords="649,281,782,307"/>
+<area shape="rect" id="node36" href="$d0/db0/ICredential_8hpp.html" title="core/credentials/ICredential.hpp" alt="" coords="3032,370,3239,397"/>
+<area shape="rect" id="node37" href="$db/d3d/PinCode_8hpp.html" title="core/credentials/PinCode.hpp" alt="" coords="3159,191,3352,218"/>
+<area shape="rect" id="node40" href="$d9/dd6/RFIDCard_8hpp.html" title="core/credentials/RFIDCard.hpp" alt="" coords="3377,191,3580,218"/>
+<area shape="rect" id="node42" href="$da/d24/RFIDCardPin_8hpp.html" title="core/credentials/RFIDCard\lPin.hpp" alt="" coords="3364,95,3542,136"/>
+<area shape="rect" id="node43" href="$d7/d8c/moduleexception_8hpp.html" title="Exception class for modules. " alt="" coords="3664,102,3869,129"/>
+<area shape="rect" id="node45" href="$d3/db1/AssertCast_8hpp.html" title="tools/AssertCast.hpp" alt="" coords="3944,102,4090,129"/>
+<area shape="rect" id="node46" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="3969,191,4065,218"/>
+<area shape="rect" id="node47" href="$d9/d58/Schedule_8hpp.html" title="tools/Schedule.hpp" alt="" coords="2444,281,2577,307"/>
+<area shape="rect" id="node48" href="$de/d35/XmlPropertyTree_8hpp.html" title="tools/XmlPropertyTree.hpp" alt="" coords="4114,102,4291,129"/>
+<area shape="rect" id="node50" href="$dc/da6/enforce_8hpp.html" title="tools/enforce.hpp" alt="" coords="3081,102,3204,129"/>
+<area shape="rect" id="node3" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="1444,459,1601,486"/>
+<area shape="rect" id="node5" href="$de/d13/IAuthSourceMapper_8hpp.html" title="core/auth/Interfaces\l/IAuthSourceMapper.hpp" alt="" coords="2202,184,2368,225"/>
+<area shape="rect" id="node16" href="$d9/dfe/SimpleAccessProfile_8hpp.html" title="core/auth/SimpleAccessProfile.hpp" alt="" coords="2142,281,2369,307"/>
+<area shape="rect" id="node18" href="$df/dfe/SingleTimeFrame_8hpp.html" title="tools/SingleTimeFrame.hpp" alt="" coords="2472,370,2653,397"/>
+<area shape="rect" id="node20" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="1146,452,1323,493"/>
+<area shape="rect" id="node21" href="$d6/d11/ScheduleMapping_8hpp.html" title="tools/ScheduleMapping.hpp" alt="" coords="1918,370,2100,397"/>
+<area shape="rect" id="node22" href="$db/d22/XmlNodeNameEnforcer_8hpp.html" title="tools/XmlNodeNameEnforcer.hpp" alt="" coords="3354,281,3571,307"/>
+<area shape="rect" id="node23" href="$d4/da0/XmlScheduleLoader_8hpp.html" title="tools/XmlScheduleLoader.hpp" alt="" coords="2393,191,2588,218"/>
+<area shape="rect" id="node7" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="1657,370,1772,397"/>
+<area shape="rect" id="node9" href="$df/dbb/UserGroupMembership_8hpp.html" title="core/auth/UserGroupMembership.hpp" alt="" coords="562,370,800,397"/>
+<area shape="rect" id="node10" href="$df/da2/database_8hpp.html" title="tools/db/database.hpp" alt="" coords="606,459,756,486"/>
+<area shape="rect" id="node11" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="2545,459,2681,486"/>
+<area shape="rect" id="node15" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="2901,459,3034,486"/>
+<area shape="rect" id="node17" href="$d4/d86/IAccessProfile_8hpp.html" title="core/auth/Interfaces\l/IAccessProfile.hpp" alt="" coords="44,363,182,404"/>
+<area shape="rect" id="node30" href="$d7/d86/IDoor_8hpp.html" title="core/auth/IDoor.hpp" alt="" coords="227,281,364,307"/>
+<area shape="rect" id="node31" href="$dc/dfe/ValidityInfo_8hpp.html" title="core/auth/ValidityInfo.hpp" alt="" coords="2125,370,2296,397"/>
+<area shape="rect" id="node34" href="$d2/df6/Scrypt_8hpp.html" title="tools/scrypt/Scrypt.hpp" alt="" coords="1230,370,1388,397"/>
+<area shape="rect" id="node38" href="$d1/d40/Credential_8hpp.html" title="core/credentials/Credential.hpp" alt="" coords="2804,281,3006,307"/>
+<area shape="rect" id="node39" href="$d4/df3/IPinCode_8hpp.html" title="core/credentials/IPinCode.hpp" alt="" coords="3081,281,3278,307"/>
+<area shape="rect" id="node41" href="$dc/dd6/IRFIDCard_8hpp.html" title="core/credentials/IRFIDCard.hpp" alt="" coords="3595,281,3802,307"/>
+<area shape="rect" id="node44" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="3753,191,3894,218"/>
+</map>

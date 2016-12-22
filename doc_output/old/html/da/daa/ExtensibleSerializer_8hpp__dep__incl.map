@@ -1,0 +1,26 @@
+<map id="src/tools/serializers/ExtensibleSerializer.hpp" name="src/tools/serializers/ExtensibleSerializer.hpp">
+<area shape="rect" id="node2" href="$d4/dbb/JSONService_8hpp.html" title="src/core/audit/serializers\l/JSONService.hpp" alt="" coords="531,95,708,136"/>
+<area shape="rect" id="node6" href="$de/d09/AccessPointService_8hpp.html" title="src/core/auth/AccessPoint\lService.hpp" alt="" coords="975,95,1162,136"/>
+<area shape="rect" id="node15" href="$d2/d87/UpdateService_8hpp.html" title="src/core/update/UpdateService.hpp" alt="" coords="2197,102,2445,129"/>
+<area shape="rect" id="node3" href="$d5/dce/PolymorphicAuditSerializer_8cpp.html" title="src/core/audit/serializers\l/PolymorphicAuditSerializer.cpp" alt="" coords="5,191,228,233"/>
+<area shape="rect" id="node4" href="$dd/d24/kernel_8cpp.html" title="src/core/kernel.cpp" alt="" coords="997,199,1140,225"/>
+<area shape="rect" id="node5" href="$da/d6f/SMTPModule_8cpp.html" title="src/modules/smtp/SMTPModule.cpp" alt="" coords="252,199,501,225"/>
+<area shape="rect" id="node7" href="$d1/d5d/EvoXSBackend_8hpp.html" title="/home/xaqq/Documents\l/leosac&#45;evoxs/EvoXSBackend.hpp" alt="" coords="525,191,761,233"/>
+<area shape="rect" id="node10" href="$d2/d68/EvoXSModule_8cpp.html" title="/home/xaqq/Documents\l/leosac&#45;evoxs/EvoXSModule.cpp" alt="" coords="1302,377,1529,419"/>
+<area shape="rect" id="node13" href="$dc/d02/AccessPointService_8cpp.html" title="src/core/auth/AccessPoint\lService.cpp" alt="" coords="786,191,973,233"/>
+<area shape="rect" id="node14" href="$d7/d29/AccessPointCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/AccessPointCRUD.cpp" alt="" coords="1164,191,1379,233"/>
+<area shape="rect" id="node8" href="$d8/da2/EvoXSBackend_8cpp.html" title="/home/xaqq/Documents\l/leosac&#45;evoxs/EvoXSBackend.cpp" alt="" coords="534,377,769,419"/>
+<area shape="rect" id="node9" href="$de/d9c/EvoXSModule_8hpp.html" title="/home/xaqq/Documents\l/leosac&#45;evoxs/EvoXSModule.hpp" alt="" coords="769,288,995,329"/>
+<area shape="rect" id="node11" href="$dc/d1b/EvoXSUpdateBackend_8cpp.html" title="/home/xaqq/Documents\l/leosac&#45;evoxs/EvoXSUpdateBackend.cpp" alt="" coords="995,377,1278,419"/>
+<area shape="rect" id="node12" href="$d8/dbb/leosac-evoxs_2init_8cpp.html" title="/home/xaqq/Documents\l/leosac&#45;evoxs/init.cpp" alt="" coords="794,377,970,419"/>
+<area shape="rect" id="node16" href="$d1/d80/EvoXSUpdateBackend_8hpp.html" title="/home/xaqq/Documents\l/leosac&#45;evoxs/EvoXSUpdateBackend.hpp" alt="" coords="1097,288,1379,329"/>
+<area shape="rect" id="node17" href="$d8/d0b/UpdateDescriptorSerializer_8cpp.html" title="src/core/update/serializers\l/UpdateDescriptorSerializer.cpp" alt="" coords="2209,191,2433,233"/>
+<area shape="rect" id="node18" href="$de/dd9/UpdateService_8cpp.html" title="src/core/update/UpdateService.cpp" alt="" coords="2507,199,2753,225"/>
+<area shape="rect" id="node19" href="$d1/deb/AckUpdate_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/AckUpdate.cpp" alt="" coords="2777,184,2987,240"/>
+<area shape="rect" id="node20" href="$d0/dcd/CancelUpdate_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/CancelUpdate.cpp" alt="" coords="3011,184,3222,240"/>
+<area shape="rect" id="node21" href="$d4/d2d/CheckUpdate_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/CheckUpdate.cpp" alt="" coords="3246,184,3457,240"/>
+<area shape="rect" id="node22" href="$dd/d7b/CreateUpdate_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/CreateUpdate.cpp" alt="" coords="3481,184,3691,240"/>
+<area shape="rect" id="node23" href="$d9/d03/PendingUpdateGet_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/PendingUpdateGet.cpp" alt="" coords="1505,184,1715,240"/>
+<area shape="rect" id="node24" href="$d0/d36/UpdateGet_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/UpdateGet.cpp" alt="" coords="1739,184,1950,240"/>
+<area shape="rect" id="node25" href="$d1/d97/UpdateHistory_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/UpdateHistory.cpp" alt="" coords="1974,184,2185,240"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="src/core/update/UpdateService.cpp" name="src/core/update/UpdateService.cpp">
+<area shape="rect" id="node2" href="$d2/d87/UpdateService_8hpp.html" title="UpdateService.hpp" alt="" coords="1157,169,1291,196"/>
+<area shape="rect" id="node39" href="$d1/d56/GetServiceRegistry_8hpp.html" title="core/GetServiceRegistry.hpp" alt="" coords="2142,87,2333,114"/>
+<area shape="rect" id="node43" href="$d8/d1f/GenGuid_8h.html" title="tools/GenGuid.h" alt="" coords="661,87,777,114"/>
+<area shape="rect" id="node44" href="$df/d73/OptionalTransaction_8hpp.html" title="tools/db/OptionalTransaction.hpp" alt="" coords="1904,87,2117,114"/>
+<area shape="rect" id="node3" href="$d2/d0e/UpdateFwd_8hpp.html" title="UpdateFwd.hpp" alt="" coords="2480,341,2595,367"/>
+<area shape="rect" id="node6" href="$d1/d3e/SecurityContext_8hpp.html" title="core/SecurityContext.hpp" alt="" coords="1748,251,1919,278"/>
+<area shape="rect" id="node18" href="$de/d8c/JSONUtils_8hpp.html" title="tools/JSONUtils.hpp" alt="" coords="1087,251,1230,278"/>
+<area shape="rect" id="node29" href="$dc/dc2/bs2_8hpp.html" title="tools/bs2.hpp" alt="" coords="1254,251,1354,278"/>
+<area shape="rect" id="node31" href="$db/dd1/Registry_8hpp.html" title="tools/registry/Registry.hpp" alt="" coords="221,251,395,278"/>
+<area shape="rect" id="node35" href="$da/dde/ExtensibleSerializer_8hpp.html" title="tools/serializers/Extensible\lSerializer.hpp" alt="" coords="563,244,741,285"/>
+<area shape="rect" id="node7" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="1749,341,1912,367"/>
+<area shape="rect" id="node10" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="1936,341,2093,367"/>
+<area shape="rect" id="node11" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="2278,333,2455,375"/>
+<area shape="rect" id="node12" href="$d9/dc8/HardwareFwd_8hpp.html" title="hardware/HardwareFwd.hpp" alt="" coords="1539,341,1725,367"/>
+<area shape="rect" id="node16" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="2117,341,2253,367"/>
+<area shape="rect" id="node17" href="$d9/d69/db__fwd_8hpp.html" title="tools/db/db_fwd.hpp" alt="" coords="2619,341,2757,367"/>
+<area shape="rect" id="node13" href="$dc/dea/Uuid_8hpp.html" title="tools/Uuid.hpp" alt="" coords="1203,423,1309,449"/>
+<area shape="rect" id="node19" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="769,341,970,367"/>
+<area shape="rect" id="node20" href="$d6/d2f/Stacktrace_8hpp.html" title="tools/Stacktrace.hpp" alt="" coords="1035,423,1178,449"/>
+<area shape="rect" id="node22" href="$d7/d7a/configexception_8hpp.html" title="configexception.hpp" alt="" coords="239,423,377,449"/>
+<area shape="rect" id="node23" href="$d8/db0/coreexception_8hpp.html" title="Exception class for Core related errors. " alt="" coords="401,423,529,449"/>
+<area shape="rect" id="node24" href="$d8/d77/deviceexception_8hpp.html" title="Exception class for Device related errors. " alt="" coords="553,423,695,449"/>
+<area shape="rect" id="node25" href="$db/d35/dynlibexception_8hpp.html" title="Exception class for DynLib related errors. " alt="" coords="719,423,857,449"/>
+<area shape="rect" id="node32" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="88,423,184,449"/>
+<area shape="rect" id="node36" href="$d3/db1/AssertCast_8hpp.html" title="tools/AssertCast.hpp" alt="" coords="427,341,573,367"/>
+<area shape="rect" id="node40" href="$da/df8/ServiceFwd_8hpp.html" title="tools/service/ServiceFwd.hpp" alt="" coords="2691,169,2885,196"/>
+<area shape="rect" id="node41" href="$d2/de6/ServiceRegistry_8hpp.html" title="tools/service/ServiceRegistry.hpp" alt="" coords="903,169,1121,196"/>
+<area shape="rect" id="node45" href="$df/da2/database_8hpp.html" title="database.hpp" alt="" coords="2406,169,2506,196"/>
+<area shape="rect" id="node48" href="$d0/dee/DBService_8hpp.html" title="tools/db/DBService.hpp" alt="" coords="2103,251,2263,278"/>
+</map>

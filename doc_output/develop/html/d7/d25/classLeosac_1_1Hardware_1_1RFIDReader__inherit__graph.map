@@ -1,0 +1,4 @@
+<map id="Leosac::Hardware::RFIDReader" name="Leosac::Hardware::RFIDReader">
+<area shape="rect" id="node3" href="$dc/dfa/structLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderConfig.html" title="An instance of this class represents the configuration of one Wiegand reader. " alt="" coords="24,155,197,196"/>
+<area shape="rect" id="node2" href="$d3/d7f/classLeosac_1_1Hardware_1_1Device.html" title="Base class for hardware devices. " alt="" coords="22,5,199,32"/>
+</map>

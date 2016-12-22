@@ -1,0 +1,18 @@
+<map id="src/modules/tcp&#45;notifier/NotifierInstance.cpp" name="src/modules/tcp&#45;notifier/NotifierInstance.cpp">
+<area shape="rect" id="node2" href="$df/d83/NotifierInstance_8hpp.html" title="NotifierInstance.hpp" alt="" coords="389,169,528,196"/>
+<area shape="rect" id="node14" href="$dc/d74/Auth_8hpp.html" title="core/auth/Auth.hpp" alt="" coords="1121,95,1253,121"/>
+<area shape="rect" id="node16" href="$d9/dd6/RFIDCard_8hpp.html" title="core/credentials/RFIDCard.hpp" alt="" coords="784,95,987,121"/>
+<area shape="rect" id="node28" href="$dd/d35/Colorize_8hpp.html" title="tools/Colorize.hpp" alt="" coords="1461,244,1587,271"/>
+<area shape="rect" id="node30" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="1635,244,1731,271"/>
+<area shape="rect" id="node3" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="315,326,429,353"/>
+<area shape="rect" id="node6" href="$dc/d76/ProtocolHandler_8hpp.html" title="ProtocolHandler.hpp" alt="" coords="417,244,557,271"/>
+<area shape="rect" id="node7" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="609,319,786,360"/>
+<area shape="rect" id="node10" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="1021,326,1179,353"/>
+<area shape="rect" id="node17" href="$d1/d40/Credential_8hpp.html" title="core/credentials/Credential.hpp" alt="" coords="784,169,987,196"/>
+<area shape="rect" id="node27" href="$dc/dd6/IRFIDCard_8hpp.html" title="core/credentials/IRFIDCard.hpp" alt="" coords="553,169,759,196"/>
+<area shape="rect" id="node18" href="$dc/dfe/ValidityInfo_8hpp.html" title="core/auth/ValidityInfo.hpp" alt="" coords="1260,244,1431,271"/>
+<area shape="rect" id="node21" href="$d0/db0/ICredential_8hpp.html" title="core/credentials/ICredential.hpp" alt="" coords="734,244,941,271"/>
+<area shape="rect" id="node26" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="861,326,997,353"/>
+<area shape="rect" id="node22" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="1253,326,1387,353"/>
+<area shape="rect" id="node23" href="$d2/d91/Visitor_8hpp.html" title="tools/Visitor.hpp" alt="" coords="1262,408,1378,435"/>
+</map>

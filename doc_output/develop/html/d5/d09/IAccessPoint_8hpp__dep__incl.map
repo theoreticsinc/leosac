@@ -1,0 +1,12 @@
+<map id="src/core/auth/IAccessPoint.hpp" name="src/core/auth/IAccessPoint.hpp">
+<area shape="rect" id="node2" href="$d2/d6b/AccessPoint_8hpp.html" title="src/core/auth/AccessPoint.hpp" alt="" coords="650,87,851,114"/>
+<area shape="rect" id="node10" href="$dd/d7e/AccessPointSerializer_8cpp.html" title="src/core/auth/serializers\l/AccessPointSerializer.cpp" alt="" coords="876,80,1055,121"/>
+<area shape="rect" id="node11" href="$d8/da2/DoorSerializer_8cpp.html" title="src/core/auth/serializers\l/DoorSerializer.cpp" alt="" coords="1079,80,1241,121"/>
+<area shape="rect" id="node3" href="$d0/d15/AccessPointEvent_8cpp.html" title="src/core/audit/AccessPoint\lEvent.cpp" alt="" coords="5,177,184,218"/>
+<area shape="rect" id="node4" href="$d4/dbe/AuditFactory_8cpp.html" title="src/core/audit/AuditFactory.cpp" alt="" coords="209,184,413,211"/>
+<area shape="rect" id="node5" href="$d1/d88/AccessPoint_8cpp.html" title="src/core/auth/AccessPoint.cpp" alt="" coords="437,184,638,211"/>
+<area shape="rect" id="node6" href="$dc/d02/AccessPointService_8cpp.html" title="src/core/auth/AccessPoint\lService.cpp" alt="" coords="663,177,839,218"/>
+<area shape="rect" id="node7" href="$d0/dc5/Door_8cpp.html" title="src/core/auth/Door.cpp" alt="" coords="863,184,1017,211"/>
+<area shape="rect" id="node8" href="$d7/d29/AccessPointCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/AccessPointCRUD.cpp" alt="" coords="1042,177,1249,218"/>
+<area shape="rect" id="node9" href="$d1/d54/AccessPointSearch_8cpp.html" title="src/modules/websock\l&#45;api/api/search/AccessPoint\lSearch.cpp" alt="" coords="1273,169,1458,225"/>
+</map>

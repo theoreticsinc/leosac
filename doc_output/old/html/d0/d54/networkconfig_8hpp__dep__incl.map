@@ -1,0 +1,21 @@
+<map id="src/core/netconfig/networkconfig.hpp" name="src/core/netconfig/networkconfig.hpp">
+<area shape="rect" id="node2" href="$df/db8/kernel_8hpp.html" title="src/core/kernel.hpp" alt="" coords="1713,95,1857,121"/>
+<area shape="rect" id="node9" href="$d2/d2a/networkconfig_8cpp.html" title="NetworkConfig class implementation. " alt="" coords="5,169,147,211"/>
+<area shape="rect" id="node3" href="$d6/dff/src_2core_2config_2ConfigManager_8cpp.html" title="src/core/config/ConfigManager.cpp" alt="" coords="171,177,413,203"/>
+<area shape="rect" id="node4" href="$d3/d1e/CoreAPI_8cpp.html" title="src/core/CoreAPI.cpp" alt="" coords="437,177,592,203"/>
+<area shape="rect" id="node5" href="$d4/dd4/CoreUtils_8cpp.html" title="src/core/CoreUtils.cpp" alt="" coords="616,177,779,203"/>
+<area shape="rect" id="node6" href="$d9/d6a/GetServiceRegistry_8cpp.html" title="src/core/GetServiceRegistry.cpp" alt="" coords="803,177,1026,203"/>
+<area shape="rect" id="node7" href="$dd/d24/kernel_8cpp.html" title="src/core/kernel.cpp" alt="" coords="1050,177,1193,203"/>
+<area shape="rect" id="node8" href="$d9/d4a/module__manager_8cpp.html" title="src/core/module_manager.cpp" alt="" coords="1217,177,1433,203"/>
+<area shape="rect" id="node10" href="$d4/d28/RemoteControl_8cpp.html" title="src/core/RemoteControl.cpp" alt="" coords="1458,177,1657,203"/>
+<area shape="rect" id="node11" href="$df/dca/GetLocalConfigVersion_8cpp.html" title="src/core/tasks/GetLocalConfig\lVersion.cpp" alt="" coords="1680,169,1891,211"/>
+<area shape="rect" id="node12" href="$d7/d6f/GetRemoteConfigVersion_8cpp.html" title="src/core/tasks/GetRemote\lConfigVersion.cpp" alt="" coords="1915,169,2101,211"/>
+<area shape="rect" id="node13" href="$d5/d8e/SyncConfig_8cpp.html" title="src/core/tasks/SyncConfig.cpp" alt="" coords="2125,177,2339,203"/>
+<area shape="rect" id="node14" href="$df/d0a/main_8cpp.html" title="standard main " alt="" coords="2363,177,2467,203"/>
+<area shape="rect" id="node15" href="$d8/d37/AuthFileModule_8cpp.html" title="src/modules/auth/auth\l&#45;file/AuthFileModule.cpp" alt="" coords="2491,169,2663,211"/>
+<area shape="rect" id="node16" href="$d0/d58/DoormanModule_8cpp.html" title="src/modules/doorman\l/DoormanModule.cpp" alt="" coords="2688,169,2851,211"/>
+<area shape="rect" id="node17" href="$d7/d36/LEDBuzzerModule_8cpp.html" title="src/modules/led&#45;buzzer\l/LEDBuzzerModule.cpp" alt="" coords="2875,169,3045,211"/>
+<area shape="rect" id="node18" href="$da/d77/SysFsGpioModule_8cpp.html" title="src/modules/sysfsgpio\l/SysFsGpioModule.cpp" alt="" coords="3069,169,3235,211"/>
+<area shape="rect" id="node19" href="$d9/d8d/APISession_8cpp.html" title="src/modules/websock\l&#45;api/api/APISession.cpp" alt="" coords="3259,169,3429,211"/>
+<area shape="rect" id="node20" href="$d3/de8/wiegand_8cpp.html" title="src/modules/wiegand\l/wiegand.cpp" alt="" coords="3454,169,3610,211"/>
+</map>

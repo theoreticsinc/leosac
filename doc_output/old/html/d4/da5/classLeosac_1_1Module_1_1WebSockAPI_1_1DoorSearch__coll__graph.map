@@ -1,0 +1,12 @@
+<map id="Leosac::Module::WebSockAPI::DoorSearch" name="Leosac::Module::WebSockAPI::DoorSearch">
+<area shape="rect" id="node2" href="$d4/d25/classLeosac_1_1Module_1_1WebSockAPI_1_1MethodHandler.html" title="The base class for API method handler implementation. " alt="" coords="1892,145,2099,186"/>
+<area shape="rect" id="node3" href="$da/d98/structLeosac_1_1Module_1_1WebSockAPI_1_1RequestContext.html" title="Holds valuable pointer to provide context to a request. " alt="" coords="1607,145,1813,186"/>
+<area shape="rect" id="node4" href="$d2/d15/structLeosac_1_1Module_1_1WebSockAPI_1_1ClientMessage.html" title="A message sent by a client to Leosac. " alt="" coords="629,101,836,142"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="192,231,279,257"/>
+<area shape="rect" id="node9" href="$d2/dec/classLeosac_1_1Module_1_1WebSockAPI_1_1WebSockAPIModule.html" title="A module that provide a websocket interface to Leosac. " alt="" coords="881,365,1087,406"/>
+<area shape="rect" id="node10" href="$df/d9f/classLeosac_1_1Module_1_1BaseModule.html" title="Base class for module implementation. " alt="" coords="378,424,585,451"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="5,223,143,265"/>
+<area shape="rect" id="node7" href="$db/d24/classLeosac_1_1SecurityContext.html" title="A SecurityContext is used to query permission while doing an operation. " alt="" coords="1285,155,1463,181"/>
+<area shape="rect" id="node8" href="$d5/dad/classLeosac_1_1Module_1_1WebSockAPI_1_1WSServer.html" title="The implementation class that runs the websocket server. " alt="" coords="1271,235,1477,277"/>
+<area shape="rect" id="node17" href="$dc/da7/classLeosac_1_1Module_1_1WebSockAPI_1_1APIAuth.html" title="This class is responsible for providing an API to manage authentication for Websocket client..." alt="" coords="1607,263,1813,305"/>
+</map>

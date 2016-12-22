@@ -1,0 +1,27 @@
+<map id="src/core/Scheduler.hpp" name="src/core/Scheduler.hpp">
+<area shape="rect" id="node2" href="$d3/d1e/CoreAPI_8cpp.html" title="src/core/CoreAPI.cpp" alt="" coords="5,177,153,203"/>
+<area shape="rect" id="node3" href="$df/db8/kernel_8hpp.html" title="src/core/kernel.hpp" alt="" coords="1813,87,1946,114"/>
+<area shape="rect" id="node17" href="$d0/d58/DoormanModule_8cpp.html" title="src/modules/doorman\l/DoormanModule.cpp" alt="" coords="3285,169,3431,211"/>
+<area shape="rect" id="node21" href="$d3/de8/wiegand_8cpp.html" title="src/modules/wiegand\l/wiegand.cpp" alt="" coords="3456,169,3601,211"/>
+<area shape="rect" id="node22" href="$df/df7/Scheduler_8cpp.html" title="src/core/Scheduler.cpp" alt="" coords="2811,87,2967,114"/>
+<area shape="rect" id="node23" href="$da/d9b/AuthFileInstance_8cpp.html" title="src/modules/auth/auth\l&#45;file/AuthFileInstance.cpp" alt="" coords="2991,80,3162,121"/>
+<area shape="rect" id="node24" href="$d2/dac/ReplicationModule_8cpp.html" title="src/modules/replication\l/ReplicationModule.cpp" alt="" coords="3187,80,3345,121"/>
+<area shape="rect" id="node25" href="$db/d44/Rpleth_8cpp.html" title="test/Rpleth.cpp" alt="" coords="3369,87,3480,114"/>
+<area shape="rect" id="node26" href="$d4/d9b/WiegandReader_8cpp.html" title="test/WiegandReader.cpp" alt="" coords="3504,87,3671,114"/>
+<area shape="rect" id="node4" href="$d6/dff/src_2core_2config_2ConfigManager_8cpp.html" title="src/core/config/ConfigManager.cpp" alt="" coords="1451,177,1676,203"/>
+<area shape="rect" id="node5" href="$d4/dd4/CoreUtils_8cpp.html" title="src/core/CoreUtils.cpp" alt="" coords="1700,177,1853,203"/>
+<area shape="rect" id="node6" href="$d9/d6a/GetServiceRegistry_8cpp.html" title="src/core/GetServiceRegistry.cpp" alt="" coords="1877,177,2089,203"/>
+<area shape="rect" id="node7" href="$dd/d24/kernel_8cpp.html" title="src/core/kernel.cpp" alt="" coords="2114,177,2247,203"/>
+<area shape="rect" id="node8" href="$d9/d4a/module__manager_8cpp.html" title="src/core/module_manager.cpp" alt="" coords="2271,177,2469,203"/>
+<area shape="rect" id="node9" href="$d2/d2a/networkconfig_8cpp.html" title="NetworkConfig class implementation. " alt="" coords="2493,169,2625,211"/>
+<area shape="rect" id="node10" href="$d4/d28/RemoteControl_8cpp.html" title="src/core/RemoteControl.cpp" alt="" coords="2650,177,2837,203"/>
+<area shape="rect" id="node11" href="$df/dca/GetLocalConfigVersion_8cpp.html" title="src/core/tasks/GetLocalConfig\lVersion.cpp" alt="" coords="2861,169,3060,211"/>
+<area shape="rect" id="node12" href="$d7/d6f/GetRemoteConfigVersion_8cpp.html" title="src/core/tasks/GetRemote\lConfigVersion.cpp" alt="" coords="3085,169,3261,211"/>
+<area shape="rect" id="node13" href="$d5/d8e/SyncConfig_8cpp.html" title="src/core/tasks/SyncConfig.cpp" alt="" coords="178,177,381,203"/>
+<area shape="rect" id="node14" href="$df/d0a/main_8cpp.html" title="standard main " alt="" coords="405,177,503,203"/>
+<area shape="rect" id="node15" href="$df/dac/AuthDBModule_8cpp.html" title="src/modules/auth/auth\l&#45;db/AuthDBModule.cpp" alt="" coords="527,169,685,211"/>
+<area shape="rect" id="node16" href="$d8/d37/AuthFileModule_8cpp.html" title="src/modules/auth/auth\l&#45;file/AuthFileModule.cpp" alt="" coords="709,169,871,211"/>
+<area shape="rect" id="node18" href="$d7/d36/LEDBuzzerModule_8cpp.html" title="src/modules/led&#45;buzzer\l/LEDBuzzerModule.cpp" alt="" coords="895,169,1055,211"/>
+<area shape="rect" id="node19" href="$da/d77/SysFsGpioModule_8cpp.html" title="src/modules/sysfsgpio\l/SysFsGpioModule.cpp" alt="" coords="1080,169,1239,211"/>
+<area shape="rect" id="node20" href="$d9/d8d/APISession_8cpp.html" title="src/modules/websock\l&#45;api/api/APISession.cpp" alt="" coords="1263,169,1426,211"/>
+</map>

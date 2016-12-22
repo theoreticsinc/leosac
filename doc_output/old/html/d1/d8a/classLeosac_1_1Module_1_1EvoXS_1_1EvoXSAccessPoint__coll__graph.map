@@ -1,0 +1,9 @@
+<map id="Leosac::Module::EvoXS::EvoXSAccessPoint" name="Leosac::Module::EvoXS::EvoXSAccessPoint">
+<area shape="rect" id="node2" href="$d0/dc6/classLeosac_1_1Auth_1_1AccessPoint.html" title="Leosac::Auth::AccessPoint" alt="" coords="1213,129,1403,156"/>
+<area shape="rect" id="node3" href="$de/dd9/classLeosac_1_1Auth_1_1IAccessPoint.html" title="An interface for access point. " alt="" coords="904,5,1097,32"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="261,165,348,192"/>
+<area shape="rect" id="node9" href="$db/d95/classLeosac_1_1Auth_1_1Door.html" title="Represent a door. " alt="" coords="588,92,732,119"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="13,158,151,199"/>
+<area shape="rect" id="node10" href="$dd/dbf/classLeosac_1_1Auth_1_1IDoor.html" title="A door. " alt="" coords="231,25,378,52"/>
+<area shape="rect" id="node13" href="$d6/d4d/classLeosac_1_1Audit_1_1AuditTracker.html" title="Implementation of IAuditTracker, backed by ODB. " alt="" coords="1211,180,1405,207"/>
+</map>

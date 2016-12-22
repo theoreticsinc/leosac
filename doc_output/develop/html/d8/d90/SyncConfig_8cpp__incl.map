@@ -1,0 +1,34 @@
+<map id="src/core/tasks/SyncConfig.cpp" name="src/core/tasks/SyncConfig.cpp">
+<area shape="rect" id="node2" href="$d9/dba/SyncConfig_8hpp.html" title="SyncConfig.hpp" alt="" coords="43,155,158,181"/>
+<area shape="rect" id="node9" href="$d2/df7/FetchRemoteConfig_8hpp.html" title="FetchRemoteConfig.hpp" alt="" coords="233,155,397,181"/>
+<area shape="rect" id="node15" href="$db/d79/ConfigManager_8hpp.html" title="core/config/ConfigManager.hpp" alt="" coords="1868,237,2071,263"/>
+<area shape="rect" id="node29" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="3440,326,3536,353"/>
+<area shape="rect" id="node35" href="$df/db8/kernel_8hpp.html" title="core/kernel.hpp" alt="" coords="1042,80,1153,107"/>
+<area shape="rect" id="node3" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="316,237,431,263"/>
+<area shape="rect" id="node6" href="$d8/d91/Task_8hpp.html" title="Task.hpp" alt="" coords="53,237,129,263"/>
+<area shape="rect" id="node10" href="$d9/d79/RemoteConfigCollector_8hpp.html" title="core/config/RemoteConfig\lCollector.hpp" alt="" coords="1000,229,1174,271"/>
+<area shape="rect" id="node16" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="2112,326,2313,353"/>
+<area shape="rect" id="node17" href="$d6/d2f/Stacktrace_8hpp.html" title="tools/Stacktrace.hpp" alt="" coords="1464,408,1606,435"/>
+<area shape="rect" id="node20" href="$d7/d7a/configexception_8hpp.html" title="configexception.hpp" alt="" coords="1986,408,2124,435"/>
+<area shape="rect" id="node21" href="$d8/db0/coreexception_8hpp.html" title="Exception class for Core related errors. " alt="" coords="2148,408,2276,435"/>
+<area shape="rect" id="node22" href="$d8/d77/deviceexception_8hpp.html" title="Exception class for Device related errors. " alt="" coords="2300,408,2442,435"/>
+<area shape="rect" id="node23" href="$db/d35/dynlibexception_8hpp.html" title="Exception class for DynLib related errors. " alt="" coords="2569,408,2706,435"/>
+<area shape="rect" id="node24" href="$d0/d4e/fsexception_8hpp.html" title="Exception class for filesystem related errors. " alt="" coords="2731,408,2846,435"/>
+<area shape="rect" id="node25" href="$d1/d8e/gpioexception_8hpp.html" title="Exception class for Gpio related errors. " alt="" coords="2960,408,3086,435"/>
+<area shape="rect" id="node26" href="$d7/d8c/moduleexception_8hpp.html" title="Exception class for modules. " alt="" coords="3110,408,3256,435"/>
+<area shape="rect" id="node27" href="$df/d8d/scriptexception_8hpp.html" title="Exception class for Script related errors. " alt="" coords="3280,408,3414,435"/>
+<area shape="rect" id="node28" href="$dc/dce/signalexception_8hpp.html" title="Exception class for Signal related errors. " alt="" coords="1682,408,1820,435"/>
+<area shape="rect" id="node36" href="$d6/de5/CoreUtils_8hpp.html" title="CoreUtils.hpp" alt="" coords="580,155,682,181"/>
+<area shape="rect" id="node38" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="507,326,643,353"/>
+<area shape="rect" id="node39" href="$d9/d69/db__fwd_8hpp.html" title="tools/db/db_fwd.hpp" alt="" coords="154,237,292,263"/>
+<area shape="rect" id="node40" href="$da/df8/ServiceFwd_8hpp.html" title="tools/service/ServiceFwd.hpp" alt="" coords="506,237,700,263"/>
+<area shape="rect" id="node41" href="$d4/d0a/MessageBus_8hpp.html" title="MessageBus.hpp" alt="" coords="2130,155,2252,181"/>
+<area shape="rect" id="node42" href="$d9/d1b/RemoteControl_8hpp.html" title="RemoteControl.hpp" alt="" coords="1970,155,2105,181"/>
+<area shape="rect" id="node43" href="$da/d6d/Scheduler_8hpp.html" title="Scheduler.hpp" alt="" coords="809,155,914,181"/>
+<area shape="rect" id="node44" href="$db/d33/ConfigChecker_8hpp.html" title="core/config/ConfigChecker.hpp" alt="" coords="1402,237,1604,263"/>
+<area shape="rect" id="node45" href="$d8/ddf/networkconfig_8hpp.html" title="NetworkConfig class declaration. " alt="" coords="990,155,1205,181"/>
+<area shape="rect" id="node46" href="$d6/d6c/module__manager_8hpp.html" title="module_manager.hpp" alt="" coords="1230,155,1376,181"/>
+<area shape="rect" id="node47" href="$db/d22/XmlNodeNameEnforcer_8hpp.html" title="tools/XmlNodeNameEnforcer.hpp" alt="" coords="1525,326,1742,353"/>
+<area shape="rect" id="node48" href="$d3/d4d/runtimeoptions_8hpp.html" title="RuntimeOptions class declaration. " alt="" coords="1629,237,1793,263"/>
+<area shape="rect" id="node37" href="$d6/da2/CoreAPI_8hpp.html" title="CoreAPI.hpp" alt="" coords="725,237,822,263"/>
+</map>

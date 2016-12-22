@@ -1,0 +1,6 @@
+<map id="Leosac::Audit::UpdateEvent" name="Leosac::Audit::UpdateEvent">
+<area shape="rect" id="node2" href="$d4/d99/classLeosac_1_1Audit_1_1IUpdateEvent.html" title="Interface for update&#45;related event. " alt="" coords="214,169,417,196"/>
+<area shape="rect" id="node3" href="$d1/d44/classLeosac_1_1Audit_1_1IAuditEntry.html" title="Base interface to Audit object. " alt="" coords="219,87,404,114"/>
+<area shape="rect" id="node5" href="$d0/d20/classLeosac_1_1Audit_1_1AuditEntry.html" title="Implementation of IAuditEntry, backed by ODB. " alt="" coords="7,169,189,196"/>
+<area shape="rect" id="node4" href="$d0/d33/classLeosac_1_1Tools_1_1IVisitable.html" title="Base class to make an object visitable. " alt="" coords="226,5,397,32"/>
+</map>

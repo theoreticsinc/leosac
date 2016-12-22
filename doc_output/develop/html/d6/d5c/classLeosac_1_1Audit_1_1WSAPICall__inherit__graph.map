@@ -1,0 +1,6 @@
+<map id="Leosac::Audit::WSAPICall" name="Leosac::Audit::WSAPICall">
+<area shape="rect" id="node2" href="$d9/db5/classLeosac_1_1Audit_1_1IWSAPICall.html" title="An audit entry dedicated to tracing API call. " alt="" coords="200,169,381,196"/>
+<area shape="rect" id="node3" href="$d1/d44/classLeosac_1_1Audit_1_1IAuditEntry.html" title="Base interface to Audit object. " alt="" coords="201,87,375,114"/>
+<area shape="rect" id="node5" href="$d0/d20/classLeosac_1_1Audit_1_1AuditEntry.html" title="Implementation of IAuditEntry, backed by ODB. " alt="" coords="5,169,176,196"/>
+<area shape="rect" id="node4" href="$d0/d33/classLeosac_1_1Tools_1_1IVisitable.html" title="Base class to make an object visitable. " alt="" coords="205,5,371,32"/>
+</map>

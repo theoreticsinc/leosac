@@ -1,0 +1,16 @@
+<map id="src/tools/registry/ThreadLocalRegistry.hpp" name="src/tools/registry/ThreadLocalRegistry.hpp">
+<area shape="rect" id="node2" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="335,169,431,196"/>
+<area shape="rect" id="node9" href="$db/dd1/Registry_8hpp.html" title="tools/registry/Registry.hpp" alt="" coords="1365,95,1540,121"/>
+<area shape="rect" id="node10" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="1300,169,1501,196"/>
+<area shape="rect" id="node11" href="$d6/d2f/Stacktrace_8hpp.html" title="tools/Stacktrace.hpp" alt="" coords="772,244,915,271"/>
+<area shape="rect" id="node15" href="$d7/d7a/configexception_8hpp.html" title="configexception.hpp" alt="" coords="558,244,697,271"/>
+<area shape="rect" id="node17" href="$d8/db0/coreexception_8hpp.html" title="Exception class for Core related errors. " alt="" coords="939,244,1067,271"/>
+<area shape="rect" id="node18" href="$d8/d77/deviceexception_8hpp.html" title="Exception class for Device related errors. " alt="" coords="1091,244,1233,271"/>
+<area shape="rect" id="node19" href="$db/d35/dynlibexception_8hpp.html" title="Exception class for DynLib related errors. " alt="" coords="1257,244,1395,271"/>
+<area shape="rect" id="node20" href="$d0/d4e/fsexception_8hpp.html" title="Exception class for filesystem related errors. " alt="" coords="1419,244,1534,271"/>
+<area shape="rect" id="node21" href="$d1/d8e/gpioexception_8hpp.html" title="Exception class for Gpio related errors. " alt="" coords="1559,244,1685,271"/>
+<area shape="rect" id="node22" href="$d7/d8c/moduleexception_8hpp.html" title="Exception class for modules. " alt="" coords="1709,244,1855,271"/>
+<area shape="rect" id="node23" href="$df/d8d/scriptexception_8hpp.html" title="Exception class for Script related errors. " alt="" coords="1879,244,2013,271"/>
+<area shape="rect" id="node24" href="$dc/dce/signalexception_8hpp.html" title="Exception class for Signal related errors. " alt="" coords="2037,244,2175,271"/>
+<area shape="rect" id="node16" href="$dd/d35/Colorize_8hpp.html" title="tools/Colorize.hpp" alt="" coords="468,319,595,345"/>
+</map>

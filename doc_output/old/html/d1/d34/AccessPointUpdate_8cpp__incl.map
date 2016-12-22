@@ -1,0 +1,18 @@
+<map id="src/core/auth/AccessPointUpdate.cpp" name="src/core/auth/AccessPointUpdate.cpp">
+<area shape="rect" id="node2" href="$d0/d2b/AccessPointUpdate_8hpp.html" title="AccessPointUpdate.hpp" alt="" coords="1022,95,1196,121"/>
+<area shape="rect" id="node3" href="$d0/d93/Update_8hpp.html" title="core/update/Update.hpp" alt="" coords="1020,169,1198,196"/>
+<area shape="rect" id="node4" href="$d7/dee/AuditTracker_8hpp.html" title="core/audit/AuditTracker.hpp" alt="" coords="945,244,1140,271"/>
+<area shape="rect" id="node29" href="$d7/d0a/IUpdate_8hpp.html" title="core/update/IUpdate.hpp" alt="" coords="45,468,226,495"/>
+<area shape="rect" id="node5" href="$d5/d07/IAuditTracker_8hpp.html" title="core/audit/IAuditTracker.hpp" alt="" coords="943,319,1142,345"/>
+<area shape="rect" id="node11" href="$df/da2/database_8hpp.html" title="tools/db/database.hpp" alt="" coords="537,319,702,345"/>
+<area shape="rect" id="node6" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="1040,550,1215,577"/>
+<area shape="rect" id="node12" href="$d9/d69/db__fwd_8hpp.html" title="db_fwd.hpp" alt="" coords="251,468,346,495"/>
+<area shape="rect" id="node15" href="$d0/dee/DBService_8hpp.html" title="tools/db/DBService.hpp" alt="" coords="717,393,888,420"/>
+<area shape="rect" id="node16" href="$d3/dd8/IAuditEntry_8hpp.html" title="core/audit/IAuditEntry.hpp" alt="" coords="896,468,1082,495"/>
+<area shape="rect" id="node17" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="847,550,1016,577"/>
+<area shape="rect" id="node23" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="414,543,607,584"/>
+<area shape="rect" id="node24" href="$d2/d0e/UpdateFwd_8hpp.html" title="core/update/UpdateFwd.hpp" alt="" coords="186,550,389,577"/>
+<area shape="rect" id="node25" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="683,550,823,577"/>
+<area shape="rect" id="node18" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="1239,550,1382,577"/>
+<area shape="rect" id="node19" href="$d2/d91/Visitor_8hpp.html" title="tools/Visitor.hpp" alt="" coords="1299,632,1423,659"/>
+</map>

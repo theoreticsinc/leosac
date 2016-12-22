@@ -1,0 +1,14 @@
+<map id="Leosac::CoreUtils" name="Leosac::CoreUtils">
+<area shape="rect" id="node2" href="$d1/d50/classLeosac_1_1Kernel.html" title="Core of Leosac. " alt="" coords="2227,412,2336,439"/>
+<area shape="rect" id="node20" href="$d7/d42/classLeosac_1_1RemoteControl.html" title="This class handle the remote control of leosac. " alt="" coords="2431,227,2591,253"/>
+<area shape="rect" id="node26" href="$d2/d91/classLeosac_1_1NetworkConfig.html" title="Class that helps configuring the network. " alt="" coords="2431,653,2590,680"/>
+<area shape="rect" id="node3" href="$dc/db8/classLeosac_1_1Tools_1_1XmlNodeNameEnforcer.html" title="This class is a simple wrapper that throws a ConfigException message formated to report the user that..." alt="" coords="557,442,759,483"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="181,403,261,429"/>
+<area shape="rect" id="node7" href="$d4/d7a/classLeosac_1_1ConfigManager.html" title="That class helps manage the configuration for the application and its module. " alt="" coords="783,653,943,680"/>
+<area shape="rect" id="node14" href="$d4/d18/structModuleManager_1_1ModuleInfo.html" title="Internal helper struct that store informations related to module that are useful to the module manage..." alt="" coords="1162,569,1349,596"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="5,395,132,437"/>
+<area shape="rect" id="node11" href="$d0/dc3/classModuleManager.html" title="A second module manager that loads &quot;ZMQ aware&quot; module – modules that talks to the application throug..." alt="" coords="1929,537,2043,564"/>
+<area shape="rect" id="node22" href="$d5/df3/classLeosac_1_1RemoteControlSecurity.html" title="Provide some kind of security framework to the Remote Control service. " alt="" coords="1151,228,1359,255"/>
+<area shape="rect" id="node10" href="$dd/dc8/classMessageBus.html" title="Implements a message bus (running in its own thread) that use 2 sockets. " alt="" coords="1937,339,2035,365"/>
+<area shape="rect" id="node17" href="$df/d75/classLeosac_1_1ServiceRegistry.html" title="A class that manages services. " alt="" coords="1627,448,1792,475"/>
+</map>

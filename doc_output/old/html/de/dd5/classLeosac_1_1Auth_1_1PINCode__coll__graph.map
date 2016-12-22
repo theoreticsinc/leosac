@@ -1,0 +1,8 @@
+<map id="Leosac::Auth::PINCode" name="Leosac::Auth::PINCode">
+<area shape="rect" id="node2" href="$d6/de2/classLeosac_1_1Auth_1_1BaseAuthSource.html" title="Leosac::Auth::BaseAuthSource" alt="" coords="581,107,801,134"/>
+<area shape="rect" id="node3" href="$d6/d6c/classLeosac_1_1Auth_1_1IAuthenticationSource.html" title="An Auth source is a card id, a pin code, a fingerprint, etc... " alt="" coords="225,5,435,47"/>
+<area shape="rect" id="node4" href="$d0/d33/classLeosac_1_1Tools_1_1IVisitable.html" title="Base class to make an object visitable. " alt="" coords="5,13,176,39"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="287,77,373,103"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="22,69,159,111"/>
+<area shape="rect" id="node7" href="$d9/d24/classLeosac_1_1Auth_1_1ValidityInfo.html" title="A simple class that stores (and can be queried for) the validity of some objects. ..." alt="" coords="239,199,421,226"/>
+</map>

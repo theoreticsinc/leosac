@@ -1,0 +1,19 @@
+<map id="src/modules/wiegand/WiegandConfig.hpp" name="src/modules/wiegand/WiegandConfig.hpp">
+<area shape="rect" id="node2" href="$d9/d02/GPIO_8hpp.html" title="hardware/GPIO.hpp" alt="" coords="94,95,231,121"/>
+<area shape="rect" id="node4" href="$d9/dc8/HardwareFwd_8hpp.html" title="hardware/HardwareFwd.hpp" alt="" coords="611,244,797,271"/>
+<area shape="rect" id="node14" href="$d4/d66/RFIDReader_8hpp.html" title="hardware/RFIDReader.hpp" alt="" coords="396,95,575,121"/>
+<area shape="rect" id="node15" href="$d5/d90/WiegandFwd_8hpp.html" title="modules/wiegand/WiegandFwd.hpp" alt="" coords="1389,95,1617,121"/>
+<area shape="rect" id="node17" href="$df/da2/database_8hpp.html" title="tools/db/database.hpp" alt="" coords="1214,95,1365,121"/>
+<area shape="rect" id="node3" href="$da/d14/Device_8hpp.html" title="hardware/Device.hpp" alt="" coords="302,169,447,196"/>
+<area shape="rect" id="node5" href="$dc/dea/Uuid_8hpp.html" title="tools/Uuid.hpp" alt="" coords="611,326,717,353"/>
+<area shape="rect" id="node18" href="$d9/d69/db__fwd_8hpp.html" title="db_fwd.hpp" alt="" coords="1465,244,1554,271"/>
+<area shape="rect" id="node21" href="$d0/dee/DBService_8hpp.html" title="tools/db/DBService.hpp" alt="" coords="957,169,1117,196"/>
+<area shape="rect" id="node22" href="$d3/dd8/IAuditEntry_8hpp.html" title="core/audit/IAuditEntry.hpp" alt="" coords="1583,244,1756,271"/>
+<area shape="rect" id="node27" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="1315,326,1472,353"/>
+<area shape="rect" id="node33" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="742,319,919,360"/>
+<area shape="rect" id="node34" href="$d2/d0e/UpdateFwd_8hpp.html" title="core/update/UpdateFwd.hpp" alt="" coords="944,326,1131,353"/>
+<area shape="rect" id="node35" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="1155,326,1291,353"/>
+<area shape="rect" id="node23" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="1773,326,1936,353"/>
+<area shape="rect" id="node28" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="2011,326,2144,353"/>
+<area shape="rect" id="node29" href="$d2/d91/Visitor_8hpp.html" title="tools/Visitor.hpp" alt="" coords="1970,408,2086,435"/>
+</map>

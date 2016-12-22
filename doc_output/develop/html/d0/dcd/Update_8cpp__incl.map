@@ -1,0 +1,17 @@
+<map id="src/core/update/Update.cpp" name="src/core/update/Update.cpp">
+<area shape="rect" id="node2" href="$d0/d93/Update_8hpp.html" title="Update.hpp" alt="" coords="1007,80,1096,107"/>
+<area shape="rect" id="node3" href="$d7/dee/AuditTracker_8hpp.html" title="core/audit/AuditTracker.hpp" alt="" coords="896,155,1079,181"/>
+<area shape="rect" id="node28" href="$d7/d0a/IUpdate_8hpp.html" title="core/update/IUpdate.hpp" alt="" coords="45,379,210,405"/>
+<area shape="rect" id="node4" href="$d5/d07/IAuditTracker_8hpp.html" title="core/audit/IAuditTracker.hpp" alt="" coords="894,229,1081,256"/>
+<area shape="rect" id="node10" href="$df/da2/database_8hpp.html" title="tools/db/database.hpp" alt="" coords="514,229,664,256"/>
+<area shape="rect" id="node5" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="986,461,1149,487"/>
+<area shape="rect" id="node11" href="$d9/d69/db__fwd_8hpp.html" title="db_fwd.hpp" alt="" coords="235,379,324,405"/>
+<area shape="rect" id="node14" href="$d0/dee/DBService_8hpp.html" title="tools/db/DBService.hpp" alt="" coords="681,304,841,331"/>
+<area shape="rect" id="node15" href="$d3/dd8/IAuditEntry_8hpp.html" title="core/audit/IAuditEntry.hpp" alt="" coords="849,379,1022,405"/>
+<area shape="rect" id="node16" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="805,461,962,487"/>
+<area shape="rect" id="node22" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="392,453,570,495"/>
+<area shape="rect" id="node23" href="$d2/d0e/UpdateFwd_8hpp.html" title="core/update/UpdateFwd.hpp" alt="" coords="181,461,368,487"/>
+<area shape="rect" id="node24" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="645,461,781,487"/>
+<area shape="rect" id="node17" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="1173,461,1306,487"/>
+<area shape="rect" id="node18" href="$d2/d91/Visitor_8hpp.html" title="tools/Visitor.hpp" alt="" coords="1158,543,1274,569"/>
+</map>

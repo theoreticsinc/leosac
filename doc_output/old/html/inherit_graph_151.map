@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d6/da1/classLeosac_1_1Tools_1_1BaseVisitor.html" title="Base class for visitor, should not be used directly. " alt="" coords="5,493,192,520"/>
+<area shape="rect" id="node2" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="A Visitor object. " alt="" coords="259,5,450,32"/>
+<area shape="rect" id="node3" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::IAccessPointEvent \&gt;" alt="" coords="250,57,459,98"/>
+<area shape="rect" id="node5" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::ICredentialEvent \&gt;" alt="" coords="256,383,453,425"/>
+<area shape="rect" id="node7" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::IDoorEvent \&gt;" alt="" coords="273,122,436,163"/>
+<area shape="rect" id="node8" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::IGroupEvent \&gt;" alt="" coords="269,187,440,229"/>
+<area shape="rect" id="node9" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::IScheduleEvent \&gt;" alt="" coords="259,253,450,294"/>
+<area shape="rect" id="node10" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::IUpdateEvent \&gt;" alt="" coords="265,449,444,490"/>
+<area shape="rect" id="node11" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::IUserEvent \&gt;" alt="" coords="273,318,436,359"/>
+<area shape="rect" id="node12" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::IUserGroupMembership\lEvent \&gt;" alt="" coords="240,515,469,571"/>
+<area shape="rect" id="node13" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Audit::IWSAPICall \&gt;" alt="" coords="275,595,434,637"/>
+<area shape="rect" id="node14" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Cred::IPinCode \&gt;" alt="" coords="277,661,432,702"/>
+<area shape="rect" id="node17" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; Cred::IRFIDCard \&gt;" alt="" coords="277,726,432,767"/>
+<area shape="rect" id="node18" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; DummyVisitable \&gt;" alt="" coords="276,791,433,833"/>
+<area shape="rect" id="node21" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; PINCode \&gt;" alt="" coords="277,857,432,898"/>
+<area shape="rect" id="node24" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; WiegandCard \&gt;" alt="" coords="277,922,432,963"/>
+<area shape="rect" id="node25" href="$d3/d19/classLeosac_1_1Tools_1_1Visitor.html" title="Leosac::Tools::Visitor\l\&lt; WiegandCardPin \&gt;" alt="" coords="277,987,432,1029"/>
+<area shape="rect" id="node4" href="$d4/d72/structLeosac_1_1Module_1_1EvoXS_1_1ChangeTracker_1_1VisitorImpl.html" title="Leosac::Module::EvoXS\l::ChangeTracker::VisitorImpl" alt="" coords="535,221,733,262"/>
+<area shape="rect" id="node6" href="$d4/dcd/structLeosac_1_1Audit_1_1Serializer_1_1PolymorphicAuditJSON_1_1HelperSerialize.html" title="Non static helper that can visit a core audit object. " alt="" coords="547,344,721,400"/>
+<area shape="rect" id="node15" href="$d0/d05/structLeosac_1_1PolymorphicCredentialJSONSerializer_1_1HelperSerialize.html" title="Non static helper that can visit credential object. " alt="" coords="525,726,743,767"/>
+<area shape="rect" id="node16" href="$d6/dcf/structLeosac_1_1PolymorphicCredentialJSONSerializer_1_1HelperUnserialize.html" title="Leosac::PolymorphicCredential\lJSONSerializer::HelperUnserialize" alt="" coords="517,661,751,702"/>
+<area shape="rect" id="node19" href="$dc/dda/structLeosac_1_1Test_1_1DummyConstOnlyVisitor.html" title="Leosac::Test::DummyConst\lOnlyVisitor" alt="" coords="536,847,732,889"/>
+<area shape="rect" id="node20" href="$d7/d54/structLeosac_1_1Test_1_1DummyVisitor.html" title="Leosac::Test::DummyVisitor" alt="" coords="535,796,733,823"/>
+<area shape="rect" id="node22" href="$d2/de1/classLeosac_1_1Auth_1_1IAuthSourceMapper.html" title="Base class to perform abstracted mapping operation over various AuthSource object. " alt="" coords="539,922,729,963"/>
+<area shape="rect" id="node23" href="$db/d85/classLeosac_1_1Module_1_1Auth_1_1FileAuthSourceMapper.html" title="Use a file to map auth source (card, PIN, etc) to user. " alt="" coords="799,922,972,963"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Leosac::Module::Rpleth::RplethModule" name="Leosac::Module::Rpleth::RplethModule">
+<area shape="rect" id="node2" href="$df/d9f/classLeosac_1_1Module_1_1BaseModule.html" title="Base class for module implementation. " alt="" coords="499,101,693,128"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="273,159,353,185"/>
+<area shape="rect" id="node7" href="$d7/dc6/classLeosac_1_1Hardware_1_1FWiegandReader.html" title="Facade object for a Wiegand Reader device. " alt="" coords="499,211,693,253"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="9,151,136,193"/>
+<area shape="rect" id="node9" href="$d1/d1b/classLeosac_1_1Module_1_1Rpleth_1_1CircularBuffer.html" title="Implementation of a ring buffer. " alt="" coords="233,338,393,379"/>
+</map>

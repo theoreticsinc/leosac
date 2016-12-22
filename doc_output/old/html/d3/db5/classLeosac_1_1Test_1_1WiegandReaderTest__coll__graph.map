@@ -1,0 +1,7 @@
+<map id="Leosac::Test::WiegandReaderTest" name="Leosac::Test::WiegandReaderTest">
+<area shape="rect" id="node2" href="$d7/d76/classLeosac_1_1Test_1_1Helper_1_1TestHelper.html" title="Base class for test fixtures, it defines a ZMQ context, a BUS and a sub socket connect to the bus..." alt="" coords="85,200,236,241"/>
+<area shape="rect" id="node4" href="$dd/dc8/classMessageBus.html" title="Implements a message bus (running in its own thread) that use 2 sockets. " alt="" coords="76,103,179,130"/>
+<area shape="rect" id="node6" href="$dc/dfa/classLeosac_1_1Test_1_1Helper_1_1FakeGPIO.html" title="A test helper class that emulate a GPIO pin. " alt="" coords="325,200,476,241"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="404,103,491,130"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="379,5,516,47"/>
+</map>

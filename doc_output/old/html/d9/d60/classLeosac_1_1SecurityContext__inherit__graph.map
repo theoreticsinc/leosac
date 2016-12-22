@@ -1,0 +1,5 @@
+<map id="Leosac::SecurityContext" name="Leosac::SecurityContext">
+<area shape="rect" id="node2" href="$dd/dc0/classLeosac_1_1SystemSecurityContext.html" title="A security context for system operation. " alt="" coords="5,80,232,107"/>
+<area shape="rect" id="node3" href="$da/d85/classLeosac_1_1UserSecurityContext.html" title="A SecurityContext object for users. " alt="" coords="257,80,463,107"/>
+<area shape="rect" id="node4" href="$d2/d3e/classLeosac_1_1NullSecurityContext.html" title="A SecurityContext with no permission. " alt="" coords="259,155,461,181"/>
+</map>

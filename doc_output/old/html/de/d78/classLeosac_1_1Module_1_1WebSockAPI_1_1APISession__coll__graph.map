@@ -1,0 +1,9 @@
+<map id="Leosac::Module::WebSockAPI::APISession" name="Leosac::Module::WebSockAPI::APISession">
+<area shape="rect" id="node2" title="STL class. " alt="" coords="192,235,279,262"/>
+<area shape="rect" id="node5" href="$d2/dec/classLeosac_1_1Module_1_1WebSockAPI_1_1WebSockAPIModule.html" title="A module that provide a websocket interface to Leosac. " alt="" coords="879,157,1085,199"/>
+<area shape="rect" id="node6" href="$df/d9f/classLeosac_1_1Module_1_1BaseModule.html" title="Base class for module implementation. " alt="" coords="378,122,585,149"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="5,228,143,269"/>
+<area shape="rect" id="node4" href="$d5/dad/classLeosac_1_1Module_1_1WebSockAPI_1_1WSServer.html" title="The implementation class that runs the websocket server. " alt="" coords="1193,275,1400,316"/>
+<area shape="rect" id="node13" href="$dc/da7/classLeosac_1_1Module_1_1WebSockAPI_1_1APIAuth.html" title="This class is responsible for providing an API to manage authentication for Websocket client..." alt="" coords="1509,293,1716,335"/>
+<area shape="rect" id="node15" href="$db/d24/classLeosac_1_1SecurityContext.html" title="A SecurityContext is used to query permission while doing an operation. " alt="" coords="893,13,1071,39"/>
+</map>

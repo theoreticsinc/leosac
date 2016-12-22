@@ -1,0 +1,9 @@
+<map id="Leosac::Module::Wiegand::Strategy::WiegandStrategy" name="Leosac::Module::Wiegand::Strategy::WiegandStrategy">
+<area shape="rect" id="node2" href="$df/dde/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1Autodetect.html" title="Variable strategy that tries to autodetect what it reads. " alt="" coords="257,5,431,47"/>
+<area shape="rect" id="node3" href="$de/d50/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1CardReading.html" title="Interface for a strategy that read a card number. " alt="" coords="257,71,431,112"/>
+<area shape="rect" id="node5" href="$d1/db0/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1PinReading.html" title="Interface for a strategy that read a PIN code. " alt="" coords="257,136,431,177"/>
+<area shape="rect" id="node8" href="$d2/d97/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1WiegandCardAndPin.html" title="Strategy for reading a card then a PIN code. " alt="" coords="240,201,448,243"/>
+<area shape="rect" id="node4" href="$db/d15/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1SimpleWiegandStrategy.html" title="Implementation of a wiegand card only strategy. " alt="" coords="496,71,723,112"/>
+<area shape="rect" id="node6" href="$d8/d7d/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1WiegandPinBuffered.html" title="Strategy for PIN only, when up to 5 keys are buffered and sent as 26 bits. " alt="" coords="506,136,713,177"/>
+<area shape="rect" id="node7" href="$df/da3/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1WiegandPinNBitsOnly.html" title="Strategy for ready PIN only. " alt="" coords="501,202,718,258"/>
+</map>

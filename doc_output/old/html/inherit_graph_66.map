@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$df/d9f/classLeosac_1_1Module_1_1BaseModule.html" title="Base class for module implementation. " alt="" coords="5,594,212,621"/>
+<area shape="rect" id="node2" href="$dd/d75/classLeosac_1_1Module_1_1AsioModule.html" title="This is a base class for boost::asio &#39;aware&#39; module. " alt="" coords="274,78,477,105"/>
+<area shape="rect" id="node6" href="$da/df8/classLeosac_1_1Module_1_1Auth_1_1AuthFileModule.html" title="This implements a authentication module that use files to store access permissions. " alt="" coords="296,129,455,171"/>
+<area shape="rect" id="node7" href="$da/dd6/classLeosac_1_1Module_1_1Doorman_1_1DoormanModule.html" title="Main class for the module, it create handlers and run them to, well, handle events and send command..." alt="" coords="281,195,470,236"/>
+<area shape="rect" id="node8" href="$dd/dea/classLeosac_1_1Module_1_1EventPublish_1_1EventPublish.html" title="Run the Event publication module. " alt="" coords="270,260,481,301"/>
+<area shape="rect" id="node9" href="$dd/dee/classLeosac_1_1Module_1_1Instrumentation_1_1InstrumentationModule.html" title="Leosac::Module::Instrumentation\l::InstrumentationModule" alt="" coords="260,325,491,367"/>
+<area shape="rect" id="node10" href="$db/d04/classLeosac_1_1Module_1_1LedBuzzer_1_1LEDBuzzerModule.html" title="Main class for LED support. " alt="" coords="277,391,473,432"/>
+<area shape="rect" id="node11" href="$da/da7/classLeosac_1_1Module_1_1Monitor_1_1MonitorModule.html" title="Main class for the monitor module. " alt="" coords="287,456,464,497"/>
+<area shape="rect" id="node12" href="$d4/d25/classLeosac_1_1Module_1_1Piface_1_1PFDigitalModule.html" title="Main class for the piface digital module. " alt="" coords="292,521,459,563"/>
+<area shape="rect" id="node13" href="$d5/d56/classLeosac_1_1Module_1_1Replication_1_1ReplicationModule.html" title="Main class for the replication module. " alt="" coords="277,587,474,628"/>
+<area shape="rect" id="node14" href="$d1/db0/classLeosac_1_1Module_1_1Rpleth_1_1RplethModule.html" title="Main class for the Rpleth module. " alt="" coords="291,652,460,693"/>
+<area shape="rect" id="node15" href="$d7/d4e/classLeosac_1_1Module_1_1StdinControllerModule.html" title="Leosac::Module::StdinController\lModule" alt="" coords="263,717,487,759"/>
+<area shape="rect" id="node16" href="$d8/de0/classLeosac_1_1Module_1_1SysFsGpio_1_1SysFsGpioModule.html" title="Handle GPIO management over sysfs. " alt="" coords="278,783,473,824"/>
+<area shape="rect" id="node17" href="$de/d77/classLeosac_1_1Module_1_1TCPNotifier_1_1TCPNotifierModule.html" title="Leosac::Module::TCPNotifier\l::TCPNotifierModule" alt="" coords="276,848,475,889"/>
+<area shape="rect" id="node18" href="$d2/d74/classLeosac_1_1Module_1_1TestAndReset_1_1TestAndResetModule.html" title="Leosac::Module::TestAndReset\l::TestAndResetModule" alt="" coords="268,913,483,955"/>
+<area shape="rect" id="node19" href="$d2/dec/classLeosac_1_1Module_1_1WebSockAPI_1_1WebSockAPIModule.html" title="A module that provide a websocket interface to Leosac. " alt="" coords="272,979,479,1020"/>
+<area shape="rect" id="node20" href="$d0/d78/classLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderModule.html" title="This simply is the main class for the Wiegand module. " alt="" coords="284,1044,467,1085"/>
+<area shape="rect" id="node21" href="$dd/d51/classLeosac_1_1Module_1_1WSNotifier_1_1WebServiceNotifier.html" title="Leosac::Module::WSNotifier\l::WebServiceNotifier" alt="" coords="278,1109,473,1151"/>
+<area shape="rect" id="node3" href="$d6/d46/classLeosac_1_1Module_1_1EvoXS_1_1EvoXSModule.html" title="Leosac::Module::EvoXS\l::EvoXSModule" alt="" coords="539,5,708,47"/>
+<area shape="rect" id="node4" href="$db/d47/classLeosac_1_1Module_1_1Notifd_1_1NotifdModule.html" title="Leosac::Module::Notifd\l::NotifdModule" alt="" coords="540,71,707,112"/>
+<area shape="rect" id="node5" href="$d9/d6d/classLeosac_1_1Module_1_1SMTP_1_1SMTPModule.html" title="Leosac::Module::SMTP\l::SMTPModule" alt="" coords="541,136,705,177"/>
+</map>

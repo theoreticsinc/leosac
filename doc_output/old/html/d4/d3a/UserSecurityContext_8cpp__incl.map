@@ -1,0 +1,26 @@
+<map id="src/core/UserSecurityContext.cpp" name="src/core/UserSecurityContext.cpp">
+<area shape="rect" id="node2" href="$df/d2f/UserSecurityContext_8hpp.html" title="UserSecurityContext.hpp" alt="" coords="24,251,207,278"/>
+<area shape="rect" id="node14" href="$d1/d6f/Group_8hpp.html" title="core/auth/Group.hpp" alt="" coords="1425,80,1579,107"/>
+<area shape="rect" id="node21" href="$d0/dee/DBService_8hpp.html" title="tools/db/DBService.hpp" alt="" coords="557,333,727,360"/>
+<area shape="rect" id="node30" href="$d7/d86/IDoor_8hpp.html" title="core/auth/IDoor.hpp" alt="" coords="1696,80,1844,107"/>
+<area shape="rect" id="node42" href="$de/dfd/User_8hpp.html" title="core/auth/User.hpp" alt="" coords="2123,80,2267,107"/>
+<area shape="rect" id="node44" href="$d6/d11/ScheduleMapping_8hpp.html" title="tools/ScheduleMapping.hpp" alt="" coords="1145,162,1344,189"/>
+<area shape="rect" id="node45" href="$df/d73/OptionalTransaction_8hpp.html" title="tools/db/OptionalTransaction.hpp" alt="" coords="173,162,404,189"/>
+<area shape="rect" id="node46" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="3606,162,3710,189"/>
+<area shape="rect" id="node50" href="$db/d6a/MultiplexedTransaction_8hpp.html" title="tools/db/MultiplexedTransaction.hpp" alt="" coords="428,162,677,189"/>
+<area shape="rect" id="node3" href="$d1/d3e/SecurityContext_8hpp.html" title="core/SecurityContext.hpp" alt="" coords="23,333,207,360"/>
+<area shape="rect" id="node4" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="1391,505,1560,531"/>
+<area shape="rect" id="node8" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="1589,408,1783,449"/>
+<area shape="rect" id="node9" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="571,415,711,442"/>
+<area shape="rect" id="node10" href="$d9/d69/db__fwd_8hpp.html" title="tools/db/db_fwd.hpp" alt="" coords="395,415,545,442"/>
+<area shape="rect" id="node11" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="761,505,936,531"/>
+<area shape="rect" id="node15" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="1909,162,2028,189"/>
+<area shape="rect" id="node17" href="$df/dbb/UserGroupMembership_8hpp.html" title="core/auth/UserGroupMembership.hpp" alt="" coords="1419,162,1681,189"/>
+<area shape="rect" id="node18" href="$df/da2/database_8hpp.html" title="tools/db/database.hpp" alt="" coords="955,251,1121,278"/>
+<area shape="rect" id="node22" href="$d3/dd8/IAuditEntry_8hpp.html" title="core/audit/IAuditEntry.hpp" alt="" coords="787,415,972,442"/>
+<area shape="rect" id="node24" href="$d2/d0e/UpdateFwd_8hpp.html" title="core/update/UpdateFwd.hpp" alt="" coords="1062,505,1265,531"/>
+<area shape="rect" id="node31" href="$d4/d86/IAccessProfile_8hpp.html" title="core/auth/Interfaces\l/IAccessProfile.hpp" alt="" coords="2311,155,2461,196"/>
+<area shape="rect" id="node34" href="$dc/dfe/ValidityInfo_8hpp.html" title="core/auth/ValidityInfo.hpp" alt="" coords="2104,162,2287,189"/>
+<area shape="rect" id="node35" href="$d2/df6/Scrypt_8hpp.html" title="tools/scrypt/Scrypt.hpp" alt="" coords="2697,162,2867,189"/>
+<area shape="rect" id="node32" href="$d1/d04/AuthTarget_8hpp.html" title="core/auth/AuthTarget.hpp" alt="" coords="2239,251,2423,278"/>
+</map>

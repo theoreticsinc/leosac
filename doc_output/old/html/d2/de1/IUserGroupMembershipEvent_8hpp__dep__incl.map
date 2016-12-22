@@ -1,0 +1,8 @@
+<map id="src/core/audit/IUserGroupMembershipEvent.hpp" name="src/core/audit/IUserGroupMembershipEvent.hpp">
+<area shape="rect" id="node2" href="$dc/d72/UserGroupMembershipEventSerializer_8cpp.html" title="src/core/audit/serializers\l/UserGroupMembershipEventSerializer.cpp" alt="" coords="5,95,300,136"/>
+<area shape="rect" id="node3" href="$d1/d96/UserGroupMembershipEvent_8hpp.html" title="src/core/audit/UserGroup\lMembershipEvent.hpp" alt="" coords="324,95,507,136"/>
+<area shape="rect" id="node6" href="$d1/de1/GroupCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/GroupCRUD.cpp" alt="" coords="531,95,707,136"/>
+<area shape="rect" id="node7" href="$df/dc4/MembershipCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/MembershipCRUD.cpp" alt="" coords="731,95,947,136"/>
+<area shape="rect" id="node4" href="$d4/dbe/AuditFactory_8cpp.html" title="src/core/audit/AuditFactory.cpp" alt="" coords="195,191,412,218"/>
+<area shape="rect" id="node5" href="$d3/dac/UserGroupMembershipEvent_8cpp.html" title="src/core/audit/UserGroup\lMembershipEvent.cpp" alt="" coords="436,184,619,225"/>
+</map>

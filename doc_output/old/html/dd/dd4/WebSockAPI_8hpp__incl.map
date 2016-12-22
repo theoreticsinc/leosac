@@ -1,0 +1,27 @@
+<map id="src/modules/websock&#45;api/WebSockAPI.hpp" name="src/modules/websock&#45;api/WebSockAPI.hpp">
+<area shape="rect" id="node2" href="$d5/dde/WSServer_8hpp.html" title="WSServer.hpp" alt="" coords="938,95,1048,121"/>
+<area shape="rect" id="node17" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="1512,430,1682,457"/>
+<area shape="rect" id="node18" href="$d9/d69/db__fwd_8hpp.html" title="tools/db/db_fwd.hpp" alt="" coords="438,430,588,457"/>
+<area shape="rect" id="node44" href="$d0/dc7/BaseModule_8hpp.html" title="modules/BaseModule.hpp" alt="" coords="2472,266,2658,293"/>
+<area shape="rect" id="node3" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="887,348,1006,375"/>
+<area shape="rect" id="node6" href="$d5/d0f/Messages_8hpp.html" title="Messages.hpp" alt="" coords="2041,348,2156,375"/>
+<area shape="rect" id="node7" href="$d4/dc3/APIStatusCode_8hpp.html" title="core/APIStatusCode.hpp" alt="" coords="2123,430,2300,457"/>
+<area shape="rect" id="node8" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="1308,430,1483,457"/>
+<area shape="rect" id="node14" href="$d8/d3a/Service_8hpp.html" title="Service.hpp" alt="" coords="902,177,999,203"/>
+<area shape="rect" id="node20" href="$d8/d8b/WebSockFwd_8hpp.html" title="WebSockFwd.hpp" alt="" coords="294,348,425,375"/>
+<area shape="rect" id="node32" href="$da/d3c/APIAuth_8hpp.html" title="api/APIAuth.hpp" alt="" coords="1880,266,2002,293"/>
+<area shape="rect" id="node35" href="$dc/d44/APISession_8hpp.html" title="api/APISession.hpp" alt="" coords="1075,266,1218,293"/>
+<area shape="rect" id="node36" href="$dc/df4/CRUDResourceHandler_8hpp.html" title="api/CRUDResourceHandler.hpp" alt="" coords="660,177,878,203"/>
+<area shape="rect" id="node38" href="$d2/da8/MethodHandler_8hpp.html" title="api/MethodHandler.hpp" alt="" coords="1232,177,1402,203"/>
+<area shape="rect" id="node15" href="$de/d95/ActionActionParam_8hpp.html" title="ActionActionParam.hpp" alt="" coords="1293,266,1464,293"/>
+<area shape="rect" id="node19" href="$dd/d46/RequestContext_8hpp.html" title="modules/websock&#45;api\l/RequestContext.hpp" alt="" coords="582,259,740,300"/>
+<area shape="rect" id="node22" href="$de/d8c/JSONUtils_8hpp.html" title="tools/JSONUtils.hpp" alt="" coords="1543,348,1688,375"/>
+<area shape="rect" id="node24" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="3056,430,3160,457"/>
+<area shape="rect" id="node16" href="$d1/d3e/SecurityContext_8hpp.html" title="core/SecurityContext.hpp" alt="" coords="1233,348,1417,375"/>
+<area shape="rect" id="node23" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="1748,430,1966,457"/>
+<area shape="rect" id="node33" href="$d3/d6e/Token_8hpp.html" title="core/auth/Token.hpp" alt="" coords="1815,348,1966,375"/>
+<area shape="rect" id="node37" href="$df/d2f/UserSecurityContext_8hpp.html" title="core/UserSecurityContext.hpp" alt="" coords="1488,266,1703,293"/>
+<area shape="rect" id="node45" href="$db/d33/ConfigChecker_8hpp.html" title="core/config/ConfigChecker.hpp" alt="" coords="2874,348,3088,375"/>
+<area shape="rect" id="node47" href="$db/d79/ConfigManager_8hpp.html" title="core/config/ConfigManager.hpp" alt="" coords="2529,348,2748,375"/>
+<area shape="rect" id="node49" href="$dd/dec/gettid_8hpp.html" title="tools/gettid.hpp" alt="" coords="2332,348,2454,375"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Leosac::Audit::IGroupEvent" name="Leosac::Audit::IGroupEvent">
+<area shape="rect" id="node4" href="$df/d1d/classLeosac_1_1Audit_1_1GroupEvent.html" title="Provides an implementation of IGroupEvent. " alt="" coords="7,229,198,256"/>
+<area shape="rect" id="node2" href="$d1/d44/classLeosac_1_1Audit_1_1IAuditEntry.html" title="Base interface to Audit object. " alt="" coords="10,80,195,107"/>
+<area shape="rect" id="node3" href="$d0/d33/classLeosac_1_1Tools_1_1IVisitable.html" title="Base class to make an object visitable. " alt="" coords="17,5,188,32"/>
+</map>

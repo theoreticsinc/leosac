@@ -1,0 +1,11 @@
+<map id="src/hardware/HardwareService.hpp" name="src/hardware/HardwareService.hpp">
+<area shape="rect" id="node2" href="$dd/d24/kernel_8cpp.html" title="src/core/kernel.cpp" alt="" coords="5,87,139,114"/>
+<area shape="rect" id="node3" href="$d2/dc0/Device_8cpp.html" title="src/hardware/Device.cpp" alt="" coords="163,87,330,114"/>
+<area shape="rect" id="node4" href="$d9/dab/HardwareService_8cpp.html" title="src/hardware/HardwareService.cpp" alt="" coords="355,87,581,114"/>
+<area shape="rect" id="node5" href="$d6/d24/BuzzerSerializer_8cpp.html" title="src/hardware/serializers\l/BuzzerSerializer.cpp" alt="" coords="605,80,765,121"/>
+<area shape="rect" id="node6" href="$d4/d68/LEDSerializer_8cpp.html" title="src/hardware/serializers\l/LEDSerializer.cpp" alt="" coords="789,80,949,121"/>
+<area shape="rect" id="node7" href="$d6/d95/PFDigitalModule_8cpp.html" title="src/modules/pifacedigital\l/PFDigitalModule.cpp" alt="" coords="974,80,1141,121"/>
+<area shape="rect" id="node8" href="$de/dc2/HardwareSearch_8cpp.html" title="src/modules/websock\l&#45;api/api/search/HardwareSearch.cpp" alt="" coords="1165,80,1398,121"/>
+<area shape="rect" id="node9" href="$d3/de8/wiegand_8cpp.html" title="src/modules/wiegand\l/wiegand.cpp" alt="" coords="1422,80,1567,121"/>
+<area shape="rect" id="node10" href="$d6/d48/WiegandConfigSerializer_8cpp.html" title="src/modules/wiegand\l/ws/WiegandConfigSerializer.cpp" alt="" coords="1591,80,1806,121"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="src/modules/monitor/MonitorModule.hpp" name="src/modules/monitor/MonitorModule.hpp">
+<area shape="rect" id="node2" href="$d3/dbd/FLED_8hpp.html" title="hardware/FLED.hpp" alt="" coords="255,95,400,121"/>
+<area shape="rect" id="node7" href="$d0/dc7/BaseModule_8hpp.html" title="modules/BaseModule.hpp" alt="" coords="782,95,969,121"/>
+<area shape="rect" id="node8" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="616,169,735,196"/>
+<area shape="rect" id="node11" href="$db/d33/ConfigChecker_8hpp.html" title="core/config/ConfigChecker.hpp" alt="" coords="2748,169,2963,196"/>
+<area shape="rect" id="node14" href="$db/d79/ConfigManager_8hpp.html" title="core/config/ConfigManager.hpp" alt="" coords="970,169,1189,196"/>
+<area shape="rect" id="node30" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="2702,251,2806,278"/>
+<area shape="rect" id="node37" href="$dd/dec/gettid_8hpp.html" title="tools/gettid.hpp" alt="" coords="469,169,591,196"/>
+<area shape="rect" id="node15" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="1502,251,1721,278"/>
+<area shape="rect" id="node16" href="$d6/d2f/Stacktrace_8hpp.html" title="tools/Stacktrace.hpp" alt="" coords="661,333,815,360"/>
+<area shape="rect" id="node19" href="$d7/d7a/configexception_8hpp.html" title="configexception.hpp" alt="" coords="2447,333,2597,360"/>
+<area shape="rect" id="node22" href="$d8/db0/coreexception_8hpp.html" title="Exception class for Core related errors. " alt="" coords="1235,333,1375,360"/>
+<area shape="rect" id="node23" href="$d8/d77/deviceexception_8hpp.html" title="Exception class for Device related errors. " alt="" coords="1399,333,1552,360"/>
+<area shape="rect" id="node24" href="$db/d35/dynlibexception_8hpp.html" title="Exception class for DynLib related errors. " alt="" coords="1779,333,1929,360"/>
+<area shape="rect" id="node25" href="$d0/d4e/fsexception_8hpp.html" title="Exception class for filesystem related errors. " alt="" coords="1953,333,2075,360"/>
+<area shape="rect" id="node26" href="$d1/d8e/gpioexception_8hpp.html" title="Exception class for Gpio related errors. " alt="" coords="2099,333,2238,360"/>
+<area shape="rect" id="node27" href="$d7/d8c/moduleexception_8hpp.html" title="Exception class for modules. " alt="" coords="2262,333,2422,360"/>
+<area shape="rect" id="node28" href="$df/d8d/scriptexception_8hpp.html" title="Exception class for Script related errors. " alt="" coords="839,333,986,360"/>
+<area shape="rect" id="node29" href="$dc/dce/signalexception_8hpp.html" title="Exception class for Signal related errors. " alt="" coords="1010,333,1159,360"/>
+<area shape="rect" id="node20" href="$dd/d35/Colorize_8hpp.html" title="tools/Colorize.hpp" alt="" coords="2454,408,2590,435"/>
+</map>

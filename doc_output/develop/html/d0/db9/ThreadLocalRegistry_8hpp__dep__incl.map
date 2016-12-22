@@ -1,0 +1,8 @@
+<map id="src/tools/registry/ThreadLocalRegistry.hpp" name="src/tools/registry/ThreadLocalRegistry.hpp">
+<area shape="rect" id="node2" href="$d8/da2/DoorSerializer_8cpp.html" title="src/core/auth/serializers\l/DoorSerializer.cpp" alt="" coords="5,95,167,136"/>
+<area shape="rect" id="node3" href="$d6/d5a/CredentialSerializer_8cpp.html" title="src/core/credentials\l/serializers/CredentialSerializer.cpp" alt="" coords="191,95,418,136"/>
+<area shape="rect" id="node4" href="$d2/df6/CredentialCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/CredentialCRUD.cpp" alt="" coords="442,95,634,136"/>
+<area shape="rect" id="node5" href="$d4/d2c/WSServer_8cpp.html" title="src/modules/websock\l&#45;api/WSServer.cpp" alt="" coords="658,95,807,136"/>
+<area shape="rect" id="node6" href="$d0/de5/ThreadLocalRegistry_8cpp.html" title="src/tools/registry\l/ThreadLocalRegistry.cpp" alt="" coords="831,95,1002,136"/>
+<area shape="rect" id="node7" href="$d4/ded/ScheduleMappingSerializer_8cpp.html" title="src/tools/serializers\l/ScheduleMappingSerializer.cpp" alt="" coords="1026,95,1234,136"/>
+</map>

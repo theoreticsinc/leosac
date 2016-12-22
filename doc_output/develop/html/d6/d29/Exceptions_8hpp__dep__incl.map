@@ -1,0 +1,22 @@
+<map id="src/modules/websock&#45;api/Exceptions.hpp" name="src/modules/websock&#45;api/Exceptions.hpp">
+<area shape="rect" id="node2" href="$da/d6f/SMTPModule_8cpp.html" title="src/modules/smtp/SMTPModule.cpp" alt="" coords="5,109,240,136"/>
+<area shape="rect" id="node3" href="$d7/d29/AccessPointCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/AccessPointCRUD.cpp" alt="" coords="265,102,471,143"/>
+<area shape="rect" id="node4" href="$d9/d8d/APISession_8cpp.html" title="src/modules/websock\l&#45;api/api/APISession.cpp" alt="" coords="496,102,659,143"/>
+<area shape="rect" id="node5" href="$da/d62/AuditGet_8cpp.html" title="src/modules/websock\l&#45;api/api/AuditGet.cpp" alt="" coords="683,102,832,143"/>
+<area shape="rect" id="node6" href="$d5/dcb/CRUDResourceHandler_8cpp.html" title="src/modules/websock\l&#45;api/api/CRUDResourceHandler.cpp" alt="" coords="856,102,1091,143"/>
+<area shape="rect" id="node7" href="$d7/dde/DoorCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/DoorCRUD.cpp" alt="" coords="1114,102,1275,143"/>
+<area shape="rect" id="node8" href="$d1/de1/GroupCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/GroupCRUD.cpp" alt="" coords="1300,102,1468,143"/>
+<area shape="rect" id="node9" href="$d0/d99/LogGet_8cpp.html" title="src/modules/websock\l&#45;api/api/LogGet.cpp" alt="" coords="1492,102,1641,143"/>
+<area shape="rect" id="node10" href="$df/dc4/MembershipCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/MembershipCRUD.cpp" alt="" coords="1666,102,1870,143"/>
+<area shape="rect" id="node11" href="$d9/d7c/MethodHandler_8cpp.html" title="src/modules/websock\l&#45;api/api/MethodHandler.cpp" alt="" coords="1895,102,2076,143"/>
+<area shape="rect" id="node12" href="$d7/da0/PasswordChange_8cpp.html" title="src/modules/websock\l&#45;api/api/PasswordChange.cpp" alt="" coords="2101,102,2297,143"/>
+<area shape="rect" id="node13" href="$d1/d54/AccessPointSearch_8cpp.html" title="src/modules/websock\l&#45;api/api/search/AccessPoint\lSearch.cpp" alt="" coords="2321,95,2506,151"/>
+<area shape="rect" id="node14" href="$dc/d40/CredentialSearch_8cpp.html" title="src/modules/websock\l&#45;api/api/search/Credential\lSearch.cpp" alt="" coords="2531,95,2701,151"/>
+<area shape="rect" id="node15" href="$d7/df7/DoorSearch_8cpp.html" title="src/modules/websock\l&#45;api/api/search/DoorSearch.cpp" alt="" coords="2725,102,2931,143"/>
+<area shape="rect" id="node16" href="$d1/daf/GroupSearch_8cpp.html" title="src/modules/websock\l&#45;api/api/search/GroupSearch.cpp" alt="" coords="2955,102,3167,143"/>
+<area shape="rect" id="node17" href="$de/dc2/HardwareSearch_8cpp.html" title="src/modules/websock\l&#45;api/api/search/HardwareSearch.cpp" alt="" coords="3191,102,3425,143"/>
+<area shape="rect" id="node18" href="$df/df7/UserCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/UserCRUD.cpp" alt="" coords="3449,102,3610,143"/>
+<area shape="rect" id="node19" href="$d7/d0b/ExceptionConverter_8cpp.html" title="src/modules/websock\l&#45;api/ExceptionConverter.cpp" alt="" coords="3635,102,3821,143"/>
+<area shape="rect" id="node20" href="$d6/dd1/Exceptions_8cpp.html" title="src/modules/websock\l&#45;api/Exceptions.cpp" alt="" coords="3845,102,3995,143"/>
+<area shape="rect" id="node21" href="$d4/d2c/WSServer_8cpp.html" title="src/modules/websock\l&#45;api/WSServer.cpp" alt="" coords="4019,102,4168,143"/>
+</map>

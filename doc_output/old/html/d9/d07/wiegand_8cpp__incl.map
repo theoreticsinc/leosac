@@ -1,0 +1,32 @@
+<map id="src/modules/wiegand/wiegand.cpp" name="src/modules/wiegand/wiegand.cpp">
+<area shape="rect" id="node2" href="$d0/d6f/wiegand_8hpp.html" title="wiegand.hpp" alt="" coords="1218,102,1321,129"/>
+<area shape="rect" id="node22" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="668,355,772,382"/>
+<area shape="rect" id="node29" href="$da/d6d/Scheduler_8hpp.html" title="core/Scheduler.hpp" alt="" coords="3222,184,3367,211"/>
+<area shape="rect" id="node34" href="$df/db8/kernel_8hpp.html" title="core/kernel.hpp" alt="" coords="2831,102,2953,129"/>
+<area shape="rect" id="node49" href="$db/de0/Autodetect_8hpp.html" title="modules/wiegand/strategies\l/Autodetect.hpp" alt="" coords="4182,95,4383,136"/>
+<area shape="rect" id="node3" href="$de/d9a/WiegandReaderImpl_8hpp.html" title="WiegandReaderImpl.hpp" alt="" coords="459,184,634,211"/>
+<area shape="rect" id="node10" href="$dd/d5c/WiegandStrategy_8hpp.html" title="modules/wiegand/strategies\l/WiegandStrategy.hpp" alt="" coords="197,259,398,300"/>
+<area shape="rect" id="node14" href="$d0/dc7/BaseModule_8hpp.html" title="modules/BaseModule.hpp" alt="" coords="1517,184,1704,211"/>
+<area shape="rect" id="node4" href="$dc/d74/Auth_8hpp.html" title="core/auth/Auth.hpp" alt="" coords="67,355,213,382"/>
+<area shape="rect" id="node6" href="$dd/d5a/FBuzzer_8hpp.html" title="hardware/FBuzzer.hpp" alt="" coords="524,266,687,293"/>
+<area shape="rect" id="node7" href="$d3/dbd/FLED_8hpp.html" title="FLED.hpp" alt="" coords="517,355,600,382"/>
+<area shape="rect" id="node15" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="3193,355,3311,382"/>
+<area shape="rect" id="node18" href="$db/d33/ConfigChecker_8hpp.html" title="core/config/ConfigChecker.hpp" alt="" coords="1765,266,1979,293"/>
+<area shape="rect" id="node21" href="$db/d79/ConfigManager_8hpp.html" title="core/config/ConfigManager.hpp" alt="" coords="1521,266,1740,293"/>
+<area shape="rect" id="node28" href="$dd/dec/gettid_8hpp.html" title="tools/gettid.hpp" alt="" coords="1116,266,1239,293"/>
+<area shape="rect" id="node30" href="$df/d9a/GenericTask_8hpp.html" title="core/tasks/GenericTask.hpp" alt="" coords="3282,266,3478,293"/>
+<area shape="rect" id="node31" href="$d8/d91/Task_8hpp.html" title="Task.hpp" alt="" coords="3341,355,3419,382"/>
+<area shape="rect" id="node35" href="$d6/de5/CoreUtils_8hpp.html" title="CoreUtils.hpp" alt="" coords="3391,184,3499,211"/>
+<area shape="rect" id="node37" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="3029,355,3169,382"/>
+<area shape="rect" id="node38" href="$d9/d69/db__fwd_8hpp.html" title="tools/db/db_fwd.hpp" alt="" coords="3957,266,4107,293"/>
+<area shape="rect" id="node39" href="$da/df8/ServiceFwd_8hpp.html" title="tools/service/ServiceFwd.hpp" alt="" coords="3728,266,3933,293"/>
+<area shape="rect" id="node40" href="$d4/d0a/MessageBus_8hpp.html" title="MessageBus.hpp" alt="" coords="1044,184,1175,211"/>
+<area shape="rect" id="node41" href="$d9/d1b/RemoteControl_8hpp.html" title="RemoteControl.hpp" alt="" coords="2057,184,2202,211"/>
+<area shape="rect" id="node44" href="$d8/ddf/networkconfig_8hpp.html" title="NetworkConfig class declaration. " alt="" coords="2853,184,3086,211"/>
+<area shape="rect" id="node45" href="$d6/d6c/module__manager_8hpp.html" title="module_manager.hpp" alt="" coords="2615,184,2777,211"/>
+<area shape="rect" id="node46" href="$db/d22/XmlNodeNameEnforcer_8hpp.html" title="tools/XmlNodeNameEnforcer.hpp" alt="" coords="1219,184,1453,211"/>
+<area shape="rect" id="node47" href="$d3/d4d/runtimeoptions_8hpp.html" title="RuntimeOptions class declaration. " alt="" coords="1314,266,1497,293"/>
+<area shape="rect" id="node36" href="$d6/da2/CoreAPI_8hpp.html" title="CoreAPI.hpp" alt="" coords="2954,266,3054,293"/>
+<area shape="rect" id="node42" href="$d8/dbc/RemoteControlSecurity_8hpp.html" title="RemoteControlSecurity.hpp" alt="" coords="2380,266,2575,293"/>
+<area shape="rect" id="node50" href="$dc/d0d/Strategies_8hpp.html" title="Strategies.hpp" alt="" coords="4225,184,4341,211"/>
+</map>

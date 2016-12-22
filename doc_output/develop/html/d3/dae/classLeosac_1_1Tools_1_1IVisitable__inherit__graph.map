@@ -1,0 +1,36 @@
+<map id="Leosac::Tools::IVisitable" name="Leosac::Tools::IVisitable">
+<area shape="rect" id="node2" href="$d1/d44/classLeosac_1_1Audit_1_1IAuditEntry.html" title="Base interface to Audit object. " alt="" coords="234,311,409,337"/>
+<area shape="rect" id="node25" href="$d6/d6c/classLeosac_1_1Auth_1_1IAuthenticationSource.html" title="An Auth source is a card id, a pin code, a fingerprint, etc... " alt="" coords="224,646,419,687"/>
+<area shape="rect" id="node27" href="$d7/db0/classLeosac_1_1Cred_1_1ICredential.html" title="Base interface for credential objects. " alt="" coords="236,723,407,749"/>
+<area shape="rect" id="node34" href="$df/d89/structLeosac_1_1Test_1_1DummyVisitable.html" title="Leosac::Test::DummyVisitable" alt="" coords="220,803,423,829"/>
+<area shape="rect" id="node3" href="$d0/d20/classLeosac_1_1Audit_1_1AuditEntry.html" title="Implementation of IAuditEntry, backed by ODB. " alt="" coords="488,281,659,308"/>
+<area shape="rect" id="node15" href="$d8/d9b/classLeosac_1_1Audit_1_1IAccessPointEvent.html" title="Interface that describes an Audit object for AccessPoint related event. " alt="" coords="479,333,667,374"/>
+<area shape="rect" id="node16" href="$d0/d87/classLeosac_1_1Audit_1_1ICredentialEvent.html" title="Audit interface to Credential related events. " alt="" coords="487,398,660,439"/>
+<area shape="rect" id="node17" href="$db/dcb/classLeosac_1_1Audit_1_1IDoorEvent.html" title="Interface that describes an Audit object for door related event. " alt="" coords="485,464,661,491"/>
+<area shape="rect" id="node18" href="$d1/df4/classLeosac_1_1Audit_1_1IGroupEvent.html" title="Interface that describes an Audit object for group related event. " alt="" coords="482,515,665,541"/>
+<area shape="rect" id="node19" href="$d7/d97/classLeosac_1_1Audit_1_1IScheduleEvent.html" title="Audit interface to Schedule related events. " alt="" coords="489,566,657,607"/>
+<area shape="rect" id="node20" href="$d4/d99/classLeosac_1_1Audit_1_1IUpdateEvent.html" title="Interface for update&#45;related event. " alt="" coords="478,5,669,32"/>
+<area shape="rect" id="node21" href="$df/df5/classLeosac_1_1Audit_1_1IUserEvent.html" title="Interface that describes an Audit object when a user&#45;related event happens. " alt="" coords="485,56,661,83"/>
+<area shape="rect" id="node22" href="$d3/d84/classLeosac_1_1Audit_1_1IUserGroupMembershipEvent.html" title="Interface to audit object that take care of tracking user/group membership change. " alt="" coords="485,109,662,150"/>
+<area shape="rect" id="node23" href="$d9/db5/classLeosac_1_1Audit_1_1IWSAPICall.html" title="An audit entry dedicated to tracing API call. " alt="" coords="483,176,664,203"/>
+<area shape="rect" id="node24" href="$d1/d20/classLeosac_1_1Audit_1_1IZoneEvent.html" title="Interface that describes an Audit object for zone related event. " alt="" coords="485,229,662,256"/>
+<area shape="rect" id="node4" href="$d1/de7/classLeosac_1_1Audit_1_1AccessPointEvent.html" title="Provides an implementation of IAccessPointEvent. " alt="" coords="731,341,915,382"/>
+<area shape="rect" id="node5" href="$d3/d8c/classLeosac_1_1Audit_1_1CredentialEvent.html" title="Provides an implementation of ICredentialEvent. " alt="" coords="739,406,908,447"/>
+<area shape="rect" id="node6" href="$d3/dea/classLeosac_1_1Audit_1_1DoorEvent.html" title="Provides an implementation of IDoorEvent. " alt="" coords="737,472,909,499"/>
+<area shape="rect" id="node7" href="$df/d1d/classLeosac_1_1Audit_1_1GroupEvent.html" title="Provides an implementation of IGroupEvent. " alt="" coords="734,523,913,549"/>
+<area shape="rect" id="node8" href="$db/ddb/classLeosac_1_1Audit_1_1ScheduleEvent.html" title="Provides an implementation of IScheduleEvent. " alt="" coords="724,573,923,600"/>
+<area shape="rect" id="node9" href="$df/d03/classLeosac_1_1Audit_1_1UpdateEvent.html" title="Provides an implementation of IUpdateEvent. " alt="" coords="730,5,917,32"/>
+<area shape="rect" id="node10" href="$db/d18/classLeosac_1_1Audit_1_1UserEvent.html" title="Provides an implementation of IUserEvent. " alt="" coords="737,56,909,83"/>
+<area shape="rect" id="node11" href="$d8/db4/classLeosac_1_1Audit_1_1UserGroupMembershipEvent.html" title="Provides an implementation of IUserGroupMembershipEvent. " alt="" coords="737,107,910,149"/>
+<area shape="rect" id="node12" href="$d5/d44/classLeosac_1_1Audit_1_1WSAPICall.html" title="Provides the implementation of IWSAPICall. " alt="" coords="735,173,912,200"/>
+<area shape="rect" id="node13" href="$df/dc9/classLeosac_1_1Audit_1_1ZoneEvent.html" title="Provides an implementation of IZoneEvent. " alt="" coords="737,224,910,251"/>
+<area shape="rect" id="node14" href="$d3/dc8/classLeosac_1_1Module_1_1SMTP_1_1SMTPAudit.html" title="Keeps track of SMTP event. " alt="" coords="744,275,903,317"/>
+<area shape="rect" id="node26" href="$d6/de2/classLeosac_1_1Auth_1_1BaseAuthSource.html" title="Leosac::Auth::BaseAuthSource" alt="" coords="471,632,676,659"/>
+<area shape="rect" id="node28" href="$da/d77/classLeosac_1_1Cred_1_1Credential.html" title="An ODB enabled credential object. " alt="" coords="490,733,657,760"/>
+<area shape="rect" id="node32" href="$df/d5c/classLeosac_1_1Cred_1_1IPinCode.html" title="Interface for PinCode credentials. " alt="" coords="492,784,655,811"/>
+<area shape="rect" id="node33" href="$da/d38/classLeosac_1_1Cred_1_1IRFIDCard.html" title="Interface for RFIDCard credential. " alt="" coords="487,683,659,709"/>
+<area shape="rect" id="node29" href="$d1/d16/classLeosac_1_1Cred_1_1PinCode.html" title="A PinCode credential. " alt="" coords="744,784,903,811"/>
+<area shape="rect" id="node30" href="$d7/d6b/classLeosac_1_1Cred_1_1RFIDCard.html" title="An RFID card credential. " alt="" coords="739,683,907,709"/>
+<area shape="rect" id="node31" href="$dd/dfb/classLeosac_1_1Cred_1_1RFIDCardPin.html" title="Credentials composed of an RFIDCard and a PIN code. " alt="" coords="730,733,917,760"/>
+<area shape="rect" id="node35" href="$d5/dfb/structLeosac_1_1Test_1_1DummyChildVisitable.html" title="Leosac::Test::DummyChild\lVisitable" alt="" coords="482,835,665,877"/>
+</map>

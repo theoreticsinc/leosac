@@ -1,0 +1,33 @@
+<map id="src/modules/websock&#45;api/api/APISession.cpp" name="src/modules/websock&#45;api/api/APISession.cpp">
+<area shape="rect" id="node2" href="$dc/d44/APISession_8hpp.html" title="APISession.hpp" alt="" coords="684,273,804,300"/>
+<area shape="rect" id="node10" href="$d2/de9/Exceptions_8hpp.html" title="Exceptions.hpp" alt="" coords="1654,191,1773,218"/>
+<area shape="rect" id="node17" href="$d5/dde/WSServer_8hpp.html" title="WSServer.hpp" alt="" coords="857,102,967,129"/>
+<area shape="rect" id="node27" href="$df/d2f/UserSecurityContext_8hpp.html" title="core/UserSecurityContext.hpp" alt="" coords="829,273,1043,300"/>
+<area shape="rect" id="node34" href="$d6/de5/CoreUtils_8hpp.html" title="core/CoreUtils.hpp" alt="" coords="3061,191,3201,218"/>
+<area shape="rect" id="node37" href="$d1/d6f/Group_8hpp.html" title="core/auth/Group.hpp" alt="" coords="2145,191,2300,218"/>
+<area shape="rect" id="node41" href="$de/dfd/User_8hpp.html" title="core/auth/User.hpp" alt="" coords="2769,191,2913,218"/>
+<area shape="rect" id="node43" href="$df/db8/kernel_8hpp.html" title="core/kernel.hpp" alt="" coords="3123,102,3245,129"/>
+<area shape="rect" id="node44" href="$d8/d1f/GenGuid_8h.html" title="tools/GenGuid.h" alt="" coords="1661,273,1785,300"/>
+<area shape="rect" id="node45" href="$d9/d2c/LogEntry_8hpp.html" title="tools/LogEntry.hpp" alt="" coords="2712,102,2851,129"/>
+<area shape="rect" id="node46" href="$dd/ded/MultiplexedSession_8hpp.html" title="tools/db/MultiplexedSession.hpp" alt="" coords="3269,102,3496,129"/>
+<area shape="rect" id="node48" href="$dc/d31/leosac_8hpp.html" title="version and platform handling " alt="" coords="2137,102,2263,129"/>
+<area shape="rect" id="node3" href="$d1/d3e/SecurityContext_8hpp.html" title="core/SecurityContext.hpp" alt="" coords="1047,348,1231,375"/>
+<area shape="rect" id="node4" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="1183,430,1353,457"/>
+<area shape="rect" id="node6" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="2286,430,2426,457"/>
+<area shape="rect" id="node7" href="$d9/d69/db__fwd_8hpp.html" title="tools/db/db_fwd.hpp" alt="" coords="3169,430,3319,457"/>
+<area shape="rect" id="node8" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="193,430,367,457"/>
+<area shape="rect" id="node11" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="1417,273,1636,300"/>
+<area shape="rect" id="node18" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="2163,273,2282,300"/>
+<area shape="rect" id="node20" href="$d5/d0f/Messages_8hpp.html" title="Messages.hpp" alt="" coords="137,273,252,300"/>
+<area shape="rect" id="node21" href="$d4/dc3/APIStatusCode_8hpp.html" title="core/APIStatusCode.hpp" alt="" coords="43,348,221,375"/>
+<area shape="rect" id="node22" href="$d8/d3a/Service_8hpp.html" title="Service.hpp" alt="" coords="146,191,243,218"/>
+<area shape="rect" id="node23" href="$d8/d8b/WebSockFwd_8hpp.html" title="WebSockFwd.hpp" alt="" coords="276,273,407,300"/>
+<area shape="rect" id="node25" href="$da/d3c/APIAuth_8hpp.html" title="api/APIAuth.hpp" alt="" coords="1271,273,1393,300"/>
+<area shape="rect" id="node26" href="$dc/df4/CRUDResourceHandler_8hpp.html" title="api/CRUDResourceHandler.hpp" alt="" coords="439,191,657,218"/>
+<area shape="rect" id="node28" href="$d2/da8/MethodHandler_8hpp.html" title="api/MethodHandler.hpp" alt="" coords="1265,191,1436,218"/>
+<area shape="rect" id="node35" href="$d6/da2/CoreAPI_8hpp.html" title="CoreAPI.hpp" alt="" coords="2306,273,2406,300"/>
+<area shape="rect" id="node36" href="$da/df8/ServiceFwd_8hpp.html" title="tools/service/ServiceFwd.hpp" alt="" coords="3327,273,3532,300"/>
+<area shape="rect" id="node38" href="$df/dbb/UserGroupMembership_8hpp.html" title="core/auth/UserGroupMembership.hpp" alt="" coords="2533,273,2795,300"/>
+<area shape="rect" id="node39" href="$df/da2/database_8hpp.html" title="tools/db/database.hpp" alt="" coords="2884,348,3049,375"/>
+<area shape="rect" id="node42" href="$d4/d86/IAccessProfile_8hpp.html" title="core/auth/Interfaces\l/IAccessProfile.hpp" alt="" coords="2611,423,2762,464"/>
+</map>

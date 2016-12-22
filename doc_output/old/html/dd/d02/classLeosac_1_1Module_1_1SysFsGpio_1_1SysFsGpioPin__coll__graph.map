@@ -1,0 +1,7 @@
+<map id="Leosac::Module::SysFsGpio::SysFsGpioPin" name="Leosac::Module::SysFsGpio::SysFsGpioPin">
+<area shape="rect" id="node2" href="$d1/d1a/classLeosac_1_1Module_1_1SysFsGpio_1_1SysFsGpioConfig.html" title="Internal configuration helper for sysfsgpio module. " alt="" coords="728,291,923,333"/>
+<area shape="rect" id="node6" href="$d8/de0/classLeosac_1_1Module_1_1SysFsGpio_1_1SysFsGpioModule.html" title="Handle GPIO management over sysfs. " alt="" coords="1609,150,1804,191"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="192,201,279,228"/>
+<area shape="rect" id="node7" href="$df/d9f/classLeosac_1_1Module_1_1BaseModule.html" title="Base class for module implementation. " alt="" coords="392,44,599,71"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="5,194,143,235"/>
+</map>

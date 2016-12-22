@@ -1,0 +1,29 @@
+<map id="src/modules/websock&#45;api/api/ZoneCRUD.cpp" name="src/modules/websock&#45;api/api/ZoneCRUD.cpp">
+<area shape="rect" id="node2" href="$d1/d41/ZoneCRUD_8hpp.html" title="modules/websock&#45;api\l/api/ZoneCRUD.hpp" alt="" coords="1212,95,1360,136"/>
+<area shape="rect" id="node29" href="$dd/d64/AuditFactory_8hpp.html" title="core/audit/AuditFactory.hpp" alt="" coords="2111,348,2294,375"/>
+<area shape="rect" id="node31" href="$d7/d6b/IZoneEvent_8hpp.html" title="core/audit/IZoneEvent.hpp" alt="" coords="1664,266,1839,293"/>
+<area shape="rect" id="node38" href="$d2/d50/Zone_8hpp.html" title="core/auth/Zone.hpp" alt="" coords="480,266,615,293"/>
+<area shape="rect" id="node42" href="$d0/d8c/ZoneSerializer_8hpp.html" title="core/auth/serializers\l/ZoneSerializer.hpp" alt="" coords="1501,259,1640,300"/>
+<area shape="rect" id="node43" href="$dc/d44/APISession_8hpp.html" title="modules/websock&#45;api\l/api/APISession.hpp" alt="" coords="1056,259,1204,300"/>
+<area shape="rect" id="node44" href="$d3/db1/AssertCast_8hpp.html" title="tools/AssertCast.hpp" alt="" coords="124,348,270,375"/>
+<area shape="rect" id="node50" href="$d0/dee/DBService_8hpp.html" title="tools/db/DBService.hpp" alt="" coords="1993,266,2153,293"/>
+<area shape="rect" id="node3" href="$dc/df4/CRUDResourceHandler_8hpp.html" title="api/CRUDResourceHandler.hpp" alt="" coords="802,184,1011,211"/>
+<area shape="rect" id="node11" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="1128,430,1285,457"/>
+<area shape="rect" id="node4" href="$df/d2f/UserSecurityContext_8hpp.html" title="core/UserSecurityContext.hpp" alt="" coords="1228,266,1427,293"/>
+<area shape="rect" id="node23" href="$dd/d46/RequestContext_8hpp.html" title="modules/websock&#45;api\l/RequestContext.hpp" alt="" coords="832,259,980,300"/>
+<area shape="rect" id="node26" href="$d8/d8b/WebSockFwd_8hpp.html" title="WebSockFwd.hpp" alt="" coords="842,348,971,375"/>
+<area shape="rect" id="node5" href="$d1/d3e/SecurityContext_8hpp.html" title="core/SecurityContext.hpp" alt="" coords="1862,348,2033,375"/>
+<area shape="rect" id="node6" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="1693,430,1856,457"/>
+<area shape="rect" id="node12" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="2254,423,2431,464"/>
+<area shape="rect" id="node13" href="$d9/dc8/HardwareFwd_8hpp.html" title="hardware/HardwareFwd.hpp" alt="" coords="1880,430,2066,457"/>
+<area shape="rect" id="node21" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="2456,430,2592,457"/>
+<area shape="rect" id="node22" href="$d9/d69/db__fwd_8hpp.html" title="tools/db/db_fwd.hpp" alt="" coords="2090,430,2229,457"/>
+<area shape="rect" id="node14" href="$dc/dea/Uuid_8hpp.html" title="tools/Uuid.hpp" alt="" coords="1356,512,1462,539"/>
+<area shape="rect" id="node24" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="601,348,716,375"/>
+<area shape="rect" id="node30" href="$d2/d0e/UpdateFwd_8hpp.html" title="core/update/UpdateFwd.hpp" alt="" coords="2616,430,2802,457"/>
+<area shape="rect" id="node32" href="$d3/dd8/IAuditEntry_8hpp.html" title="IAuditEntry.hpp" alt="" coords="1625,348,1737,375"/>
+<area shape="rect" id="node33" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="1536,430,1669,457"/>
+<area shape="rect" id="node34" href="$d2/d91/Visitor_8hpp.html" title="tools/Visitor.hpp" alt="" coords="1568,512,1684,539"/>
+<area shape="rect" id="node39" href="$d2/d72/IZone_8hpp.html" title="core/auth/IZone.hpp" alt="" coords="438,348,577,375"/>
+<area shape="rect" id="node45" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="153,430,249,457"/>
+</map>

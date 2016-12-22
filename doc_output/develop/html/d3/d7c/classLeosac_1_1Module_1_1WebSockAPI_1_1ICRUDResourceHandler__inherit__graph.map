@@ -1,0 +1,15 @@
+<map id="Leosac::Module::WebSockAPI::ICRUDResourceHandler" name="Leosac::Module::WebSockAPI::ICRUDResourceHandler">
+<area shape="rect" id="node2" href="$da/dc2/classLeosac_1_1Module_1_1WebSockAPI_1_1CRUDResourceHandler.html" title="Base CRUD handler for use within the websocket module. " alt="" coords="263,347,465,389"/>
+<area shape="rect" id="node14" href="$d2/de7/classLeosac_1_1Module_1_1WebSockAPI_1_1ExternalCRUDResourceHandler.html" title="For other module to use. " alt="" coords="255,413,473,454"/>
+<area shape="rect" id="node3" href="$df/dc5/classLeosac_1_1Module_1_1LedBuzzer_1_1CRUDHandler.html" title="CRUD handler for Buzzer and LED. " alt="" coords="530,5,714,61"/>
+<area shape="rect" id="node4" href="$de/d75/classLeosac_1_1Module_1_1Piface_1_1CRUDHandler.html" title="CRUD Handler for GPIO backed by Piface module. " alt="" coords="543,86,701,127"/>
+<area shape="rect" id="node5" href="$d9/da1/classLeosac_1_1Module_1_1WebSockAPI_1_1AccessPointCRUD.html" title="CRUD Handler for AccessPoint. " alt="" coords="521,151,723,193"/>
+<area shape="rect" id="node6" href="$d2/d04/classLeosac_1_1Module_1_1WebSockAPI_1_1CredentialCRUD.html" title="CRUD Handler for credentials. " alt="" coords="521,217,723,258"/>
+<area shape="rect" id="node7" href="$d3/d94/classLeosac_1_1Module_1_1WebSockAPI_1_1DoorCRUD.html" title="CRUD Handler for Doors. " alt="" coords="521,282,723,323"/>
+<area shape="rect" id="node8" href="$de/d3d/classLeosac_1_1Module_1_1WebSockAPI_1_1GroupCRUD.html" title="CRUD Handler for Groups. " alt="" coords="521,347,723,389"/>
+<area shape="rect" id="node9" href="$db/de3/classLeosac_1_1Module_1_1WebSockAPI_1_1MembershipCRUD.html" title="CRUD Handler for UserGroupMembership. " alt="" coords="521,413,723,454"/>
+<area shape="rect" id="node10" href="$d9/db2/classLeosac_1_1Module_1_1WebSockAPI_1_1ScheduleCRUD.html" title="CRUD Handler for schedules. " alt="" coords="521,478,723,519"/>
+<area shape="rect" id="node11" href="$db/d03/classLeosac_1_1Module_1_1WebSockAPI_1_1UserCRUD.html" title="CRUD Handler for Users. " alt="" coords="521,543,723,585"/>
+<area shape="rect" id="node12" href="$da/df1/classLeosac_1_1Module_1_1WebSockAPI_1_1ZoneCRUD.html" title="CRUD Handler for Zones. " alt="" coords="521,609,723,650"/>
+<area shape="rect" id="node13" href="$d6/ded/classLeosac_1_1Module_1_1Wiegand_1_1CRUDHandler.html" title="Leosac::Module::Wiegand\l::CRUDHandler" alt="" coords="535,674,709,715"/>
+</map>

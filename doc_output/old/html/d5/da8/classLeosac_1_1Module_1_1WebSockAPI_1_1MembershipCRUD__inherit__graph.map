@@ -1,0 +1,4 @@
+<map id="Leosac::Module::WebSockAPI::MembershipCRUD" name="Leosac::Module::WebSockAPI::MembershipCRUD">
+<area shape="rect" id="node2" href="$da/dc2/classLeosac_1_1Module_1_1WebSockAPI_1_1CRUDResourceHandler.html" title="Base CRUD handler for use within the websocket module. " alt="" coords="5,95,212,136"/>
+<area shape="rect" id="node3" href="$d3/dd9/classLeosac_1_1Module_1_1WebSockAPI_1_1ICRUDResourceHandler.html" title="A common interface for CRUD handler. " alt="" coords="5,5,212,47"/>
+</map>

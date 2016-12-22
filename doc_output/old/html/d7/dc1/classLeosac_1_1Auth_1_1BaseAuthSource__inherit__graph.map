@@ -1,0 +1,7 @@
+<map id="Leosac::Auth::BaseAuthSource" name="Leosac::Auth::BaseAuthSource">
+<area shape="rect" id="node4" href="$de/d20/classLeosac_1_1Auth_1_1PINCode.html" title="A wiegand PIN code. " alt="" coords="5,244,172,271"/>
+<area shape="rect" id="node5" href="$d4/d55/classLeosac_1_1Auth_1_1WiegandCard.html" title="A wiegand card. " alt="" coords="197,244,394,271"/>
+<area shape="rect" id="node6" href="$d2/d4d/classLeosac_1_1Auth_1_1WiegandCardPin.html" title="Credentials composed of a Wiegand card and a PIN code. " alt="" coords="418,244,634,271"/>
+<area shape="rect" id="node2" href="$d6/d6c/classLeosac_1_1Auth_1_1IAuthenticationSource.html" title="An Auth source is a card id, a pin code, a fingerprint, etc... " alt="" coords="191,80,400,121"/>
+<area shape="rect" id="node3" href="$d0/d33/classLeosac_1_1Tools_1_1IVisitable.html" title="Base class to make an object visitable. " alt="" coords="210,5,381,32"/>
+</map>

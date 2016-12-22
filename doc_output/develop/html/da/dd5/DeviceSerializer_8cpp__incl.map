@@ -1,0 +1,21 @@
+<map id="src/hardware/serializers/DeviceSerializer.cpp" name="src/hardware/serializers/DeviceSerializer.cpp">
+<area shape="rect" id="node2" href="$da/d25/DeviceSerializer_8hpp.html" title="hardware/serializers\l/DeviceSerializer.hpp" alt="" coords="599,95,746,136"/>
+<area shape="rect" id="node18" href="$de/d8c/JSONUtils_8hpp.html" title="tools/JSONUtils.hpp" alt="" coords="851,102,993,129"/>
+<area shape="rect" id="node3" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="794,184,909,211"/>
+<area shape="rect" id="node6" href="$da/d14/Device_8hpp.html" title="hardware/Device.hpp" alt="" coords="371,184,516,211"/>
+<area shape="rect" id="node7" href="$d9/dc8/HardwareFwd_8hpp.html" title="hardware/HardwareFwd.hpp" alt="" coords="203,259,388,285"/>
+<area shape="rect" id="node8" href="$dc/dea/Uuid_8hpp.html" title="tools/Uuid.hpp" alt="" coords="309,333,415,360"/>
+<area shape="rect" id="node19" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="1125,184,1282,211"/>
+<area shape="rect" id="node22" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="1945,184,2147,211"/>
+<area shape="rect" id="node23" href="$d6/d2f/Stacktrace_8hpp.html" title="tools/Stacktrace.hpp" alt="" coords="1188,259,1331,285"/>
+<area shape="rect" id="node25" href="$d7/d7a/configexception_8hpp.html" title="configexception.hpp" alt="" coords="2666,259,2805,285"/>
+<area shape="rect" id="node28" href="$d8/db0/coreexception_8hpp.html" title="Exception class for Core related errors. " alt="" coords="2514,259,2642,285"/>
+<area shape="rect" id="node29" href="$d8/d77/deviceexception_8hpp.html" title="Exception class for Device related errors. " alt="" coords="1355,259,1497,285"/>
+<area shape="rect" id="node30" href="$db/d35/dynlibexception_8hpp.html" title="Exception class for DynLib related errors. " alt="" coords="1521,259,1659,285"/>
+<area shape="rect" id="node31" href="$d0/d4e/fsexception_8hpp.html" title="Exception class for filesystem related errors. " alt="" coords="1683,259,1798,285"/>
+<area shape="rect" id="node32" href="$d1/d8e/gpioexception_8hpp.html" title="Exception class for Gpio related errors. " alt="" coords="1823,259,1949,285"/>
+<area shape="rect" id="node33" href="$d7/d8c/moduleexception_8hpp.html" title="Exception class for modules. " alt="" coords="1973,259,2119,285"/>
+<area shape="rect" id="node34" href="$df/d8d/scriptexception_8hpp.html" title="Exception class for Script related errors. " alt="" coords="2143,259,2277,285"/>
+<area shape="rect" id="node35" href="$dc/dce/signalexception_8hpp.html" title="Exception class for Signal related errors. " alt="" coords="2301,259,2439,285"/>
+<area shape="rect" id="node26" href="$dd/d35/Colorize_8hpp.html" title="tools/Colorize.hpp" alt="" coords="2664,333,2791,360"/>
+</map>

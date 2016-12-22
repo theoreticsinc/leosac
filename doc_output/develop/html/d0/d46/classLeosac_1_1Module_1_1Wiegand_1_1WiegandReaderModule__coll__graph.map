@@ -1,0 +1,12 @@
+<map id="Leosac::Module::Wiegand::WiegandReaderModule" name="Leosac::Module::Wiegand::WiegandReaderModule">
+<area shape="rect" id="node2" href="$df/d9f/classLeosac_1_1Module_1_1BaseModule.html" title="Base class for module implementation. " alt="" coords="764,169,959,195"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="497,245,577,271"/>
+<area shape="rect" id="node13" href="$d7/d64/classLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderImpl.html" title="An implementation class that represents a Wiegand Reader. " alt="" coords="775,337,948,379"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="179,237,306,279"/>
+<area shape="rect" id="node7" href="$df/ddb/classLeosac_1_1Module_1_1Wiegand_1_1WSHelperThread.html" title="Leosac::Module::Wiegand\l::WSHelperThread" alt="" coords="775,37,948,79"/>
+<area shape="rect" id="node8" href="$d8/daf/classLeosac_1_1Module_1_1WebSockAPI_1_1BaseModuleSupportThread.html" title="Leosac::Module::WebSockAPI\l::BaseModuleSupportThread\&lt; int \&gt;" alt="" coords="424,37,649,79"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="5,78,89,105"/>
+<area shape="rect" id="node15" href="$d5/d39/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1WiegandStrategy.html" title="The multiple modes available to wiegand reader are implemented through the strategy pattern..." alt="" coords="1096,324,1283,365"/>
+<area shape="rect" id="node17" href="$db/df5/classLeosac_1_1Hardware_1_1FLED.html" title="A Facade to a LED object. " alt="" coords="157,338,328,365"/>
+<area shape="rect" id="node20" href="$d9/d4f/classLeosac_1_1Module_1_1Wiegand_1_1WiegandConfig.html" title="Transient configuration object that stores the list of reader use/configure. " alt="" coords="775,103,948,144"/>
+</map>

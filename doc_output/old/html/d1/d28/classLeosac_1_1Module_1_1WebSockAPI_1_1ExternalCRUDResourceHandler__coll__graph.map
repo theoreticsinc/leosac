@@ -1,0 +1,6 @@
+<map id="Leosac::Module::WebSockAPI::ExternalCRUDResourceHandler" name="Leosac::Module::WebSockAPI::ExternalCRUDResourceHandler">
+<area shape="rect" id="node2" href="$d3/dd9/classLeosac_1_1Module_1_1WebSockAPI_1_1ICRUDResourceHandler.html" title="A common interface for CRUD handler. " alt="" coords="568,5,775,47"/>
+<area shape="rect" id="node3" href="$dd/db7/structLeosac_1_1Module_1_1WebSockAPI_1_1ModuleRequestContext.html" title="A request context dedicated for websocket request that are handled by other modules. " alt="" coords="568,71,775,112"/>
+<area shape="rect" id="node4" href="$da/d85/classLeosac_1_1UserSecurityContext.html" title="A SecurityContext object for users. " alt="" coords="232,78,439,105"/>
+<area shape="rect" id="node5" href="$db/d24/classLeosac_1_1SecurityContext.html" title="A SecurityContext is used to query permission while doing an operation. " alt="" coords="5,78,183,105"/>
+</map>

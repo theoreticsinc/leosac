@@ -1,0 +1,30 @@
+<map id="src/core/auth/serializers/UserGroupMembershipSerializer.cpp" name="src/core/auth/serializers/UserGroupMembershipSerializer.cpp">
+<area shape="rect" id="node2" href="$dc/d8c/UserGroupMembershipSerializer_8hpp.html" title="UserGroupMembershipSerializer.hpp" alt="" coords="1816,244,2072,271"/>
+<area shape="rect" id="node14" href="$df/dbb/UserGroupMembership_8hpp.html" title="core/auth/UserGroupMembership.hpp" alt="" coords="2422,95,2685,121"/>
+<area shape="rect" id="node29" href="$de/d8c/JSONUtils_8hpp.html" title="tools/JSONUtils.hpp" alt="" coords="1646,244,1791,271"/>
+<area shape="rect" id="node47" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="3260,483,3364,509"/>
+<area shape="rect" id="node3" href="$d1/d3e/SecurityContext_8hpp.html" title="core/SecurityContext.hpp" alt="" coords="2248,319,2432,345"/>
+<area shape="rect" id="node4" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="1925,401,2094,427"/>
+<area shape="rect" id="node8" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="2481,393,2674,435"/>
+<area shape="rect" id="node9" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="2317,401,2457,427"/>
+<area shape="rect" id="node10" href="$d9/d69/db__fwd_8hpp.html" title="tools/db/db_fwd.hpp" alt="" coords="2976,401,3125,427"/>
+<area shape="rect" id="node11" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="2118,401,2293,427"/>
+<area shape="rect" id="node15" href="$df/da2/database_8hpp.html" title="tools/db/database.hpp" alt="" coords="2471,169,2636,196"/>
+<area shape="rect" id="node18" href="$d0/dee/DBService_8hpp.html" title="tools/db/DBService.hpp" alt="" coords="2853,244,3024,271"/>
+<area shape="rect" id="node19" href="$d3/dd8/IAuditEntry_8hpp.html" title="core/audit/IAuditEntry.hpp" alt="" coords="2833,319,3018,345"/>
+<area shape="rect" id="node25" href="$d2/d0e/UpdateFwd_8hpp.html" title="core/update/UpdateFwd.hpp" alt="" coords="2699,401,2901,427"/>
+<area shape="rect" id="node20" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="3150,401,3293,427"/>
+<area shape="rect" id="node21" href="$d2/d91/Visitor_8hpp.html" title="tools/Visitor.hpp" alt="" coords="3059,483,3183,509"/>
+<area shape="rect" id="node30" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="807,319,1025,345"/>
+<area shape="rect" id="node31" href="$d6/d2f/Stacktrace_8hpp.html" title="tools/Stacktrace.hpp" alt="" coords="1164,401,1319,427"/>
+<area shape="rect" id="node35" href="$d7/d7a/configexception_8hpp.html" title="configexception.hpp" alt="" coords="1698,401,1849,427"/>
+<area shape="rect" id="node38" href="$d8/db0/coreexception_8hpp.html" title="Exception class for Core related errors. " alt="" coords="230,401,370,427"/>
+<area shape="rect" id="node39" href="$d8/d77/deviceexception_8hpp.html" title="Exception class for Device related errors. " alt="" coords="394,401,547,427"/>
+<area shape="rect" id="node40" href="$db/d35/dynlibexception_8hpp.html" title="Exception class for DynLib related errors. " alt="" coords="572,401,721,427"/>
+<area shape="rect" id="node41" href="$d0/d4e/fsexception_8hpp.html" title="Exception class for filesystem related errors. " alt="" coords="855,401,977,427"/>
+<area shape="rect" id="node42" href="$d1/d8e/gpioexception_8hpp.html" title="Exception class for Gpio related errors. " alt="" coords="1001,401,1140,427"/>
+<area shape="rect" id="node43" href="$d7/d8c/moduleexception_8hpp.html" title="Exception class for modules. " alt="" coords="1343,401,1503,427"/>
+<area shape="rect" id="node44" href="$df/d8d/scriptexception_8hpp.html" title="Exception class for Script related errors. " alt="" coords="1527,401,1673,427"/>
+<area shape="rect" id="node45" href="$dc/dce/signalexception_8hpp.html" title="Exception class for Signal related errors. " alt="" coords="5,401,155,427"/>
+<area shape="rect" id="node36" href="$dd/d35/Colorize_8hpp.html" title="tools/Colorize.hpp" alt="" coords="1705,483,1841,509"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="src/modules/websock&#45;api/api/search/SearchBase.hpp" name="src/modules/websock&#45;api/api/search/SearchBase.hpp">
+<area shape="rect" id="node2" href="$d0/dee/DBService_8hpp.html" title="tools/db/DBService.hpp" alt="" coords="845,95,1015,121"/>
+<area shape="rect" id="node19" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="1594,95,1698,121"/>
+<area shape="rect" id="node3" href="$d3/dd8/IAuditEntry_8hpp.html" title="core/audit/IAuditEntry.hpp" alt="" coords="419,169,604,196"/>
+<area shape="rect" id="node9" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="611,251,780,278"/>
+<area shape="rect" id="node15" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="1020,244,1213,285"/>
+<area shape="rect" id="node16" href="$d2/d0e/UpdateFwd_8hpp.html" title="core/update/UpdateFwd.hpp" alt="" coords="1238,251,1441,278"/>
+<area shape="rect" id="node17" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="856,251,996,278"/>
+<area shape="rect" id="node18" href="$d9/d69/db__fwd_8hpp.html" title="tools/db/db_fwd.hpp" alt="" coords="743,169,893,196"/>
+<area shape="rect" id="node4" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="172,251,347,278"/>
+<area shape="rect" id="node10" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="5,251,148,278"/>
+<area shape="rect" id="node11" href="$d2/d91/Visitor_8hpp.html" title="tools/Visitor.hpp" alt="" coords="15,333,139,360"/>
+</map>

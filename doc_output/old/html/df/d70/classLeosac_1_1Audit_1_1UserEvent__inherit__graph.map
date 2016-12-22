@@ -1,0 +1,6 @@
+<map id="Leosac::Audit::UserEvent" name="Leosac::Audit::UserEvent">
+<area shape="rect" id="node2" href="$df/df5/classLeosac_1_1Audit_1_1IUserEvent.html" title="Interface that describes an Audit object when a user&#45;related event happens. " alt="" coords="215,169,400,196"/>
+<area shape="rect" id="node3" href="$d1/d44/classLeosac_1_1Audit_1_1IAuditEntry.html" title="Base interface to Audit object. " alt="" coords="215,87,400,114"/>
+<area shape="rect" id="node5" href="$d0/d20/classLeosac_1_1Audit_1_1AuditEntry.html" title="Implementation of IAuditEntry, backed by ODB. " alt="" coords="8,169,191,196"/>
+<area shape="rect" id="node4" href="$d0/d33/classLeosac_1_1Tools_1_1IVisitable.html" title="Base class to make an object visitable. " alt="" coords="222,5,393,32"/>
+</map>

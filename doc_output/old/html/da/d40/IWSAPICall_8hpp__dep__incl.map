@@ -1,0 +1,9 @@
+<map id="src/core/audit/IWSAPICall.hpp" name="src/core/audit/IWSAPICall.hpp">
+<area shape="rect" id="node2" href="$d9/db8/Audit_8hpp.html" title="src/core/audit/Audit.hpp" alt="" coords="5,87,180,114"/>
+<area shape="rect" id="node3" href="$d1/d4d/WSAPICallSerializer_8cpp.html" title="src/core/audit/serializers\l/WSAPICallSerializer.cpp" alt="" coords="204,80,381,121"/>
+<area shape="rect" id="node4" href="$de/d34/WSAPICall_8hpp.html" title="src/core/audit/WSAPICall.hpp" alt="" coords="405,87,609,114"/>
+<area shape="rect" id="node8" href="$da/d6f/SMTPModule_8cpp.html" title="src/modules/smtp/SMTPModule.cpp" alt="" coords="633,87,883,114"/>
+<area shape="rect" id="node5" href="$d4/dbe/AuditFactory_8cpp.html" title="src/core/audit/AuditFactory.cpp" alt="" coords="164,177,381,203"/>
+<area shape="rect" id="node6" href="$d2/de5/WSAPICall_8cpp.html" title="src/core/audit/WSAPICall.cpp" alt="" coords="406,177,609,203"/>
+<area shape="rect" id="node7" href="$d4/d2c/WSServer_8cpp.html" title="src/modules/websock\l&#45;api/WSServer.cpp" alt="" coords="633,169,792,211"/>
+</map>

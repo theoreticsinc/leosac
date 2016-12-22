@@ -1,0 +1,28 @@
+<map id="src/core/auth/serializers/GroupSerializer.cpp" name="src/core/auth/serializers/GroupSerializer.cpp">
+<area shape="rect" id="node2" href="$dc/d71/GroupSerializer_8hpp.html" title="GroupSerializer.hpp" alt="" coords="1324,251,1460,278"/>
+<area shape="rect" id="node17" href="$d1/d6f/Group_8hpp.html" title="core/auth/Group.hpp" alt="" coords="887,95,1027,121"/>
+<area shape="rect" id="node30" href="$de/d8c/JSONUtils_8hpp.html" title="tools/JSONUtils.hpp" alt="" coords="1534,333,1677,360"/>
+<area shape="rect" id="node45" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="2248,95,2344,121"/>
+<area shape="rect" id="node3" href="$d1/d3e/SecurityContext_8hpp.html" title="core/SecurityContext.hpp" alt="" coords="1036,333,1207,360"/>
+<area shape="rect" id="node8" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="1028,415,1185,442"/>
+<area shape="rect" id="node4" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="841,415,1004,442"/>
+<area shape="rect" id="node9" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="639,408,817,449"/>
+<area shape="rect" id="node10" href="$d9/dc8/HardwareFwd_8hpp.html" title="hardware/HardwareFwd.hpp" alt="" coords="1210,415,1395,442"/>
+<area shape="rect" id="node14" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="316,415,452,442"/>
+<area shape="rect" id="node15" href="$d9/d69/db__fwd_8hpp.html" title="tools/db/db_fwd.hpp" alt="" coords="476,415,615,442"/>
+<area shape="rect" id="node11" href="$dc/dea/Uuid_8hpp.html" title="tools/Uuid.hpp" alt="" coords="1289,497,1396,524"/>
+<area shape="rect" id="node18" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="85,415,200,442"/>
+<area shape="rect" id="node20" href="$df/dbb/UserGroupMembership_8hpp.html" title="core/auth/UserGroupMembership.hpp" alt="" coords="1139,169,1378,196"/>
+<area shape="rect" id="node21" href="$df/da2/database_8hpp.html" title="tools/db/database.hpp" alt="" coords="601,251,751,278"/>
+<area shape="rect" id="node24" href="$d0/dee/DBService_8hpp.html" title="tools/db/DBService.hpp" alt="" coords="195,333,355,360"/>
+<area shape="rect" id="node31" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="2137,415,2338,442"/>
+<area shape="rect" id="node32" href="$d6/d2f/Stacktrace_8hpp.html" title="tools/Stacktrace.hpp" alt="" coords="1471,497,1614,524"/>
+<area shape="rect" id="node34" href="$d7/d7a/configexception_8hpp.html" title="configexception.hpp" alt="" coords="2168,497,2307,524"/>
+<area shape="rect" id="node35" href="$d8/db0/coreexception_8hpp.html" title="Exception class for Core related errors. " alt="" coords="2331,497,2459,524"/>
+<area shape="rect" id="node36" href="$d8/d77/deviceexception_8hpp.html" title="Exception class for Device related errors. " alt="" coords="2483,497,2624,524"/>
+<area shape="rect" id="node37" href="$db/d35/dynlibexception_8hpp.html" title="Exception class for DynLib related errors. " alt="" coords="2751,497,2889,524"/>
+<area shape="rect" id="node38" href="$d0/d4e/fsexception_8hpp.html" title="Exception class for filesystem related errors. " alt="" coords="2913,497,3028,524"/>
+<area shape="rect" id="node39" href="$d1/d8e/gpioexception_8hpp.html" title="Exception class for Gpio related errors. " alt="" coords="1638,497,1765,524"/>
+<area shape="rect" id="node40" href="$d7/d8c/moduleexception_8hpp.html" title="Exception class for modules. " alt="" coords="1789,497,1934,524"/>
+<area shape="rect" id="node41" href="$df/d8d/scriptexception_8hpp.html" title="Exception class for Script related errors. " alt="" coords="1958,497,2093,524"/>
+</map>

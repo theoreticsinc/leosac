@@ -1,0 +1,22 @@
+<map id="src/core/auth/User.hpp" name="src/core/auth/User.hpp">
+<area shape="rect" id="node2" href="$d3/d19/AuditEntry_8cpp.html" title="src/core/audit/AuditEntry.cpp" alt="" coords="5,87,196,114"/>
+<area shape="rect" id="node3" href="$d4/dbe/AuditFactory_8cpp.html" title="src/core/audit/AuditFactory.cpp" alt="" coords="220,87,424,114"/>
+<area shape="rect" id="node4" href="$d2/d8b/UserEvent_8cpp.html" title="src/core/audit/UserEvent.cpp" alt="" coords="449,87,641,114"/>
+<area shape="rect" id="node5" href="$d2/de5/WSAPICall_8cpp.html" title="src/core/audit/WSAPICall.cpp" alt="" coords="665,87,862,114"/>
+<area shape="rect" id="node6" href="$d3/da9/UserSerializer_8cpp.html" title="src/core/auth/serializers\l/UserSerializer.cpp" alt="" coords="887,80,1048,121"/>
+<area shape="rect" id="node7" href="$dd/d24/kernel_8cpp.html" title="src/core/kernel.cpp" alt="" coords="1073,87,1206,114"/>
+<area shape="rect" id="node8" href="$da/d9b/AuthFileInstance_8cpp.html" title="src/modules/auth/auth\l&#45;file/AuthFileInstance.cpp" alt="" coords="1230,80,1401,121"/>
+<area shape="rect" id="node9" href="$d3/dc5/FileAuthSourceMapper_8cpp.html" title="src/modules/auth/auth\l&#45;file/FileAuthSourceMapper.cpp" alt="" coords="1425,80,1629,121"/>
+<area shape="rect" id="node10" href="$d7/d29/AccessPointCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/AccessPointCRUD.cpp" alt="" coords="1653,80,1860,121"/>
+<area shape="rect" id="node11" href="$d7/d86/APIAuth_8cpp.html" title="src/modules/websock\l&#45;api/api/APIAuth.cpp" alt="" coords="1885,80,2034,121"/>
+<area shape="rect" id="node12" href="$d9/d8d/APISession_8cpp.html" title="src/modules/websock\l&#45;api/api/APISession.cpp" alt="" coords="2058,80,2221,121"/>
+<area shape="rect" id="node13" href="$d7/dde/DoorCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/DoorCRUD.cpp" alt="" coords="2245,80,2407,121"/>
+<area shape="rect" id="node14" href="$d1/de1/GroupCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/GroupCRUD.cpp" alt="" coords="2431,80,2599,121"/>
+<area shape="rect" id="node15" href="$df/dc4/MembershipCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/MembershipCRUD.cpp" alt="" coords="2624,80,2828,121"/>
+<area shape="rect" id="node16" href="$df/df7/UserCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/UserCRUD.cpp" alt="" coords="2852,80,3013,121"/>
+<area shape="rect" id="node17" href="$d6/dd1/Exceptions_8cpp.html" title="src/modules/websock\l&#45;api/Exceptions.cpp" alt="" coords="3038,80,3187,121"/>
+<area shape="rect" id="node18" href="$d4/d2c/WSServer_8cpp.html" title="src/modules/websock\l&#45;api/WSServer.cpp" alt="" coords="3211,80,3361,121"/>
+<area shape="rect" id="node19" href="$d7/d01/ScheduleMapping_8cpp.html" title="src/tools/ScheduleMapping.cpp" alt="" coords="3385,87,3589,114"/>
+<area shape="rect" id="node20" href="$d5/d58/AuthFile_8cpp.html" title="This file contains unit test suite related to the AuthFile module. " alt="" coords="3613,87,3735,114"/>
+<area shape="rect" id="node21" href="$d8/df5/GroupValidator_8cpp.html" title="test/GroupValidator.cpp" alt="" coords="3759,87,3917,114"/>
+</map>

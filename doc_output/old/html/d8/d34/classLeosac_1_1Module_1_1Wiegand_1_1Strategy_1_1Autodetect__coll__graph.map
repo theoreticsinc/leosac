@@ -1,0 +1,9 @@
+<map id="Leosac::Module::Wiegand::Strategy::Autodetect" name="Leosac::Module::Wiegand::Strategy::Autodetect">
+<area shape="rect" id="node2" href="$d5/d39/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1WiegandStrategy.html" title="The multiple modes available to wiegand reader are implemented through the strategy pattern..." alt="" coords="5,129,207,171"/>
+<area shape="rect" id="node12" href="$d1/db0/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1PinReading.html" title="Interface for a strategy that read a PIN code. " alt="" coords="283,5,466,47"/>
+<area shape="rect" id="node14" href="$de/d50/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1CardReading.html" title="Interface for a strategy that read a card number. " alt="" coords="283,71,466,112"/>
+<area shape="rect" id="node3" href="$d7/d64/classLeosac_1_1Module_1_1Wiegand_1_1WiegandReaderImpl.html" title="An implementation class that represents a Wiegand Reader. " alt="" coords="617,347,800,388"/>
+<area shape="rect" id="node5" href="$db/df5/classLeosac_1_1Hardware_1_1FLED.html" title="A Facade to a LED object. " alt="" coords="18,477,194,503"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="331,318,418,345"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="37,311,175,352"/>
+</map>

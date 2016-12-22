@@ -1,0 +1,18 @@
+<map id="src/tools/DatabaseLogSink.cpp" name="src/tools/DatabaseLogSink.cpp">
+<area shape="rect" id="node2" href="$d2/da0/DatabaseLogSink_8hpp.html" title="DatabaseLogSink.hpp" alt="" coords="1332,80,1495,107"/>
+<area shape="rect" id="node6" href="$d8/d1f/GenGuid_8h.html" title="GenGuid.h" alt="" coords="98,80,187,107"/>
+<area shape="rect" id="node9" href="$d4/d3d/log_8hpp.html" title="log.hpp" alt="" coords="319,80,388,107"/>
+<area shape="rect" id="node15" href="$df/dd4/DateTimeConverter_8hpp.html" title="tools/DateTimeConverter.hpp" alt="" coords="558,80,767,107"/>
+<area shape="rect" id="node18" href="$d9/d2c/LogEntry_8hpp.html" title="tools/LogEntry.hpp" alt="" coords="792,80,931,107"/>
+<area shape="rect" id="node19" href="$df/da2/database_8hpp.html" title="tools/db/database.hpp" alt="" coords="964,155,1129,181"/>
+<area shape="rect" id="node3" href="$d9/d69/db__fwd_8hpp.html" title="tools/db/db_fwd.hpp" alt="" coords="1617,304,1767,331"/>
+<area shape="rect" id="node22" href="$d0/dee/DBService_8hpp.html" title="tools/db/DBService.hpp" alt="" coords="1435,229,1605,256"/>
+<area shape="rect" id="node23" href="$d3/dd8/IAuditEntry_8hpp.html" title="core/audit/IAuditEntry.hpp" alt="" coords="935,304,1121,331"/>
+<area shape="rect" id="node28" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="1063,386,1233,413"/>
+<area shape="rect" id="node32" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="1473,379,1666,420"/>
+<area shape="rect" id="node33" href="$d2/d0e/UpdateFwd_8hpp.html" title="core/update/UpdateFwd.hpp" alt="" coords="1691,386,1893,413"/>
+<area shape="rect" id="node34" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="1257,386,1397,413"/>
+<area shape="rect" id="node24" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="865,386,1039,413"/>
+<area shape="rect" id="node29" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="698,386,841,413"/>
+<area shape="rect" id="node30" href="$d2/d91/Visitor_8hpp.html" title="tools/Visitor.hpp" alt="" coords="707,468,831,495"/>
+</map>

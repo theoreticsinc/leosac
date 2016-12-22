@@ -1,0 +1,16 @@
+<map id="src/tools/signalhandler.cpp" name="src/tools/signalhandler.cpp">
+<area shape="rect" id="node2" href="$d8/d11/signalhandler_8hpp.html" title="signal handler to provide a C++ interface for UNIX sigaction() " alt="" coords="81,80,216,107"/>
+<area shape="rect" id="node7" href="$dc/dce/signalexception_8hpp.html" title="Exception class for Signal related errors. " alt="" coords="884,80,1099,107"/>
+<area shape="rect" id="node24" href="$d8/d8e/unixsyscall_8hpp.html" title="unix syscall helper functions " alt="" coords="2039,304,2192,331"/>
+<area shape="rect" id="node9" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="915,155,1068,181"/>
+<area shape="rect" id="node10" href="$d6/d2f/Stacktrace_8hpp.html" title="tools/Stacktrace.hpp" alt="" coords="1693,229,1847,256"/>
+<area shape="rect" id="node14" href="$d7/d7a/configexception_8hpp.html" title="configexception.hpp" alt="" coords="1872,229,2023,256"/>
+<area shape="rect" id="node17" href="$d8/db0/coreexception_8hpp.html" title="Exception class for Core related errors. " alt="" coords="260,229,400,256"/>
+<area shape="rect" id="node18" href="$d8/d77/deviceexception_8hpp.html" title="Exception class for Device related errors. " alt="" coords="424,229,577,256"/>
+<area shape="rect" id="node19" href="$db/d35/dynlibexception_8hpp.html" title="Exception class for DynLib related errors. " alt="" coords="602,229,751,256"/>
+<area shape="rect" id="node20" href="$d0/d4e/fsexception_8hpp.html" title="Exception class for filesystem related errors. " alt="" coords="775,229,898,256"/>
+<area shape="rect" id="node21" href="$d1/d8e/gpioexception_8hpp.html" title="Exception class for Gpio related errors. " alt="" coords="922,229,1061,256"/>
+<area shape="rect" id="node22" href="$d7/d8c/moduleexception_8hpp.html" title="Exception class for modules. " alt="" coords="1085,229,1245,256"/>
+<area shape="rect" id="node23" href="$df/d8d/scriptexception_8hpp.html" title="Exception class for Script related errors. " alt="" coords="1269,229,1415,256"/>
+<area shape="rect" id="node15" href="$dd/d35/Colorize_8hpp.html" title="tools/Colorize.hpp" alt="" coords="1878,304,2014,331"/>
+</map>

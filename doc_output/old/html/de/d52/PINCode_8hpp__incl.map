@@ -1,0 +1,8 @@
+<map id="src/core/auth/PINCode.hpp" name="src/core/auth/PINCode.hpp">
+<area shape="rect" id="node2" href="$dc/d87/BaseAuthSource_8hpp.html" title="core/auth/BaseAuthSource.hpp" alt="" coords="213,80,436,107"/>
+<area shape="rect" id="node3" href="$db/d47/IAuthenticationSource_8hpp.html" title="core/auth/Interfaces\l/IAuthenticationSource.hpp" alt="" coords="93,155,287,196"/>
+<area shape="rect" id="node12" href="$dc/dfe/ValidityInfo_8hpp.html" title="core/auth/ValidityInfo.hpp" alt="" coords="409,162,592,189"/>
+<area shape="rect" id="node4" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="363,244,532,271"/>
+<area shape="rect" id="node8" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="93,244,236,271"/>
+<area shape="rect" id="node9" href="$d2/d91/Visitor_8hpp.html" title="tools/Visitor.hpp" alt="" coords="45,319,169,345"/>
+</map>

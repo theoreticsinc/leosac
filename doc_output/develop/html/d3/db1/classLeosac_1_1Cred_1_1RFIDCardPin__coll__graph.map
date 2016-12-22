@@ -1,0 +1,8 @@
+<map id="Leosac::Cred::RFIDCardPin" name="Leosac::Cred::RFIDCardPin">
+<area shape="rect" id="node2" href="$da/d77/classLeosac_1_1Cred_1_1Credential.html" title="An ODB enabled credential object. " alt="" coords="579,93,745,120"/>
+<area shape="rect" id="node3" href="$d7/db0/classLeosac_1_1Cred_1_1ICredential.html" title="Base interface for credential objects. " alt="" coords="227,7,398,33"/>
+<area shape="rect" id="node4" href="$d0/d33/classLeosac_1_1Tools_1_1IVisitable.html" title="Base class to make an object visitable. " alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="273,60,353,87"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="25,57,152,98"/>
+<area shape="rect" id="node8" href="$d9/d24/classLeosac_1_1Auth_1_1ValidityInfo.html" title="A simple class that stores (and can be queried for) the validity of some objects. ..." alt="" coords="227,177,399,204"/>
+</map>

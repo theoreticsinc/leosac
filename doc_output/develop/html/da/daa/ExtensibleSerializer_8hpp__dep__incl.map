@@ -1,0 +1,28 @@
+<map id="src/tools/serializers/ExtensibleSerializer.hpp" name="src/tools/serializers/ExtensibleSerializer.hpp">
+<area shape="rect" id="node2" href="$d4/dbb/JSONService_8hpp.html" title="src/core/audit/serializers\l/JSONService.hpp" alt="" coords="807,95,971,136"/>
+<area shape="rect" id="node6" href="$de/d09/AccessPointService_8hpp.html" title="src/core/auth/AccessPoint\lService.hpp" alt="" coords="467,95,643,136"/>
+<area shape="rect" id="node9" href="$d2/d87/UpdateService_8hpp.html" title="src/core/update/UpdateService.hpp" alt="" coords="1696,102,1923,129"/>
+<area shape="rect" id="node19" href="$dd/d50/HardwareService_8hpp.html" title="src/hardware/HardwareService.hpp" alt="" coords="3492,102,3719,129"/>
+<area shape="rect" id="node3" href="$d5/dce/PolymorphicAuditSerializer_8cpp.html" title="src/core/audit/serializers\l/PolymorphicAuditSerializer.cpp" alt="" coords="437,191,643,233"/>
+<area shape="rect" id="node4" href="$dd/d24/kernel_8cpp.html" title="src/core/kernel.cpp" alt="" coords="927,199,1060,225"/>
+<area shape="rect" id="node5" href="$da/d6f/SMTPModule_8cpp.html" title="src/modules/smtp/SMTPModule.cpp" alt="" coords="668,199,903,225"/>
+<area shape="rect" id="node7" href="$dc/d02/AccessPointService_8cpp.html" title="src/core/auth/AccessPoint\lService.cpp" alt="" coords="5,191,181,233"/>
+<area shape="rect" id="node8" href="$d7/d29/AccessPointCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/AccessPointCRUD.cpp" alt="" coords="206,191,413,233"/>
+<area shape="rect" id="node10" href="$d8/d0b/UpdateDescriptorSerializer_8cpp.html" title="src/core/update/serializers\l/UpdateDescriptorSerializer.cpp" alt="" coords="2349,191,2555,233"/>
+<area shape="rect" id="node11" href="$de/dd9/UpdateService_8cpp.html" title="src/core/update/UpdateService.cpp" alt="" coords="2580,199,2807,225"/>
+<area shape="rect" id="node12" href="$d1/deb/AckUpdate_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/AckUpdate.cpp" alt="" coords="2831,184,3017,240"/>
+<area shape="rect" id="node13" href="$d0/dcd/CancelUpdate_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/CancelUpdate.cpp" alt="" coords="1084,184,1271,240"/>
+<area shape="rect" id="node14" href="$d4/d2d/CheckUpdate_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/CheckUpdate.cpp" alt="" coords="1295,184,1481,240"/>
+<area shape="rect" id="node15" href="$dd/d7b/CreateUpdate_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/CreateUpdate.cpp" alt="" coords="1505,184,1692,240"/>
+<area shape="rect" id="node16" href="$d9/d03/PendingUpdateGet_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/PendingUpdateGet.cpp" alt="" coords="1716,184,1903,240"/>
+<area shape="rect" id="node17" href="$d0/d36/UpdateGet_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/UpdateGet.cpp" alt="" coords="1927,184,2113,240"/>
+<area shape="rect" id="node18" href="$d1/d97/UpdateHistory_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/UpdateHistory.cpp" alt="" coords="2137,184,2324,240"/>
+<area shape="rect" id="node20" href="$d2/dc0/Device_8cpp.html" title="src/hardware/Device.cpp" alt="" coords="4266,199,4433,225"/>
+<area shape="rect" id="node21" href="$d9/dab/HardwareService_8cpp.html" title="src/hardware/HardwareService.cpp" alt="" coords="4457,199,4684,225"/>
+<area shape="rect" id="node22" href="$d6/d24/BuzzerSerializer_8cpp.html" title="src/hardware/serializers\l/BuzzerSerializer.cpp" alt="" coords="3041,191,3201,233"/>
+<area shape="rect" id="node23" href="$d4/d68/LEDSerializer_8cpp.html" title="src/hardware/serializers\l/LEDSerializer.cpp" alt="" coords="3225,191,3385,233"/>
+<area shape="rect" id="node24" href="$d6/d95/PFDigitalModule_8cpp.html" title="src/modules/pifacedigital\l/PFDigitalModule.cpp" alt="" coords="3410,191,3577,233"/>
+<area shape="rect" id="node25" href="$de/dc2/HardwareSearch_8cpp.html" title="src/modules/websock\l&#45;api/api/search/HardwareSearch.cpp" alt="" coords="3601,191,3834,233"/>
+<area shape="rect" id="node26" href="$d3/de8/wiegand_8cpp.html" title="src/modules/wiegand\l/wiegand.cpp" alt="" coords="3858,191,4003,233"/>
+<area shape="rect" id="node27" href="$d6/d48/WiegandConfigSerializer_8cpp.html" title="src/modules/wiegand\l/ws/WiegandConfigSerializer.cpp" alt="" coords="4027,191,4242,233"/>
+</map>

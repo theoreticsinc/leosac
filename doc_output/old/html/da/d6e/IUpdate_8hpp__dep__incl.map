@@ -1,0 +1,22 @@
+<map id="src/core/update/IUpdate.hpp" name="src/core/update/IUpdate.hpp">
+<area shape="rect" id="node2" href="$d4/dbe/AuditFactory_8cpp.html" title="src/core/audit/AuditFactory.cpp" alt="" coords="160,95,377,121"/>
+<area shape="rect" id="node3" href="$df/d48/UpdateSerializer_8cpp.html" title="src/core/update/serializers\l/UpdateSerializer.cpp" alt="" coords="401,87,592,129"/>
+<area shape="rect" id="node4" href="$d0/d93/Update_8hpp.html" title="src/core/update/Update.hpp" alt="" coords="616,95,817,121"/>
+<area shape="rect" id="node15" href="$d1/deb/AckUpdate_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/AckUpdate.cpp" alt="" coords="842,80,1053,136"/>
+<area shape="rect" id="node16" href="$d0/dcd/CancelUpdate_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/CancelUpdate.cpp" alt="" coords="1077,80,1287,136"/>
+<area shape="rect" id="node17" href="$d4/d2d/CheckUpdate_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/CheckUpdate.cpp" alt="" coords="1311,80,1522,136"/>
+<area shape="rect" id="node18" href="$dd/d7b/CreateUpdate_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/CreateUpdate.cpp" alt="" coords="1546,80,1757,136"/>
+<area shape="rect" id="node19" href="$d9/d03/PendingUpdateGet_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/PendingUpdateGet.cpp" alt="" coords="1781,80,1991,136"/>
+<area shape="rect" id="node20" href="$d0/d36/UpdateGet_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/UpdateGet.cpp" alt="" coords="2015,80,2226,136"/>
+<area shape="rect" id="node21" href="$d1/d97/UpdateHistory_8cpp.html" title="src/modules/websock\l&#45;api/api/update&#45;management\l/UpdateHistory.cpp" alt="" coords="2250,80,2461,136"/>
+<area shape="rect" id="node5" href="$d0/d2b/AccessPointUpdate_8hpp.html" title="src/core/auth/AccessPoint\lUpdate.hpp" alt="" coords="514,184,701,225"/>
+<area shape="rect" id="node14" href="$de/d65/Update_8cpp.html" title="src/core/update/Update.cpp" alt="" coords="725,191,925,218"/>
+<area shape="rect" id="node6" href="$dd/de2/EvoXSAccessPoint_8cpp.html" title="/home/xaqq/Documents\l/leosac&#45;evoxs/EvoXSAccessPoint.cpp" alt="" coords="5,281,263,322"/>
+<area shape="rect" id="node7" href="$d3/d16/EvoXSAccessPointUpdate_8hpp.html" title="/home/xaqq/Documents\l/leosac&#45;evoxs/EvoXSAccessPoint\lUpdate.hpp" alt="" coords="339,273,569,329"/>
+<area shape="rect" id="node9" href="$d2/d68/EvoXSModule_8cpp.html" title="/home/xaqq/Documents\l/leosac&#45;evoxs/EvoXSModule.cpp" alt="" coords="87,385,314,426"/>
+<area shape="rect" id="node10" href="$d6/df8/EvoXSAccessPointUpdateSerializer_8cpp.html" title="/home/xaqq/Documents\l/leosac&#45;evoxs/serializers\l/EvoXSAccessPointUpdateSerializer.cpp" alt="" coords="594,377,869,433"/>
+<area shape="rect" id="node11" href="$d1/d88/AccessPoint_8cpp.html" title="src/core/auth/AccessPoint.cpp" alt="" coords="645,288,860,315"/>
+<area shape="rect" id="node12" href="$dc/dc8/AccessPointUpdate_8cpp.html" title="src/core/auth/AccessPoint\lUpdate.cpp" alt="" coords="885,281,1071,322"/>
+<area shape="rect" id="node13" href="$d0/d05/AccessPointUpdateSerializer_8cpp.html" title="src/core/update/serializers\l/AccessPointUpdateSerializer.cpp" alt="" coords="1095,281,1330,322"/>
+<area shape="rect" id="node8" href="$dd/d76/EvoXSAccessPointUpdate_8cpp.html" title="/home/xaqq/Documents\l/leosac&#45;evoxs/EvoXSAccessPoint\lUpdate.cpp" alt="" coords="339,377,569,433"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="src/core/SecurityContext.hpp" name="src/core/SecurityContext.hpp">
+<area shape="rect" id="node2" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="5,87,168,114"/>
+<area shape="rect" id="node7" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="192,87,349,114"/>
+<area shape="rect" id="node8" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="374,80,551,121"/>
+<area shape="rect" id="node9" href="$d9/dc8/HardwareFwd_8hpp.html" title="hardware/HardwareFwd.hpp" alt="" coords="899,87,1085,114"/>
+<area shape="rect" id="node17" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="576,87,712,114"/>
+<area shape="rect" id="node18" href="$d9/d69/db__fwd_8hpp.html" title="tools/db/db_fwd.hpp" alt="" coords="736,87,875,114"/>
+<area shape="rect" id="node10" href="$dc/dea/Uuid_8hpp.html" title="tools/Uuid.hpp" alt="" coords="939,169,1045,196"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="src/tools/db/OptionalTransaction.cpp" name="src/tools/db/OptionalTransaction.cpp">
+<area shape="rect" id="node2" href="$df/d73/OptionalTransaction_8hpp.html" title="OptionalTransaction.hpp" alt="" coords="873,80,1036,107"/>
+<area shape="rect" id="node25" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="1508,80,1604,107"/>
+<area shape="rect" id="node3" href="$df/da2/database_8hpp.html" title="database.hpp" alt="" coords="725,155,825,181"/>
+<area shape="rect" id="node4" href="$d9/d69/db__fwd_8hpp.html" title="db_fwd.hpp" alt="" coords="1019,304,1109,331"/>
+<area shape="rect" id="node8" href="$d0/dee/DBService_8hpp.html" title="tools/db/DBService.hpp" alt="" coords="577,229,737,256"/>
+<area shape="rect" id="node9" href="$d3/dd8/IAuditEntry_8hpp.html" title="core/audit/IAuditEntry.hpp" alt="" coords="785,304,959,331"/>
+<area shape="rect" id="node14" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="579,386,736,413"/>
+<area shape="rect" id="node20" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="166,379,343,420"/>
+<area shape="rect" id="node21" href="$d2/d0e/UpdateFwd_8hpp.html" title="core/update/UpdateFwd.hpp" alt="" coords="368,386,555,413"/>
+<area shape="rect" id="node22" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="5,386,141,413"/>
+<area shape="rect" id="node10" href="$d7/dcf/AuditFwd_8hpp.html" title="core/audit/AuditFwd.hpp" alt="" coords="987,386,1149,413"/>
+<area shape="rect" id="node15" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="1224,386,1357,413"/>
+<area shape="rect" id="node16" href="$d2/d91/Visitor_8hpp.html" title="tools/Visitor.hpp" alt="" coords="1222,468,1338,495"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="src/modules/pifacedigital/PFDigitalModule.hpp" name="src/modules/pifacedigital/PFDigitalModule.hpp">
+<area shape="rect" id="node2" href="$de/d19/PFDigitalPin_8hpp.html" title="PFDigitalPin.hpp" alt="" coords="771,102,891,129"/>
+<area shape="rect" id="node14" href="$d0/dc7/BaseModule_8hpp.html" title="modules/BaseModule.hpp" alt="" coords="1195,266,1367,293"/>
+<area shape="rect" id="node31" href="$d2/de6/ServiceRegistry_8hpp.html" title="tools/service/ServiceRegistry.hpp" alt="" coords="1907,266,2125,293"/>
+<area shape="rect" id="node42" href="$da/df4/websock-api_2WSHelperThread_8hpp.html" title="modules/websock&#45;api\l/WSHelperThread.hpp" alt="" coords="2253,95,2403,136"/>
+<area shape="rect" id="node3" href="$d9/d02/GPIO_8hpp.html" title="hardware/GPIO.hpp" alt="" coords="213,184,350,211"/>
+<area shape="rect" id="node4" href="$da/d14/Device_8hpp.html" title="hardware/Device.hpp" alt="" coords="209,266,354,293"/>
+<area shape="rect" id="node5" href="$d9/dc8/HardwareFwd_8hpp.html" title="hardware/HardwareFwd.hpp" alt="" coords="339,348,525,375"/>
+<area shape="rect" id="node6" href="$dc/dea/Uuid_8hpp.html" title="tools/Uuid.hpp" alt="" coords="440,430,547,457"/>
+<area shape="rect" id="node15" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="2209,348,2324,375"/>
+<area shape="rect" id="node18" href="$db/d33/ConfigChecker_8hpp.html" title="core/config/ConfigChecker.hpp" alt="" coords="1067,348,1269,375"/>
+<area shape="rect" id="node21" href="$db/d79/ConfigManager_8hpp.html" title="core/config/ConfigManager.hpp" alt="" coords="1293,348,1496,375"/>
+<area shape="rect" id="node23" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="1953,430,2049,457"/>
+<area shape="rect" id="node30" href="$d1/d91/ThreadUtils_8hpp.html" title="tools/ThreadUtils.hpp" alt="" coords="693,348,840,375"/>
+<area shape="rect" id="node22" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="1381,430,1582,457"/>
+<area shape="rect" id="node32" href="$de/d8c/JSONUtils_8hpp.html" title="tools/JSONUtils.hpp" alt="" coords="1991,348,2134,375"/>
+<area shape="rect" id="node36" href="$dc/dc2/bs2_8hpp.html" title="tools/bs2.hpp" alt="" coords="2553,348,2653,375"/>
+<area shape="rect" id="node38" href="$db/dd1/Registry_8hpp.html" title="tools/registry/Registry.hpp" alt="" coords="1793,348,1967,375"/>
+<area shape="rect" id="node33" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="2073,430,2231,457"/>
+<area shape="rect" id="node43" href="$d6/de5/CoreUtils_8hpp.html" title="core/CoreUtils.hpp" alt="" coords="2263,184,2393,211"/>
+<area shape="rect" id="node44" href="$d1/d56/GetServiceRegistry_8hpp.html" title="core/GetServiceRegistry.hpp" alt="" coords="1866,184,2057,211"/>
+<area shape="rect" id="node45" href="$d8/d3a/Service_8hpp.html" title="modules/websock&#45;api\l/Service.hpp" alt="" coords="2295,259,2443,300"/>
+<area shape="rect" id="node46" href="$d8/d8b/WebSockFwd_8hpp.html" title="WebSockFwd.hpp" alt="" coords="2399,348,2529,375"/>
+<area shape="rect" id="node47" href="$d3/db1/AssertCast_8hpp.html" title="tools/AssertCast.hpp" alt="" coords="2873,348,3018,375"/>
+</map>

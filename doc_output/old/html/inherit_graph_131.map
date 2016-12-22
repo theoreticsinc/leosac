@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$db/d24/classLeosac_1_1SecurityContext.html" title="A SecurityContext is used to query permission while doing an operation. " alt="" coords="5,31,183,57"/>
+<area shape="rect" id="node2" href="$dd/dc0/classLeosac_1_1SystemSecurityContext.html" title="A security context for system operation. " alt="" coords="231,5,457,32"/>
+<area shape="rect" id="node3" href="$da/d85/classLeosac_1_1UserSecurityContext.html" title="A SecurityContext object for users. " alt="" coords="241,56,447,83"/>
+<area shape="rect" id="node4" href="$d2/d3e/classLeosac_1_1NullSecurityContext.html" title="A SecurityContext with no permission. " alt="" coords="505,56,707,83"/>
+</map>

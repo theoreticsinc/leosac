@@ -1,0 +1,5 @@
+<map id="Leosac::Module::Wiegand::Strategy::PinReading" name="Leosac::Module::Wiegand::Strategy::PinReading">
+<area shape="rect" id="node3" href="$d8/d7d/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1WiegandPinBuffered.html" title="Strategy for PIN only, when up to 5 keys are buffered and sent as 26 bits. " alt="" coords="489,5,708,47"/>
+<area shape="rect" id="node4" href="$df/da3/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1WiegandPinNBitsOnly.html" title="Strategy for ready PIN only. " alt="" coords="485,71,712,127"/>
+<area shape="rect" id="node2" href="$d5/d39/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1WiegandStrategy.html" title="The multiple modes available to wiegand reader are implemented through the strategy pattern..." alt="" coords="5,43,207,84"/>
+</map>

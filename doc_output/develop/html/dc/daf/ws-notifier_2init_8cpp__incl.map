@@ -1,0 +1,31 @@
+<map id="src/modules/ws&#45;notifier/init.cpp" name="src/modules/ws&#45;notifier/init.cpp">
+<area shape="rect" id="node2" href="$dc/dbe/WebServiceNotifier_8hpp.html" title="WebServiceNotifier.hpp" alt="" coords="729,95,889,121"/>
+<area shape="rect" id="node29" href="$d4/d3d/log_8hpp.html" title="tools/log.hpp" alt="" coords="1371,326,1467,353"/>
+<area shape="rect" id="node3" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="5,415,163,442"/>
+<area shape="rect" id="node7" href="$d0/dc7/BaseModule_8hpp.html" title="modules/BaseModule.hpp" alt="" coords="2377,169,2549,196"/>
+<area shape="rect" id="node38" href="$d9/dd6/RFIDCard_8hpp.html" title="core/credentials/RFIDCard.hpp" alt="" coords="616,169,819,196"/>
+<area shape="rect" id="node8" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="819,326,933,353"/>
+<area shape="rect" id="node10" href="$db/d33/ConfigChecker_8hpp.html" title="core/config/ConfigChecker.hpp" alt="" coords="2740,244,2943,271"/>
+<area shape="rect" id="node13" href="$db/d79/ConfigManager_8hpp.html" title="core/config/ConfigManager.hpp" alt="" coords="2280,244,2483,271"/>
+<area shape="rect" id="node36" href="$d1/d91/ThreadUtils_8hpp.html" title="tools/ThreadUtils.hpp" alt="" coords="3459,244,3605,271"/>
+<area shape="rect" id="node14" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="2281,326,2482,353"/>
+<area shape="rect" id="node15" href="$d6/d2f/Stacktrace_8hpp.html" title="tools/Stacktrace.hpp" alt="" coords="1774,415,1917,442"/>
+<area shape="rect" id="node18" href="$d7/d7a/configexception_8hpp.html" title="configexception.hpp" alt="" coords="1941,415,2080,442"/>
+<area shape="rect" id="node21" href="$d8/db0/coreexception_8hpp.html" title="Exception class for Core related errors. " alt="" coords="2317,415,2445,442"/>
+<area shape="rect" id="node22" href="$d8/d77/deviceexception_8hpp.html" title="Exception class for Device related errors. " alt="" coords="2469,415,2611,442"/>
+<area shape="rect" id="node23" href="$db/d35/dynlibexception_8hpp.html" title="Exception class for DynLib related errors. " alt="" coords="2635,415,2773,442"/>
+<area shape="rect" id="node24" href="$d0/d4e/fsexception_8hpp.html" title="Exception class for filesystem related errors. " alt="" coords="2900,415,3015,442"/>
+<area shape="rect" id="node25" href="$d1/d8e/gpioexception_8hpp.html" title="Exception class for Gpio related errors. " alt="" coords="3039,415,3166,442"/>
+<area shape="rect" id="node26" href="$d7/d8c/moduleexception_8hpp.html" title="Exception class for modules. " alt="" coords="3190,415,3335,442"/>
+<area shape="rect" id="node27" href="$df/d8d/scriptexception_8hpp.html" title="Exception class for Script related errors. " alt="" coords="3359,415,3494,442"/>
+<area shape="rect" id="node28" href="$dc/dce/signalexception_8hpp.html" title="Exception class for Signal related errors. " alt="" coords="2105,415,2242,442"/>
+<area shape="rect" id="node19" href="$dd/d35/Colorize_8hpp.html" title="tools/Colorize.hpp" alt="" coords="1947,497,2074,524"/>
+<area shape="rect" id="node39" href="$d1/d40/Credential_8hpp.html" title="core/credentials/Credential.hpp" alt="" coords="340,244,543,271"/>
+<area shape="rect" id="node48" href="$dc/dd6/IRFIDCard_8hpp.html" title="core/credentials/IRFIDCard.hpp" alt="" coords="614,244,821,271"/>
+<area shape="rect" id="node40" href="$dc/dfe/ValidityInfo_8hpp.html" title="core/auth/ValidityInfo.hpp" alt="" coords="132,326,303,353"/>
+<area shape="rect" id="node42" href="$d0/db0/ICredential_8hpp.html" title="core/credentials/ICredential.hpp" alt="" coords="519,326,726,353"/>
+<area shape="rect" id="node47" href="$d8/d97/ToolsFwd_8hpp.html" title="tools/ToolsFwd.hpp" alt="" coords="373,415,509,442"/>
+<area shape="rect" id="node43" href="$d7/d7f/CredentialFwd_8hpp.html" title="core/credentials/Credential\lFwd.hpp" alt="" coords="534,408,711,449"/>
+<area shape="rect" id="node44" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="939,415,1072,442"/>
+<area shape="rect" id="node45" href="$d2/d91/Visitor_8hpp.html" title="tools/Visitor.hpp" alt="" coords="947,497,1063,524"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ModelException" name="ModelException">
+<area shape="rect" id="node2" href="$d7/d0e/classLEOSACException.html" title="A base class for Leosac specific exception. " alt="" coords="131,539,267,565"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="5,449,117,476"/>
+<area shape="rect" id="node4" href="$d2/de3/classLeosac_1_1Tools_1_1Stacktrace.html" title="Store information about a stacktrace at a given point in the program execution. " alt="" coords="197,449,379,476"/>
+<area shape="rect" id="node6" href="$d8/d1d/structLeosac_1_1Tools_1_1Stacktrace_1_1Frame.html" title="Leosac::Tools::Stacktrace\l::Frame" alt="" coords="193,200,375,241"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="241,96,327,123"/>
+<area shape="rect" id="node10" href="$db/db4/structModelException_1_1ModelError.html" title="Describes a model error. " alt="" coords="399,207,598,234"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="215,5,353,47"/>
+</map>

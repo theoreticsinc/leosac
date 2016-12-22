@@ -1,0 +1,9 @@
+<map id="src/exception/PermissionDenied.hpp" name="src/exception/PermissionDenied.hpp">
+<area shape="rect" id="node2" href="$db/dc2/SecurityContext_8cpp.html" title="src/core/SecurityContext.cpp" alt="" coords="5,102,212,129"/>
+<area shape="rect" id="node3" href="$d6/d73/PermissionDenied_8cpp.html" title="src/exception/Permission\lDenied.cpp" alt="" coords="237,95,418,136"/>
+<area shape="rect" id="node4" href="$d5/dcb/CRUDResourceHandler_8cpp.html" title="src/modules/websock\l&#45;api/api/CRUDResourceHandler.cpp" alt="" coords="443,95,687,136"/>
+<area shape="rect" id="node5" href="$d9/d7c/MethodHandler_8cpp.html" title="src/modules/websock\l&#45;api/api/MethodHandler.cpp" alt="" coords="711,95,909,136"/>
+<area shape="rect" id="node6" href="$d7/da0/PasswordChange_8cpp.html" title="src/modules/websock\l&#45;api/api/PasswordChange.cpp" alt="" coords="933,95,1141,136"/>
+<area shape="rect" id="node7" href="$d7/d0b/ExceptionConverter_8cpp.html" title="src/modules/websock\l&#45;api/ExceptionConverter.cpp" alt="" coords="1165,95,1367,136"/>
+<area shape="rect" id="node8" href="$d4/d2c/WSServer_8cpp.html" title="src/modules/websock\l&#45;api/WSServer.cpp" alt="" coords="1391,95,1549,136"/>
+</map>

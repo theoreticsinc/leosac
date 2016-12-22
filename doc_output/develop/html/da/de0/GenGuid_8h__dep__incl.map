@@ -1,0 +1,11 @@
+<map id="src/tools/GenGuid.h" name="src/tools/GenGuid.h">
+<area shape="rect" id="node2" href="$d3/d1e/CoreAPI_8cpp.html" title="src/core/CoreAPI.cpp" alt="" coords="5,87,153,114"/>
+<area shape="rect" id="node3" href="$dd/d24/kernel_8cpp.html" title="src/core/kernel.cpp" alt="" coords="178,87,311,114"/>
+<area shape="rect" id="node4" href="$d3/d71/Task_8cpp.html" title="src/core/tasks/Task.cpp" alt="" coords="335,87,498,114"/>
+<area shape="rect" id="node5" href="$de/dd9/UpdateService_8cpp.html" title="src/core/update/UpdateService.cpp" alt="" coords="522,87,749,114"/>
+<area shape="rect" id="node6" href="$d7/d86/APIAuth_8cpp.html" title="src/modules/websock\l&#45;api/api/APIAuth.cpp" alt="" coords="773,80,922,121"/>
+<area shape="rect" id="node7" href="$d9/d8d/APISession_8cpp.html" title="src/modules/websock\l&#45;api/api/APISession.cpp" alt="" coords="946,80,1109,121"/>
+<area shape="rect" id="node8" href="$d6/dfd/DatabaseLogSink_8cpp.html" title="src/tools/DatabaseLogSink.cpp" alt="" coords="1133,87,1337,114"/>
+<area shape="rect" id="node9" href="$d7/ded/Savepoint_8cpp.html" title="src/tools/db/Savepoint.cpp" alt="" coords="1361,87,1539,114"/>
+<area shape="rect" id="node10" href="$de/d5c/GenGuid_8cpp.html" title="src/tools/GenGuid.cpp" alt="" coords="1563,87,1715,114"/>
+</map>

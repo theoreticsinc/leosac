@@ -1,0 +1,51 @@
+<map id="src/exception/deviceexception.hpp" name="src/exception/deviceexception.hpp">
+<area shape="rect" id="node2" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="3365,80,3587,107"/>
+<area shape="rect" id="node3" href="$d3/d6e/Token_8hpp.html" title="src/core/auth/Token.hpp" alt="" coords="179,162,341,189"/>
+<area shape="rect" id="node7" href="$d4/dd1/User_8cpp.html" title="src/core/auth/User.cpp" alt="" coords="1099,162,1253,189"/>
+<area shape="rect" id="node8" href="$db/d79/ConfigManager_8hpp.html" title="src/core/config/ConfigManager.hpp" alt="" coords="1278,162,1503,189"/>
+<area shape="rect" id="node18" href="$d7/d7a/configexception_8hpp.html" title="src/exception/configexception.hpp" alt="" coords="2207,162,2427,189"/>
+<area shape="rect" id="node23" href="$d8/db0/coreexception_8hpp.html" title="Exception class for Core related errors. " alt="" coords="2452,162,2663,189"/>
+<area shape="rect" id="node24" href="$db/d35/dynlibexception_8hpp.html" title="Exception class for DynLib related errors. " alt="" coords="2687,162,2905,189"/>
+<area shape="rect" id="node26" href="$d0/d4e/fsexception_8hpp.html" title="Exception class for filesystem related errors. " alt="" coords="3171,162,3367,189"/>
+<area shape="rect" id="node30" href="$d1/d8e/gpioexception_8hpp.html" title="Exception class for Gpio related errors. " alt="" coords="3443,162,3653,189"/>
+<area shape="rect" id="node32" href="$d7/d8c/moduleexception_8hpp.html" title="Exception class for modules. " alt="" coords="4407,162,4633,189"/>
+<area shape="rect" id="node35" href="$df/d8d/scriptexception_8hpp.html" title="Exception class for Script related errors. " alt="" coords="2930,162,3147,189"/>
+<area shape="rect" id="node36" href="$dc/dce/signalexception_8hpp.html" title="Exception class for Signal related errors. " alt="" coords="4657,162,4876,189"/>
+<area shape="rect" id="node38" href="$de/d62/EntityNotFound_8hpp.html" title="src/exception/EntityNotFound.hpp" alt="" coords="3677,162,3897,189"/>
+<area shape="rect" id="node41" href="$de/d99/InvalidArgument_8hpp.html" title="src/exception/InvalidArgument.hpp" alt="" coords="4159,162,4382,189"/>
+<area shape="rect" id="node42" href="$dc/da6/enforce_8hpp.html" title="src/tools/enforce.hpp" alt="" coords="4196,251,4340,278"/>
+<area shape="rect" id="node43" href="$dc/d5b/ModelException_8hpp.html" title="src/exception/ModelException.hpp" alt="" coords="3422,251,3645,278"/>
+<area shape="rect" id="node44" href="$da/dc7/PermissionDenied_8hpp.html" title="src/exception/Permission\lDenied.hpp" alt="" coords="4901,155,5070,196"/>
+<area shape="rect" id="node45" href="$d2/df6/CredentialCRUD_8cpp.html" title="src/modules/websock\l&#45;api/api/CredentialCRUD.cpp" alt="" coords="5095,155,5287,196"/>
+<area shape="rect" id="node46" href="$d2/de9/Exceptions_8hpp.html" title="src/modules/websock\l&#45;api/Exceptions.hpp" alt="" coords="645,155,795,196"/>
+<area shape="rect" id="node47" href="$de/d8c/JSONUtils_8hpp.html" title="src/tools/JSONUtils.hpp" alt="" coords="3921,162,4085,189"/>
+<area shape="rect" id="node48" href="$d5/d9c/LogEntry_8cpp.html" title="src/tools/LogEntry.cpp" alt="" coords="5311,162,5465,189"/>
+<area shape="rect" id="node49" href="$dd/dcc/MyTime_8cpp.html" title="src/tools/MyTime.cpp" alt="" coords="5489,162,5637,189"/>
+<area shape="rect" id="node50" href="$db/dd1/Registry_8hpp.html" title="src/tools/registry\l/Registry.hpp" alt="" coords="5661,155,5779,196"/>
+<area shape="rect" id="node4" href="$d1/dd0/Token_8cpp.html" title="src/core/auth/Token.cpp" alt="" coords="179,251,341,278"/>
+<area shape="rect" id="node5" href="$da/d3c/APIAuth_8hpp.html" title="src/modules/websock\l&#45;api/api/APIAuth.hpp" alt="" coords="5,244,155,285"/>
+<area shape="rect" id="node6" href="$d6/dd1/Exceptions_8cpp.html" title="src/modules/websock\l&#45;api/Exceptions.cpp" alt="" coords="365,244,515,285"/>
+<area shape="rect" id="node9" href="$d6/dff/src_2core_2config_2ConfigManager_8cpp.html" title="src/core/config/ConfigManager.cpp" alt="" coords="905,423,1130,449"/>
+<area shape="rect" id="node10" href="$da/db5/RemoteConfigCollector_8cpp.html" title="src/core/config/RemoteConfig\lCollector.cpp" alt="" coords="1022,244,1218,285"/>
+<area shape="rect" id="node11" href="$d9/d1b/RemoteControl_8hpp.html" title="src/core/RemoteControl.hpp" alt="" coords="589,251,776,278"/>
+<area shape="rect" id="node12" href="$df/db8/kernel_8hpp.html" title="src/core/kernel.hpp" alt="" coords="832,341,965,367"/>
+<area shape="rect" id="node13" href="$d5/d8e/SyncConfig_8cpp.html" title="src/core/tasks/SyncConfig.cpp" alt="" coords="564,423,767,449"/>
+<area shape="rect" id="node14" href="$d6/d6c/module__manager_8hpp.html" title="src/core/module_manager.hpp" alt="" coords="800,251,997,278"/>
+<area shape="rect" id="node15" href="$d0/dc7/BaseModule_8hpp.html" title="src/modules/BaseModule.hpp" alt="" coords="1293,251,1488,278"/>
+<area shape="rect" id="node16" href="$de/d21/BaseModule_8cpp.html" title="src/modules/BaseModule.cpp" alt="" coords="1412,341,1607,367"/>
+<area shape="rect" id="node17" href="$d8/db2/test_2ConfigManager_8cpp.html" title="test/ConfigManager.cpp" alt="" coords="1513,251,1674,278"/>
+<area shape="rect" id="node19" href="$d7/de6/PropertyTreeExtractor_8cpp.html" title="src/tools/PropertyTreeExtractor.cpp" alt="" coords="2528,251,2757,278"/>
+<area shape="rect" id="node20" href="$d2/d6c/XmlNodeNameEnforcer_8cpp.html" title="src/tools/XmlNodeNameEnforcer.cpp" alt="" coords="1801,251,2039,278"/>
+<area shape="rect" id="node21" href="$dd/d4d/XmlPropertyTree_8cpp.html" title="src/tools/XmlPropertyTree.cpp" alt="" coords="2063,251,2262,278"/>
+<area shape="rect" id="node22" href="$d0/db9/XmlScheduleLoader_8cpp.html" title="src/tools/XmlScheduleLoader.cpp" alt="" coords="2286,251,2503,278"/>
+<area shape="rect" id="node25" href="$df/df1/dynamiclibrary_8cpp.html" title="DynamicLibrary class. " alt="" coords="2782,251,2973,278"/>
+<area shape="rect" id="node27" href="$d4/da8/unixfilewatcher_8cpp.html" title="UnixFileWatcher class implementation. " alt="" coords="3049,251,3237,278"/>
+<area shape="rect" id="node28" href="$df/de4/unixfs_8hpp.html" title="unix filesystem helper functions " alt="" coords="3261,251,3397,278"/>
+<area shape="rect" id="node29" href="$d3/d4f/unixshellscript_8cpp.html" title="UnixShellScript class implementation. " alt="" coords="3077,341,3261,367"/>
+<area shape="rect" id="node31" href="$d6/d95/PFDigitalModule_8cpp.html" title="src/modules/pifacedigital\l/PFDigitalModule.cpp" alt="" coords="3623,333,3790,375"/>
+<area shape="rect" id="node33" href="$d3/dc5/FileAuthSourceMapper_8cpp.html" title="src/modules/auth/auth\l&#45;file/FileAuthSourceMapper.cpp" alt="" coords="4294,333,4498,375"/>
+<area shape="rect" id="node34" href="$d5/d58/AuthFile_8cpp.html" title="This file contains unit test suite related to the AuthFile module. " alt="" coords="4365,251,4486,278"/>
+<area shape="rect" id="node37" href="$de/d2d/signalhandler_8cpp.html" title="signal handler to provide a C++ interface for UNIX sigaction() " alt="" coords="4678,251,4855,278"/>
+<area shape="rect" id="node39" href="$d4/d8b/EntityNotFound_8cpp.html" title="src/exception/EntityNotFound.cpp" alt="" coords="3770,251,3990,278"/>
+<area shape="rect" id="node40" href="$d2/dc7/led-buzzer_2ws_2CRUDHandler_8cpp.html" title="src/modules/led&#45;buzzer\l/ws/CRUDHandler.cpp" alt="" coords="4015,244,4172,285"/>
+</map>
